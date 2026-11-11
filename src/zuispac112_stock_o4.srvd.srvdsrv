@@ -1,0 +1,4 @@
+@EndUserText.label: 'UI service'
+define service ZUISPAC112_STOCK_O4 {
+  expose ZC_SPAC112_STOCK;
+}
