@@ -38,26 +38,17 @@ CLASS ZCL_SPAC112_DATA_LOADER IMPLEMENTATION.
   METHOD fill_table.
 *                                  ÆNDR TABELNAVNET
 *                                  vvvvvvvvvvvvvvvv
-    DATA: temp_table TYPE TABLE OF  zspac112_stock .
+    DATA: temp_table TYPE TABLE OF  zspac112_whouse .
 *                                  ^^^^^^^^^^^^^^^^
 
     temp_table = VALUE #(
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 *   Ændr data herunder, når du vil fylde data på andre tabeller
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-      ( warehouse_id = 1 product_id = 1 amount =   3 )
-      ( warehouse_id = 3 product_id = 4 amount =  42 )
-      ( warehouse_id = 2 product_id = 5 amount =   1 )
-      ( warehouse_id = 3 product_id = 5 amount = 321 )
-      ( warehouse_id = 3 product_id = 1 amount =  20 )
-      ( warehouse_id = 1 product_id = 5 amount =   9 )
-      ( warehouse_id = 2 product_id = 3 amount =   5 )
-      ( warehouse_id = 3 product_id = 2 amount =   4 )
-      ( warehouse_id = 1 product_id = 4 amount =   0 )
-      ( warehouse_id = 3 product_id = 3 amount =   8 )
-      ( warehouse_id = 1 product_id = 3 amount = 100 )
-      ( warehouse_id = 1 product_id = 2 amount =   7 )
-      ( warehouse_id = 2 product_id = 4 amount =   0 )
+      ( warehouse_id = 1 warehouse_address = 'Islands Brygge 45' warehouse_city = 'København S' warehouse_zipcode = '2300' warehouse_name = 'Lager København' )
+      ( warehouse_id = 2 warehouse_address = 'Sønder Allé 8'     warehouse_city = 'Aarhus C'    warehouse_zipcode = '8000' warehouse_name = 'Lager Aarhus'    )
+      ( warehouse_id = 3 warehouse_address = 'Havnegade 12'      warehouse_city = 'Esbjerg'     warehouse_zipcode = '6700' warehouse_name = 'Lager Esbjerg'   )
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 *   Ændr data herover, når du vil fylde data på andre tabeller
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -66,7 +57,7 @@ CLASS ZCL_SPAC112_DATA_LOADER IMPLEMENTATION.
     TRY.
 *            ÆNDR TABELNAVNET
 *            vvvvvvvvvvvvvvvv
-      INSERT  zspac112_stock  FROM TABLE @( CORRESPONDING #( temp_table ) ).
+      INSERT  zspac112_whouse  FROM TABLE @( CORRESPONDING #( temp_table ) ).
 *            ^^^^^^^^^^^^^^^^
 
     CATCH cx_sy_open_sql_db INTO DATA(lx).
@@ -82,7 +73,7 @@ CLASS ZCL_SPAC112_DATA_LOADER IMPLEMENTATION.
 
 *               ÆNDR TABELNAVNET
 *               vvvvvvvvvvvvvvvv
-    DELETE FROM  zspac112_stock .
+    DELETE FROM  zspac112_whouse .
 *               ^^^^^^^^^^^^^^^^
 
     IF sy-subrc <> 0.

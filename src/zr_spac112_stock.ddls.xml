@@ -6,7 +6,7 @@
     <DDLNAME>ZR_SPAC112_STOCK</DDLNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
     <DDTEXT>Data element for product stock</DDTEXT>
-    <SOURCE_TYPE>V</SOURCE_TYPE>
+    <SOURCE_TYPE>W</SOURCE_TYPE>
    </DDLS>
   </asx:values>
  </asx:abap>
