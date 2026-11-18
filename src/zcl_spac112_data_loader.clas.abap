@@ -18,7 +18,9 @@ CLASS ZCL_SPAC112_DATA_LOADER DEFINITION
 ENDCLASS.
 
 
+
 CLASS ZCL_SPAC112_DATA_LOADER IMPLEMENTATION.
+
 
   METHOD if_oo_adt_classrun~main.
 
@@ -74,6 +76,7 @@ CLASS ZCL_SPAC112_DATA_LOADER IMPLEMENTATION.
     r_output = |Inserted { sy-dbcnt } entries into table.|.
 
   ENDMETHOD.
+
 
   METHOD cleanup.
 
