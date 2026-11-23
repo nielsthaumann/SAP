@@ -1,0 +1,6 @@
+@EndUserText.label: 'ZR_SPAC112_ATS'
+@MappingRole: true
+define role ZR_SPAC112_ATS {
+  grant select on ZR_SPAC112_ATS
+  where TRUE;
+}

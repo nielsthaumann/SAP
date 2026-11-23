@@ -1,0 +1,307 @@
+@Metadata.layer: #CORE
+@UI.headerInfo.title.type: #STANDARD
+@UI.headerInfo.title.value: 'ResumeID'
+@UI.headerInfo.description.type: #STANDARD
+@UI.headerInfo.description.value: 'ResumeID'
+annotate view ZC_SPAC112_ATS with
+{
+  @UI.facet: [ {
+    label: 'General Information', 
+    id: 'GeneralInfo', 
+    purpose: #STANDARD, 
+    position: 10 , 
+    type: #IDENTIFICATION_REFERENCE
+  } ]
+  @EndUserText.label: 'ResumeID'
+  @UI.identification: [ {
+    position: 10 , 
+    label: 'ResumeID'
+  } ]
+  @UI.lineItem: [ {
+    position: 10 , 
+    label: 'ResumeID'
+  } ]
+  @UI.selectionField: [ {
+    position: 10 
+  } ]
+  ResumeID;
+  
+  @EndUserText.label: 'ResumeText'
+  @UI.identification: [ {
+    position: 20 , 
+    label: 'ResumeText'
+  } ]
+  @UI.lineItem: [ {
+    position: 20 , 
+    label: 'ResumeText'
+  } ]
+  @UI.selectionField: [ {
+    position: 20 
+  } ]
+  ResumeText;
+  
+  @EndUserText.label: 'ResumeSkills'
+  @UI.identification: [ {
+    position: 30 , 
+    label: 'ResumeSkills'
+  } ]
+  @UI.lineItem: [ {
+    position: 30 , 
+    label: 'ResumeSkills'
+  } ]
+  @UI.selectionField: [ {
+    position: 30 
+  } ]
+  ResumeSkills;
+  
+  @EndUserText.label: 'ExperienceYears'
+  @UI.identification: [ {
+    position: 40 , 
+    label: 'ExperienceYears'
+  } ]
+  @UI.lineItem: [ {
+    position: 40 , 
+    label: 'ExperienceYears'
+  } ]
+  @UI.selectionField: [ {
+    position: 40 
+  } ]
+  ExperienceYears;
+  
+  @EndUserText.label: 'EducationLevel'
+  @UI.identification: [ {
+    position: 50 , 
+    label: 'EducationLevel'
+  } ]
+  @UI.lineItem: [ {
+    position: 50 , 
+    label: 'EducationLevel'
+  } ]
+  @UI.selectionField: [ {
+    position: 50 
+  } ]
+  EducationLevel;
+  
+  @EndUserText.label: 'Projects'
+  @UI.identification: [ {
+    position: 60 , 
+    label: 'Projects'
+  } ]
+  @UI.lineItem: [ {
+    position: 60 , 
+    label: 'Projects'
+  } ]
+  @UI.selectionField: [ {
+    position: 60 
+  } ]
+  Projects;
+  
+  @EndUserText.label: 'Certifications'
+  @UI.identification: [ {
+    position: 70 , 
+    label: 'Certifications'
+  } ]
+  @UI.lineItem: [ {
+    position: 70 , 
+    label: 'Certifications'
+  } ]
+  @UI.selectionField: [ {
+    position: 70 
+  } ]
+  Certifications;
+  
+  @EndUserText.label: 'JobRole'
+  @UI.identification: [ {
+    position: 80 , 
+    label: 'JobRole'
+  } ]
+  @UI.lineItem: [ {
+    position: 80 , 
+    label: 'JobRole'
+  } ]
+  @UI.selectionField: [ {
+    position: 80 
+  } ]
+  JobRole;
+  
+  @EndUserText.label: 'RequiredSkills'
+  @UI.identification: [ {
+    position: 90 , 
+    label: 'RequiredSkills'
+  } ]
+  @UI.lineItem: [ {
+    position: 90 , 
+    label: 'RequiredSkills'
+  } ]
+  @UI.selectionField: [ {
+    position: 90 
+  } ]
+  RequiredSkills;
+  
+  @EndUserText.label: 'JobExperienceRequired'
+  @UI.identification: [ {
+    position: 100 , 
+    label: 'JobExperienceRequired'
+  } ]
+  @UI.lineItem: [ {
+    position: 100 , 
+    label: 'JobExperienceRequired'
+  } ]
+  @UI.selectionField: [ {
+    position: 100 
+  } ]
+  JobExperienceRequired;
+  
+  @EndUserText.label: 'JobDescription'
+  @UI.identification: [ {
+    position: 110 , 
+    label: 'JobDescription'
+  } ]
+  @UI.lineItem: [ {
+    position: 110 , 
+    label: 'JobDescription'
+  } ]
+  @UI.selectionField: [ {
+    position: 110 
+  } ]
+  JobDescription;
+  
+  @EndUserText.label: 'SkillMatchScore'
+  @UI.identification: [ {
+    position: 120 , 
+    label: 'SkillMatchScore'
+  } ]
+  @UI.lineItem: [ {
+    position: 120 , 
+    label: 'SkillMatchScore'
+  } ]
+  @UI.selectionField: [ {
+    position: 120 
+  } ]
+  SkillMatchScore;
+  
+  @EndUserText.label: 'ExperienceMatch'
+  @UI.identification: [ {
+    position: 130 , 
+    label: 'ExperienceMatch'
+  } ]
+  @UI.lineItem: [ {
+    position: 130 , 
+    label: 'ExperienceMatch'
+  } ]
+  @UI.selectionField: [ {
+    position: 130 
+  } ]
+  ExperienceMatch;
+  
+  @EndUserText.label: 'EducationMatch'
+  @UI.identification: [ {
+    position: 140 , 
+    label: 'EducationMatch'
+  } ]
+  @UI.lineItem: [ {
+    position: 140 , 
+    label: 'EducationMatch'
+  } ]
+  @UI.selectionField: [ {
+    position: 140 
+  } ]
+  EducationMatch;
+  
+  @EndUserText.label: 'FinalScore'
+  @UI.identification: [ {
+    position: 150 , 
+    label: 'FinalScore'
+  } ]
+  @UI.lineItem: [ {
+    position: 150 , 
+    label: 'FinalScore'
+  } ]
+  @UI.selectionField: [ {
+    position: 150 
+  } ]
+  FinalScore;
+  
+  @EndUserText.label: 'Shortlisted'
+  @UI.identification: [ {
+    position: 160 , 
+    label: 'Shortlisted'
+  } ]
+  @UI.lineItem: [ {
+    position: 160 , 
+    label: 'Shortlisted'
+  } ]
+  @UI.selectionField: [ {
+    position: 160 
+  } ]
+  Shortlisted;
+  
+  @EndUserText.label: 'SimilarityScore'
+  @UI.identification: [ {
+    position: 170 , 
+    label: 'SimilarityScore'
+  } ]
+  @UI.lineItem: [ {
+    position: 170 , 
+    label: 'SimilarityScore'
+  } ]
+  @UI.selectionField: [ {
+    position: 170 
+  } ]
+  SimilarityScore;
+  
+  @UI.identification: [ {
+    position: 180 
+  } ]
+  @UI.lineItem: [ {
+    position: 180 
+  } ]
+  @UI.selectionField: [ {
+    position: 180 
+  } ]
+  CreatedBy;
+  
+  @UI.identification: [ {
+    position: 190 
+  } ]
+  @UI.lineItem: [ {
+    position: 190 
+  } ]
+  @UI.selectionField: [ {
+    position: 190 
+  } ]
+  CreatedAt;
+  
+  @UI.identification: [ {
+    position: 200 
+  } ]
+  @UI.lineItem: [ {
+    position: 200 
+  } ]
+  @UI.selectionField: [ {
+    position: 200 
+  } ]
+  LastChangedBy;
+  
+  @UI.identification: [ {
+    position: 210 
+  } ]
+  @UI.lineItem: [ {
+    position: 210 
+  } ]
+  @UI.selectionField: [ {
+    position: 210 
+  } ]
+  LastChangedAt;
+  
+  @UI.identification: [ {
+    position: 220 
+  } ]
+  @UI.lineItem: [ {
+    position: 220 
+  } ]
+  @UI.selectionField: [ {
+    position: 220 
+  } ]
+  LocalLastChanged;
+}

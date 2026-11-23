@@ -1,0 +1,63 @@
+managed implementation in class ZBP_R_SPAC112_ATS unique;
+strict ( 2 );
+with draft;
+extensible;
+define behavior for ZR_SPAC112_ATS alias ZrSpac112Ats
+persistent table ZSPAC112_ATS
+extensible
+draft table ZSPAC112_ATS_D
+etag master LocalLastChanged
+lock master total etag LastChangedAt
+authorization master( global )
+{
+  field ( mandatory : create )
+   ResumeID;
+
+  field ( readonly )
+   CreatedBy,
+   CreatedAt,
+   LastChangedBy,
+   LastChangedAt,
+   LocalLastChanged;
+
+  field ( readonly : update )
+   ResumeID;
+
+
+  create;
+  update;
+  delete;
+
+  draft action Activate optimized;
+  draft action Discard;
+  draft action Edit;
+  draft action Resume;
+  draft determine action Prepare;
+
+  mapping for ZSPAC112_ATS corresponding extensible
+  {
+    ResumeID = RESUME_ID;
+    ResumeText = RESUME_TEXT;
+    ResumeSkills = RESUME_SKILLS;
+    ExperienceYears = EXPERIENCE_YEARS;
+    EducationLevel = EDUCATION_LEVEL;
+    Projects = PROJECTS;
+    Certifications = CERTIFICATIONS;
+    JobRole = JOB_ROLE;
+    RequiredSkills = REQUIRED_SKILLS;
+    JobExperienceRequired = JOB_EXPERIENCE_REQUIRED;
+    JobDescription = JOB_DESCRIPTION;
+    SkillMatchScore = SKILL_MATCH_SCORE;
+    ExperienceMatch = EXPERIENCE_MATCH;
+    EducationMatch = EDUCATION_MATCH;
+    FinalScore = FINAL_SCORE;
+    Shortlisted = SHORTLISTED;
+    SimilarityScore = SIMILARITY_SCORE;
+    CreatedBy = CREATED_BY;
+    CreatedAt = CREATED_AT;
+    LastChangedBy = LAST_CHANGED_BY;
+    LastChangedAt = LAST_CHANGED_AT;
+    LocalLastChanged = LOCAL_LAST_CHANGED;
+  }
+
+}
