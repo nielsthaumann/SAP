@@ -1,0 +1,1797 @@
+﻿resume_id;resume_text;job_description;AI score;shortlisted;AI feedback
+R361;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Excel, React, Flask, Django, Docker, Power BI
+
+Experience:
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Node.js, Machine Learning, Data Analysis, Django, Power BI, Python, Docker.";82;1;Kandidaten har en stærk profil med relevant erfaring inden for flere af de ønskede teknologier, herunder Django, Docker og Power BI. Selvom jobbeskrivelsen nævner Node.js, Machine Learning og Data Analysis, som kandidaten ikke eksplicit fremhæver, er den samlede kompetenceprofil stadig meget lovende.
+R454;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Machine Learning, Node.js, Flask, Deep Learning, Python
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Google Data Analytics";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Machine Learning, React, NLP, PyTorch, TensorFlow, Java.";75;0;Kandidaten matcher kravene til erfaring (3 år) og har flere relevante færdigheder som Machine Learning, Python og TensorFlow. Dog mangler kandidaten eksplicit React og Java, hvilket er væsentlige kompetencer nævnt i jobbeskrivelsen, men det kan kompenseres for af den praktiske erfaring med Deep Learning.
+R29;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Machine Learning, Java, Docker, Flask, Cloud Computing, NLP, TensorFlow, Excel
+
+Experience:
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: Flask, NLP, Node.js, Excel.";85;1;Kandidaten matcher godt på flere områder, især med hensyn til færdigheder som Flask og NLP. Selvom jobbeskrivelsen specifikt nævner Node.js, som kandidaten ikke har listet, er den samlede profil stærk nok til at indikere potentiale, da erfaringen overstiger kravet og dækker relaterede områder.
+R190;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Java, C++, Data Analysis, Cloud Computing, Excel, PyTorch
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Machine Learning, Data Analysis, Flask, SQL, Docker, Cloud Computing.";35;0;Kandidaten mangler den primære frontend-fokus, som stillingen kræver. Selvom kandidaten har nogle relevante færdigheder som Data Analysis og Cloud Computing, opvejer det ikke manglen på specifikke frontend-kompetencer og den nødvendige erfaring.
+R93;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Deep Learning, Python, NLP
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+
+Certifications:
+Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: Power BI, TensorFlow, Java, NLP, Data Analysis, Flask, SQL.";45;1;Selvom kandidaten har relevant erfaring med NLP, TensorFlow og Flask, matcher CV'et ikke jobbeskrivelsens krav til en Frontend Developer. Jobbet efterspørger specifikke frontend-teknologier (som mangler i CV'et) og andre backend/data science kompetencer som Power BI, Java og SQL, hvilket reducerer den samlede match.
+R693;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Power BI, Data Analysis, Deep Learning
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: PyTorch, Node.js, Python, C++, Django.";28;0;Kandidaten mangler fundamentale frontend-kompetencer som Node.js, Python (i kontekst af webudvikling), C++ og Django, hvilket er et kritisk mismatch i forhold til jobbeskrivelsen. Selvom kandidaten har erfaring med webudvikling via Flask og React, opvejer det ikke manglen på de specificerede teknologier.
+R542;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+React, C++, Deep Learning, Data Analysis
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Java, Flask, Excel, Kubernetes.";58;0;Kandidaten har en stærk baggrund inden for webudvikling, men mangler den krævede Java-ekspertise og Kubernetes-erfaring. Selvom kandidaten har erfaring med Flask (som nævnt i projekter), er det ikke tilstrækkeligt til at kompensere for de væsentlige kompetencemangler i forhold til jobbeskrivelsen.
+R75;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Kubernetes, TensorFlow, React, Excel, Python, PyTorch, Cloud Computing
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Kubernetes, Cloud Computing, NLP, React, Docker, Power BI.";85;1;Kandidaten matcher jobbeskrivelsen godt, da de har den krævede erfaring på 3 år og besidder flere af de efterspurgte kompetencer som Kubernetes, React og Cloud Computing. Selvom kandidaten ikke nævner Docker eller NLP specifikt, dækker deres TensorFlow/PyTorch-erfaring over en del af det maskinlæringsrelaterede område, der kan være relevant.
+R370;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Kubernetes, Docker, Data Analysis, C++, Python
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Excel, Flask, Data Analysis, Cloud Computing, Django, React, NLP.";32;0;Kandidaten mangler den krævede Frontend-udviklingserfaring på 6 år, hvilket er et kritisk punkt i forhold til kernematch. Selvom kandidaten har nogle relevante færdigheder som React og Flask, vejer det ikke op for den manglende erfaring og de andre specifikke krav (Excel, Cloud Computing, Django, NLP), hvilket resulterer i en lav score.
+R634;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Node.js, Python, TensorFlow
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: React, NLP, Data Analysis, Docker, Java, Flask, Cloud Computing.";45;0;Kandidaten har en stærk baggrund inden for data science og machine learning, men mangler direkte erfaring med frontend-udvikling og de specificerede teknologier som React, Docker og Java. Selvom kandidatens Python-færdigheder kan overlappe med Flask, er den primære fokus på jobbeskrivelsen (frontend) ikke tydeligt repræsenteret i CV'et.
+R234;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Django, Flask, Machine Learning, NLP, Kubernetes, SQL, Excel, Data Analysis
+
+Experience:
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+NLP Certification";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Cloud Computing, Power BI, Data Analysis, Kubernetes, React, Excel.";85;1;Kandidaten matcher godt på flere områder, især Kubernetes, Data Analysis og Excel. Selvom jobbet specifikt søger en Frontend Developer, indikerer CV'et et bredere baggrund med både frontend (React) og backend erfaring, hvilket kan være en fordel.
+R232;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Data Analysis, Machine Learning, Java, Kubernetes, Cloud Computing, Power BI
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Google Data Analytics";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: SQL, Django, Java, Docker, Excel, React.";58;1;Kandidaten har en stærk baggrund inden for data science og backend-udvikling, men mangler direkte erfaring med frontend-udvikling (React) som specifikt efterspurgt i jobbeskrivelsen. Selvom kandidaten besidder flere relevante færdigheder som Java og cloud computing, opvejer det ikke den manglende frontend-fokus, hvilket trækker vurderingen ned.
+R844;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Machine Learning, Kubernetes, Cloud Computing, Python, Django, SQL, NLP
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: Data Analysis, C++, Excel.";35;0;Kandidaten har en stærk baggrund inden for data science og webudvikling, men jobbeskrivelsen efterspørger specifikt en Frontend Developer med fokus på C++ og Data Analysis. Selvom kandidaten har udviklet webapplikationer (React), mangler den specifikke frontend-fokus og de nævnte teknologier, hvilket er kritisk for kernematch.
+R728;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Docker, Cloud Computing, PyTorch, TensorFlow, Python, Java, Power BI, Excel
+
+Experience:
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+NLP Certification, Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: Django, TensorFlow, C++.";35;0;Kandidaten mangler den specifikke frontend-fokus, som stillingen kræver. Selvom kandidaten har TensorFlow på sit CV, er det ikke tilstrækkeligt til at kompensere for manglen på direkte frontend-erfaring og de specificerede teknologier (Django, C++), hvilket trækker scoren markant ned.
+R783;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Data Analysis, Cloud Computing, Python
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Microsoft Azure, AWS Certified";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Java, Django, Flask, NLP, Node.js.";25;0;Kandidaten mangler fuldstændigt den primære frontend-udviklingskompetence, som stillingen kræver. Selvom kandidaten har relevante færdigheder inden for backend-udvikling og data science, opfylder dette ikke kernen i en Frontend Developer rolle.
+R572;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Kubernetes, NLP, Flask, Deep Learning, React
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+Google Data Analytics";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Machine Learning, Django, SQL, Docker, Cloud Computing, React, Java.";62;0;Kandidaten matcher delvist stillingen som Frontend Developer, da der er overlap i React-færdighederne. Dog mangler kandidaten flere af de specificerede teknologier (Django, SQL, Docker, Cloud Computing, Java) og har mindre erfaring end det krævede 6 år, hvilket trækker scoren ned.
+R411;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Excel, C++, Node.js, Kubernetes, TensorFlow, Deep Learning
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+NLP Certification, Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: Kubernetes, C++, Python, NLP.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for flere af de ønskede områder, herunder Kubernetes og C++. Selvom jobbeskrivelsen specifikt nævner Python og NLP, mens CV'et fremhæver TensorFlow og Deep Learning (som er relateret til NLP), er der et tilstrækkeligt overlap til at betragte det som et godt match.
+R397;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Python, SQL, Django, Kubernetes, NLP, Docker
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: React, Django, SQL, Node.js, Excel, Cloud Computing.";78;1;Kandidaten har en stærk baggrund med relevante færdigheder som Django, SQL og Node.js, men CV'et lægger primært vægt på backend-udvikling og machine learning, hvilket ikke fuldt ud matcher den ønskede frontend-fokus i jobbeskrivelsen. Selvom kandidaten besidder mange af de nævnte færdigheder, er der en mangel på direkte erfaring med React, som er et centralt krav.
+R385;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Power BI, Java, Data Analysis, C++, Kubernetes, SQL
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: React, SQL, NLP.";65;1;Kandidaten matcher kravet om 5 års erfaring, men mangler eksplicit nævnelse af React i sine færdigheder. Selvom SQL er nævnt, er de øvrige efterspurgte kompetencer (NLP) ikke til stede, hvilket svækker matchningen betydeligt.
+R929;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+React, Data Analysis, Node.js, Excel
+
+Experience:
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Machine Learning, React, Java, TensorFlow.";38;0;Kandidaten mangler den krævede erfaring (3 år) og har ikke ekspertise i Java eller TensorFlow, som er specificeret i jobbeskrivelsen. Selvom kandidaten besidder React-færdigheder og har arbejdet med machine learning projekter, opfylder de ikke kernen i Frontend Developer rollen, der også forventes at inkludere backend kompetencer.
+R358;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Deep Learning, Node.js, C++, Data Analysis, Java, Excel, Flask, PyTorch
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+NLP Certification, Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: Node.js, Machine Learning, Java, Docker, Deep Learning, Cloud Computing.";78;1;Kandidaten matcher godt på flere teknologier nævnt i jobbeskrivelsen, herunder Node.js, Java, Deep Learning og har relevant erfaring med Machine Learning projekter. Dog er der et mismatch på Docker og Cloud Computing, samt manglende eksplicit erfaring med de specifikke områder inden for Machine Learning som jobbet muligvis efterspørger.
+R226;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Java, Cloud Computing, SQL, Deep Learning, Python, React
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Kubernetes, Django, Power BI, Java.";78;1;Kandidaten har en stærk baggrund inden for webudvikling med React, hvilket matcher jobtitlen Frontend Developer. Selvom de specifikke teknologier Kubernetes, Django og Power BI ikke nævnes direkte, demonstrerer kandidatens erfaring med Flask og andre relevante værktøjer potentiale for hurtig oplæring.
+R343;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Excel, NLP, Power BI, Kubernetes, Java, Python
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+Google Data Analytics, AWS Certified";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Deep Learning, Docker, Machine Learning, TensorFlow, Excel.";78;1;Kandidaten har en stærk profil med relevant erfaring inden for dataanalyse og machine learning, hvilket matcher jobbeskrivelsens fokus på deep learning og TensorFlow. Selvom stillingen specifikt er en Frontend Developer, indikerer CV'et ikke direkte frontend-udviklingskompetencer, men den tekniske baggrund kan være overførbar.
+R493;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Python, Data Analysis, Django, Kubernetes
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: Deep Learning, Node.js, Machine Learning, PyTorch, TensorFlow, NLP.";28;0;Kandidaten mangler den primære kernekompetence inden for frontend-udvikling, som stillingen specifikt efterspørger. Selvom kandidaten har relevante data science færdigheder og erfaring, opfylder dette ikke kravet om en Frontend Developer med de angivne teknologier (Deep Learning, Node.js, Machine Learning, PyTorch, TensorFlow, NLP).
+R184;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Machine Learning, Docker, React, Flask, Cloud Computing
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Data Analysis, Excel, NLP.";35;1;Kandidaten har en stærk baggrund inden for data science og backend-udvikling, men CV'et mangler eksplicit erfaring med frontend-udvikling. Selvom kandidatens færdigheder er relevante for visse aspekter af stillingen (f.eks. dataanalyse), opfylder de ikke kernen i en Frontend Developer rolle.
+R690;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Power BI, Python, Kubernetes, NLP, Node.js, Data Analysis
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+NLP Certification";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Machine Learning, NLP, Deep Learning.";35;0;Kandidaten mangler den krævede erfaring (2 år) og har ingen direkte erfaring med Machine Learning, Deep Learning, hvilket er et kritisk krav i jobbeskrivelsen. Selvom kandidaten besidder NLP-færdigheder og har udviklet webapplikationer, opvejer dette ikke det manglende match på de primære teknologier.
+R110;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Kubernetes, PyTorch, React, Java, Cloud Computing, Python
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified, NLP Certification";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: React, Excel, Java, SQL, Cloud Computing, Deep Learning, TensorFlow.";58;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder flere af de ønskede færdigheder (React, Java, Cloud Computing), og har relevant projektarbejde med TensorFlow, opvejer det ikke den manglende erfaring i forhold til jobbeskrivelsen.
+R276;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+C++, React, Power BI, Kubernetes, Cloud Computing, Docker
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: Node.js, Java, Machine Learning, Docker, Flask.";78;1;Kandidaten har en stærk profil med relevant erfaring inden for webudvikling, herunder brug af Flask og React. Selvom jobbeskrivelsen nævner Node.js, Java og Machine Learning, som kandidaten ikke eksplicit fremhæver, er der stadig et godt match baseret på den samlede kompetenceprofil og de gennemførte projekter.
+R16;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Docker, TensorFlow, Deep Learning
+
+Experience:
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: Docker, TensorFlow, Flask.";85;1;Kandidaten matcher godt på de ønskede færdigheder (Docker, TensorFlow) og har mere end den krævede erfaring. Selvom Flask ikke specifikt nævnes i CV'et, er det sandsynligt at kandidaten kan tilegne sig dette hurtigt, da TensorFlow og Deep Learning indikerer en solid Python-baggrund.
+R50;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Machine Learning, Deep Learning, Java, Node.js, TensorFlow, Power BI
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: TensorFlow, Flask, Deep Learning, PyTorch, Cloud Computing, Java, Power BI, C++.";28;0;Kandidaten mangler den krævede Frontend-erfaring (4 år) og har en Professional Summary, der angiver kun 1 års erfaring. Selvom kandidaten besidder nogle af de ønskede færdigheder som TensorFlow, Deep Learning, Java og Power BI, opvejer det ikke den manglende kernekompetence inden for Frontend-udvikling, hvilket resulterer i en lav score.
+R660;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Deep Learning, TensorFlow, Data Analysis, Machine Learning, Docker
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: C++, Flask, Node.js, PyTorch, Machine Learning, Data Analysis, Deep Learning.";28;0;Kandidaten mangler den primære frontend-fokus, som stillingen kræver. Selvom der er overlap i Machine Learning og Data Analysis kompetencerne, opvejer det ikke manglen på de specifikke frontend teknologier (C++, Node.js) nævnt i jobbeskrivelsen, hvilket resulterer i en lav score.
+R665;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Cloud Computing, React, C++
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Flask, Machine Learning, Deep Learning, C++, NLP.";35;0;Kandidaten mangler den krævede erfaring (6 år) og har ikke ekspertise i Machine Learning, Deep Learning eller NLP som specificeret i jobbeskrivelsen. Selvom kandidaten har nogle relevante færdigheder og projekter, er kernematchet utilstrækkeligt til at opfylde kravene til stillingen.
+R563;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+SQL, Django, PyTorch, Machine Learning, TensorFlow, Java, Node.js, Docker
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Django, SQL, Power BI, C++, Flask.";28;0;Kandidaten mangler den krævede Frontend-udviklingserfaring, hvilket er kernen i jobbet. Selvom kandidaten besidder nogle relevante færdigheder som SQL og Django, opvejer det ikke den manglende erfaring og de specifikke krav (C++, Power BI, Flask), der fremgår af jobbeskrivelsen.
+R32;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Node.js, Docker, Flask, Cloud Computing, NLP, TensorFlow, Power BI
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Google Data Analytics, Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Data Analysis, PyTorch, React, Excel.";68;0;Kandidaten mangler den krævede erfaring på 6 år, men har demonstreret relevant frontend-erfaring gennem projekter med React og Flask. Selvom Data Analysis og PyTorch ikke er direkte nævnt i CV'et, indikerer erfaringen med data processing og machine learning en vis overlapning.
+R90;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+React, Java, Deep Learning, Data Analysis, Excel, NLP, Cloud Computing
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+
+Certifications:
+NLP Certification";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Excel, React, Data Analysis, Power BI, Deep Learning, PyTorch, Django, Machine Learning.";85;1;Kandidaten matcher godt på flere områder, især React og Data Analysis. Selvom stillingen specifikt nævner Django og PyTorch, som kandidaten ikke har direkte erfaring med, kompenserer den samlede kompetenceprofil og de relevante projekter for dette, samt det overskydende antal års erfaring.
+R408;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+React, SQL, Cloud Computing, Deep Learning, Docker, Power BI, Machine Learning
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Microsoft Azure, Deep Learning Specialization";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: Kubernetes, React, C++, SQL, Data Analysis.";75;1;Kandidaten matcher godt på React og SQL, men mangler erfaring med Kubernetes og C++, hvilket er væsentlige krav i jobbeskrivelsen. Selvom kandidatens baggrund indeholder relevante kompetencer som Cloud Computing og Machine Learning, opvejer det ikke den manglende direkte erfaring med de specificerede teknologier.
+R289;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Docker, Flask, Python, Power BI, Machine Learning
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+NLP Certification";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Excel, Java, Data Analysis, Machine Learning.";35;0;Kandidaten mangler den direkte frontend-erfaring, som stillingen kræver. Selvom kandidaten har relevante kompetencer inden for Machine Learning og Python, opvejer det ikke manglen på specifik frontend udviklingserfaring, hvilket trækker scoren ned.
+R779;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Java, Flask, Python, React, SQL, Data Analysis, Cloud Computing
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Node.js, Power BI, Cloud Computing, Docker.";28;0;Kandidaten mangler den krævede Frontend Developer erfaring på 6 år, og CV'et indikerer primært en baggrund inden for data science/machine learning. Selvom der er overlap i Cloud Computing færdigheden, opfylder kandidaten ikke kernen i jobbeskrivelsen som en Frontend Developer.
+R497;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Machine Learning, Excel, Power BI, Kubernetes, Data Analysis, Django, Java
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: C++, Python, Machine Learning, NLP, Excel.";28;0;Kandidaten mangler den primære frontend-udviklingskompetence, da jobbeskrivelsen specifikt efterspørger det, mens CV'et fokuserer på machine learning og dataanalyse. Selvom der er overlap i nogle færdigheder (Excel, Machine Learning), opvejer dette ikke den fundamentale mangel på frontend-erfaring, hvilket trækker scoren markant ned.
+R306;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Deep Learning, SQL, PyTorch, Data Analysis, Node.js, Power BI
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Flask, NLP, Django, Deep Learning, Machine Learning.";35;1;Kandidaten har en stærk baggrund inden for data science og backend-udvikling, men mangler eksplicit erfaring med frontend-udvikling. Selvom kandidatens færdigheder overlapper med nogle af de nævnte teknologier (Deep Learning), er den primære fokus i jobbeskrivelsen på frontend, hvilket ikke tydeligt reflekteres i CV'et.
+R73;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+SQL, Node.js, Docker, PyTorch
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+AWS Certified";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Docker, SQL, PyTorch.";90;1;Kandidaten har en stærk profil med relevante færdigheder som Docker, SQL og PyTorch, der matcher jobbeskrivelsen. Selvom kandidatens erfaring (8 år) overstiger det krævede minimum (2 år), er den samlede profil meget lovende.
+R164;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Excel, Flask, Kubernetes, Docker, Power BI, Deep Learning, Machine Learning, Django
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: TensorFlow, C++, PyTorch, Machine Learning, Power BI.";78;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning og Power BI, hvilket matcher jobbeskrivelsens krav. Dog er der et mismatch i forhold til de specifikke teknologier (TensorFlow, C++, PyTorch) nævnt i jobbeskrivelsen, som ikke fremgår tydeligt af CV'et.
+R136;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Power BI, SQL, Flask
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+Google Data Analytics, AWS Certified";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: NLP, React, Docker.";32;0;Kandidaten mangler den krævede Frontend-fokus og erfaring på 5 år, hvilket er et kritisk mismatch i forhold til jobtitlen. Selvom kandidaten har React-erfaring fra projekter, opvejer det ikke den manglende kernekompetence inden for frontend-udvikling.
+R172;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Java, Machine Learning, Flask
+
+Experience:
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: Python, C++, Flask, Machine Learning, Cloud Computing, Excel, Deep Learning, TensorFlow.";48;1;Kandidaten har en stærk baggrund inden for Machine Learning og Flask, hvilket matcher nogle af de ønskede kompetencer. Dog er der et betydeligt mismatch i forhold til de primære teknologier (Python, C++, Cloud Computing, TensorFlow) som jobbeskrivelsen efterspørger, og kandidatens erfaring med backend-udvikling via Node.js er ikke direkte relevant for en Frontend Developer rolle.
+R180;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+C++, Node.js, Data Analysis, Django, NLP, React, Python
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Microsoft Azure, Deep Learning Specialization";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: Python, Cloud Computing, Docker, C++.";35;1;Kandidaten matcher ikke kernen i stillingen som Frontend Developer, da jobbeskrivelsen specifikt efterspørger frontend-specifikke færdigheder, som CV'et primært fokuserer på backend og data science. Selvom kandidaten har Python-færdigheder, er den samlede profil mere rettet mod en Data Scientist/Backend udvikler end en Frontend Developer.
+R560;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Excel, React, Kubernetes
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: React, NLP, PyTorch, Machine Learning, Python, TensorFlow.";42;0;Kandidaten mangler den krævede erfaring (1 år) og har ingen direkte NLP eller PyTorch erfaring, hvilket er afgørende for stillingen. Selvom kandidaten besidder React-færdigheder og har arbejdet med Machine Learning via TensorFlow, opvejer det ikke manglen på de specifikke teknologier og den nødvendige erfaring.
+R290;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+React, PyTorch, NLP, Node.js, Cloud Computing, Python, Flask, Django
+
+Experience:
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: TensorFlow, NLP, PyTorch.";85;1;Kandidaten har en stærk profil med relevante færdigheder som PyTorch, NLP og erfaring med TensorFlow, hvilket matcher jobbeskrivelsens krav. Selvom kandidaten har mere end de ønskede 1 års erfaring, er den samlede kompetenceprofil meget lovende.
+R298;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Java, SQL, Docker, Node.js, Power BI
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+NLP Certification, Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: SQL, Data Analysis, Django, PyTorch, Java, TensorFlow, React, Deep Learning.";38;1;Kandidaten har en stærk baggrund inden for data science og machine learning, men jobbeskrivelsen specifikt efterspørger en Frontend Developer. Selvom kandidaten besidder nogle relevante færdigheder som Java og SQL, mangler der et tydeligt fokus på frontend-udvikling (React), hvilket er afgørende for kernen i stillingen.
+R354;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Machine Learning, PyTorch, Java
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Node.js, React, Machine Learning, Deep Learning, Cloud Computing, NLP.";38;0;Kandidaten har en stærk baggrund inden for Machine Learning, men mangler eksplicit erfaring med Frontend-udvikling (React, Node.js) og de andre nævnte teknologier som Cloud Computing og NLP, hvilket er afgørende for stillingen. Selvom kandidatens erfaring og ML-kompetencer er relevante, opfylder det ikke kernen i en Frontend Developer rolle.
+R38;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Excel, Java, NLP, React, PyTorch, Cloud Computing, Power BI, Deep Learning
+
+Experience:
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: NLP, Cloud Computing, Flask.";35;1;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder flere af de ønskede færdigheder (NLP, Cloud Computing), opvejer det ikke den manglende erfaring og den primære fokus på frontend-udvikling.
+R150;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+PyTorch, Machine Learning, Cloud Computing, C++, NLP, SQL
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: NLP, Kubernetes, C++, Node.js, SQL, Django, Docker.";45;1;Kandidaten har en stærk baggrund inden for data science, men stillingen som Frontend Developer kræver primært fokus på frontend-udvikling. Selvom kandidaten besidder nogle relevante færdigheder (C++, SQL, NLP), mangler der et tydeligt match med de specifikke frontend-teknologier nævnt i jobbeskrivelsen (Node.js, Docker, Kubernetes, Django).
+R398;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Django, Deep Learning, React, Excel, Flask, SQL, PyTorch, Python
+
+Experience:
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Excel, Deep Learning, Django.";85;1;Kandidaten matcher stærkt på de efterspurgte færdigheder (Django, Deep Learning, Excel) og har mere erfaring end det krævede minimum. Selvom der ikke nævnes React eller Flask specifikt i jobbeskrivelsen, er kandidatens bredere kompetencesæt inden for Python-baseret udvikling meget relevant.
+R479;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Kubernetes, Excel, NLP, Cloud Computing, Machine Learning, Java, Flask
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: SQL, Kubernetes, Python, Deep Learning, Power BI, Cloud Computing, Flask.";28;0;Kandidaten mangler den krævede Frontend-erfaring på 3 år, hvilket er et kritisk punkt i forhold til kernematch. Selvom kandidaten besidder flere relevante færdigheder som Kubernetes og Flask, opvejer dette ikke det fundamentale krav om frontend-udviklingserfaring.
+R265;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+React, Python, SQL, PyTorch, Java, NLP
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+NLP Certification";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Cloud Computing, TensorFlow, SQL.";65;1;Kandidaten har en stærk profil med relevant erfaring inden for data science, men jobbeskrivelsen specifikt efterspørger en Frontend Developer. Selvom kandidaten besidder SQL-færdigheder og har arbejdet med datadrevne projekter, mangler der et tydeligt fokus på frontend udvikling i CV'et, hvilket er afgørende for kernen i stillingen.
+R43;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Node.js, Django, Python
+
+Experience:
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Kubernetes, Cloud Computing, React, Java, C++, Node.js, Machine Learning.";28;1;Kandidaten mangler den krævede kernekompetence inden for frontend-udvikling, da jobbeskrivelsen specifikt efterspørger Kubernetes, Cloud Computing, React, Java, C++ og Machine Learning, som ikke er tilstrækkeligt repræsenteret i CV'et. Selvom der er nogle overlappende færdigheder (Node.js og React), opvejer det ikke den manglende erfaring og de specifikke teknologier.
+R65;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Cloud Computing, React, Node.js, Deep Learning
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified, Google Data Analytics";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Django, Node.js, TensorFlow, NLP, React, PyTorch.";28;0;Kandidaten mangler den krævede Frontend Developer-erfaring på 3 år, hvilket er et kritisk punkt. Selvom kandidaten har nogle relevante færdigheder som React og Node.js, opvejer det ikke manglen på erfaring og de specifikke teknologier (Django, TensorFlow, PyTorch, NLP) nævnt i jobbeskrivelsen.
+R187;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Deep Learning, NLP, Excel, Python, TensorFlow
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: C++, React, Docker, SQL, Kubernetes, Node.js, NLP.";38;1;Kandidaten har en stærk baggrund inden for data science og machine learning, men mangler de specifikke frontend-udviklingsfærdigheder (React, Docker, Kubernetes, Node.js) der er efterspurgt i jobbeskrivelsen. Selvom NLP nævnes i begge dokumenter, dækker det forskellige aspekter af feltet.
+R194;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Docker, Data Analysis, Flask, Deep Learning
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Google Data Analytics";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Java, TensorFlow, Django, SQL, Deep Learning, Cloud Computing, PyTorch.";28;0;Kandidaten mangler den primære frontend-fokus, som stillingen kræver. Selvom der er overlap i Deep Learning, er de efterspurgte backend-teknologier (Java, TensorFlow, Django, SQL, Cloud Computing, PyTorch) ikke repræsenteret på CV'et, hvilket resulterer i en lav score.
+R429;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Data Analysis, Docker, Excel, Deep Learning, TensorFlow, C++, PyTorch
+
+Experience:
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Google Data Analytics, Deep Learning Specialization";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Deep Learning, TensorFlow, Data Analysis, SQL, Cloud Computing, Docker.";65;1;Kandidaten matcher delvist stillingen som Frontend Developer, da CV'et primært fokuserer på data science og machine learning, mens jobbeskrivelsen ikke specificerer disse områder. Selvom kandidaten besidder flere af de ønskede færdigheder (Data Analysis, Docker, Deep Learning, TensorFlow), er den manglende frontend-specifik erfaring en væsentlig begrænsning.
+R561;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Deep Learning, NLP, PyTorch, SQL, Data Analysis, Flask, Java
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Microsoft Azure, Google Data Analytics";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: NLP, Docker, Node.js, Python, Cloud Computing.";28;0;Kandidaten mangler den krævede Frontend Developer erfaring på 4 år, hvilket er et kritisk punkt. Selvom kandidaten har visse relevante færdigheder som Node.js og NLP, opvejer det ikke manglen på direkte frontend-udviklingserfaring, der definerer kernen i jobbet.
+R323;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Machine Learning, React, PyTorch, Data Analysis, NLP, Power BI, Excel
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: TensorFlow, Data Analysis, C++.";65;1;Kandidaten har en stærk baggrund inden for dataanalyse og cloud-teknologier, men mangler de specificerede tekniske færdigheder (TensorFlow, C++) der er direkte nævnt i jobbeskrivelsen. Selvom kandidatens erfaring med React og PyTorch kan være relevant for frontend udvikling, opvejer det ikke den manglende eksplicitte kompetence.
+R351;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Django, Flask, Python, NLP, Deep Learning
+
+Experience:
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+
+Certifications:
+Google Data Analytics, Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Kubernetes, Flask, Docker, React, PyTorch, TensorFlow, SQL, C++.";68;1;Kandidaten har en stærk baggrund inden for webudvikling med erfaring i Flask og React, hvilket matcher jobbeskrivelsen. Dog mangler kandidaten eksplicit erfaring med Kubernetes, Docker, PyTorch, TensorFlow, SQL og C++, hvilket reducerer den samlede score.
+R92;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Excel, React, Data Analysis, Node.js, Flask, PyTorch, Deep Learning, Django
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+NLP Certification, Google Data Analytics";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: Power BI, PyTorch, Java, Machine Learning, Data Analysis, NLP, Docker.";65;1;Kandidaten matcher delvist jobbeskrivelsen. Selvom kandidaten har den krævede erfaring på 4 år og besidder flere af de ønskede færdigheder (PyTorch, Data Analysis), er der et betydeligt mismatch i forhold til de primære teknologier nævnt i jobbeskrivelsen (Power BI, Java, Machine Learning, Docker, NLP) som ikke tydeligt fremgår af CV'et. Derfor vurderes matchet som moderat.
+R22;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Django, Flask, Data Analysis
+
+Experience:
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified, NLP Certification";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: Django, Java, Power BI, Machine Learning, Node.js, SQL, Kubernetes.";68;1;Kandidaten har en stærk baggrund inden for webudvikling, men mangler flere af de specificerede teknologier (Java, Power BI, Machine Learning, Kubernetes) i jobbeskrivelsen. Selvom kandidatens erfaring og færdigheder overlapper med nogle krav, er det samlede mismatch på de specifikke værktøjer betydeligt.
+R175;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Docker, Cloud Computing, Flask, Machine Learning, Java
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: Docker, Cloud Computing, NLP.";55;0;Kandidaten mangler den krævede erfaring (1 år) som angivet i jobbeskrivelsen, hvilket er en væsentlig faktor. Selvom kandidaten besidder flere relevante færdigheder (Docker, Cloud Computing), og har demonstreret praktisk anvendelse af nogle af dem gennem projekter, opvejer det ikke den manglende erfaring.
+R402;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Docker, Java, SQL, Data Analysis, React, Deep Learning, Kubernetes, C++
+
+Experience:
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: Cloud Computing, NLP, PyTorch, React.";85;1;Kandidaten matcher kernen i stillingen som Frontend Developer, da React nævnes både i jobbeskrivelsen og CV'et. Selvom kandidatens erfaring er mere omfattende end det krævede minimum på 1 år, opvejer de relevante færdigheder og projekter dette.
+R328;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+SQL, Cloud Computing, C++
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Google Data Analytics, NLP Certification";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: Machine Learning, Node.js, TensorFlow, Excel, Power BI, Java, PyTorch.";32;0;Kandidaten mangler den krævede Frontend-udviklingserfaring, hvilket er kernen i jobtitlen. Selvom kandidaten har erfaring med Machine Learning og TensorFlow, som nævnes i jobbeskrivelsen, opvejer det ikke manglen på de primære frontend-færdigheder og den nødvendige 5 års erfaring.
+R182;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Machine Learning, Django, TensorFlow, Deep Learning, Power BI, Python, Excel
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Google Data Analytics, NLP Certification";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Cloud Computing, Node.js, Kubernetes, Flask, C++, Docker, TensorFlow.";28;1;Kandidaten mangler den krævede frontend-udviklingserfaring (2 år) og har ingen direkte erfaring med de primære teknologier nævnt i jobbeskrivelsen (Cloud Computing, Node.js, Kubernetes, Flask, Docker). Selvom kandidaten besidder nogle relevante færdigheder som TensorFlow og Python, opvejer dette ikke manglen på den specifikke frontend-fokus.
+R486;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Flask, NLP, Docker, Power BI, Java
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+
+Certifications:
+AWS Certified";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: Cloud Computing, Data Analysis, Django.";38;0;Kandidaten mangler den krævede Frontend-udviklingserfaring, da CV'et primært fokuserer på backend-relaterede færdigheder som Flask og Power BI. Selvom kandidaten har erfaring med React (via webapplikationsprojektet), opvejer dette ikke det generelle mismatch i forhold til kernen i en Frontend Developer rolle.
+R177;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Deep Learning, React, TensorFlow
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: PyTorch, Power BI, Cloud Computing, Machine Learning, Data Analysis, Node.js, Docker.";62;0;Kandidaten har kun 1 års erfaring, hvor stillingen kræver 2 år. Selvom kandidaten demonstrerer relevante færdigheder som Node.js og Machine Learning, mangler de flere af de specificerede teknologier (PyTorch, Power BI, Cloud Computing, Docker) i jobbeskrivelsen, hvilket reducerer den samlede match.
+R211;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Django, PyTorch, Python, React, Java
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Power BI, C++, SQL, Kubernetes, Cloud Computing.";38;0;Kandidaten mangler den krævede Frontend-udviklingserfaring, da CV'et primært fokuserer på data science og backend-relaterede projekter. Selvom kandidaten har React-kompetencer, opvejer det ikke manglen på de specificerede frontend-teknologier og den nødvendige erfaring.
+R28;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Django, Excel, Docker, NLP
+
+Experience:
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Kubernetes, Data Analysis, SQL, Power BI, Java, Docker.";58;1;Kandidaten har en stærk baggrund inden for data science og webudvikling, men mangler direkte erfaring med frontend-udvikling som defineret af jobbeskrivelsen (Kubernetes, Data Analysis, SQL, Power BI, Java). Selvom Docker er nævnt, opvejer den manglende frontend-specifikke ekspertise det positive indtryk.
+R403;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Python, Django, Kubernetes, Power BI, Excel
+
+Experience:
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Power BI, SQL, Java, Deep Learning, NLP, PyTorch.";35;1;Kandidaten har en stærk baggrund inden for data science, men mangler direkte erfaring med frontend-udvikling som krævet i jobbeskrivelsen. Selvom kandidaten besidder nogle af de ønskede færdigheder (Power BI, Python), er den primære fokus på backend og dataanalyse, hvilket ikke matcher kernen i en Frontend Developer rolle.
+R107;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Cloud Computing, Excel, React, Node.js, Power BI, SQL, Docker
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Google Data Analytics";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Python, Flask, Deep Learning.";32;0;Kandidaten mangler den krævede ekspertise inden for Python, Flask og Deep Learning, som er centrale for stillingen som Frontend Developer. Selvom kandidaten har relevante færdigheder som React og Node.js, opvejer dette ikke det fundamentale mismatch i de specifikke teknologier.
+R62;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Flask, Kubernetes, Node.js, SQL
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Node.js, PyTorch, Data Analysis.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for webudvikling, herunder Node.js, som er et krav i jobbeskrivelsen. Selvom PyTorch og Data Analysis ikke direkte nævnes, indikerer kandidatens projekter og erfaring med datahåndtering en vis overlapning.
+R406;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+SQL, Flask, Django, C++, PyTorch, Docker, Machine Learning
+
+Experience:
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: Excel, React, SQL, Docker.";35;0;Kandidaten mangler den direkte frontend-erfaring, som stillingen kræver. Selvom kandidaten besidder nogle relevante færdigheder (SQL, Docker), vejer det ikke op for manglen på specifik frontend-kompetence og de 4 års erfaring.
+R287;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Excel, Deep Learning, Flask
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+Google Data Analytics";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Kubernetes, NLP, Python, React, Java, Node.js, Flask.";65;1;Kandidaten matcher delvist stillingen som Frontend Developer. Selvom kandidaten har 2 års erfaring, mangler der flere afgørende frontend-specifikke kompetencer (Kubernetes, NLP, React) og backend-teknologier (Java, Node.js), hvilket trækker vurderingen ned.
+R333;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+C++, Cloud Computing, SQL, Machine Learning
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: Cloud Computing, C++, Data Analysis, SQL, Node.js, NLP, React.";38;0;Kandidaten mangler den krævede Frontend Developer-erfaring på 4 år, hvilket er et kritisk punkt. Selvom kandidaten har nogle relevante færdigheder som React og Node.js, vejer det ikke op for manglen på direkte frontend-udviklingserfaring og de andre specificerede kompetencer (C++, Data Analysis, NLP).
+R45;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+PyTorch, NLP, TensorFlow, Node.js, Java, C++
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Django, Excel, Python, PyTorch, React.";78;1;Kandidaten har en stærk profil med relevant erfaring inden for webudvikling, herunder React. Selvom jobbeskrivelsen specifikt nævner Django, hvilket kandidaten ikke har direkte erfaring med, er der et godt overlap i andre nøglekompetencer og projekter, der indikerer potentiale.
+R418;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+NLP, Cloud Computing, Kubernetes
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Power BI, SQL, Cloud Computing, Kubernetes, Django.";58;0;Kandidaten mangler den krævede erfaring (6 år vs. 4 års erfaring) og har ikke SQL eller Django, som er eksplicit nævnt i jobbeskrivelsen. Selvom kandidaten besidder nogle relevante færdigheder som Cloud Computing og Kubernetes, opvejer det ikke manglen på de specifikke teknologier og den nødvendige erfaring.
+R392;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+PyTorch, Kubernetes, TensorFlow, Data Analysis, React
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: SQL, NLP, Machine Learning, TensorFlow, Python.";28;0;Kandidaten mangler den krævede erfaring (6 år) og har ikke SQL, NLP eller Machine Learning eksplicit nævnt i sine færdigheder. Selvom der er overlap med TensorFlow og React, opfylder kandidaten ikke kernen i jobbeskrivelsen som en Frontend Developer med de specificerede kompetencer.
+R102;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+PyTorch, Cloud Computing, Power BI, C++, Django
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: TensorFlow, React, Java, Docker, Cloud Computing, Django.";38;0;Kandidaten mangler den krævede Frontend Developer erfaring på 4 år, og selvom der er overlap i nogle færdigheder (React, Django, Cloud Computing), er TensorFlow og Java ikke nævnt. Kernematch-reglen fratrækker væsentligt scoren, da jobbet specifikt søger en Frontend Developer med de angivne teknologier.
+R208;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Kubernetes, PyTorch, Node.js
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+- Created interactive dashboards using Power BI
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: C++, Data Analysis, Java, Power BI, PyTorch, SQL, Cloud Computing.";62;1;Kandidaten har en stærk profil med relevant erfaring inden for machine learning og webudvikling, men jobbeskrivelsen efterspørger specifikke backend-teknologier (C++, Java, SQL) som kandidaten ikke demonstrerer. Selvom der er overlap i PyTorch og Power BI, opvejer det ikke manglen på de primære krav til en Frontend Developer.
+R389;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+TensorFlow, Data Analysis, Cloud Computing
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Microsoft Azure, Google Data Analytics";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: Excel, Python, C++, Node.js, Flask, NLP, Kubernetes.";32;0;Kandidaten mangler den primære frontend-fokus, som stillingen kræver. Selvom der er nogle overlappende teknologier (Node.js), er de nødvendige færdigheder (Excel, Python, C++, NLP, Kubernetes) ikke tilstrækkeligt repræsenteret i CV'et, hvilket trækker scoren markant ned.
+R255;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+C++, React, Deep Learning
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Google Data Analytics, NLP Certification";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: Node.js, SQL, React, C++, Data Analysis, PyTorch, NLP, Deep Learning.";38;1;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et betydeligt problem. Selvom kandidaten besidder nogle af de ønskede færdigheder (React, C++, Deep Learning), matcher baggrunden ikke kernen i en Frontend Developer rolle, da jobbeskrivelsen også efterspørger Node.js, SQL, Data Analysis, PyTorch og NLP – kompetencer som er sparsomt repræsenteret i CV'et.
+R274;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Deep Learning, Excel, TensorFlow, Node.js, Python
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Google Data Analytics, Deep Learning Specialization";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: React, NLP, Node.js, Java.";38;0;Kandidaten mangler den krævede Frontend-erfaring (3 år) og har ikke direkte erfaring med React eller NLP, hvilket er afgørende for stillingen. Selvom kandidaten besidder Node.js kompetencer og har relevante projekter, opvejer det ikke manglen på de primære krav.
+R223;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Python, Flask, C++, Power BI, Kubernetes
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization, NLP Certification";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: Kubernetes, PyTorch, Power BI, Excel, Java, Data Analysis, Cloud Computing, Machine Learning.";28;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket udgør et betydeligt mismatch. Selvom kandidaten besidder nogle relevante færdigheder som Kubernetes og Power BI, er de mange andre krav (Java, Data Analysis, Cloud Computing, Machine Learning, PyTorch) ikke dækket, og det manglende antal års erfaring trækker scoren ned.
+R256;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Docker, Deep Learning, React, Node.js, Power BI, Kubernetes, SQL
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: Data Analysis, Flask, TensorFlow.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for webudvikling, herunder React og Flask, som nævnes i jobbeskrivelsen. Selvom den krævede erfaring er 1 år, har kandidaten 9 års erfaring, hvilket kompenseres af de relevante projekter og færdigheder.
+R215;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+NLP, TensorFlow, Excel, Power BI, Deep Learning
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: Docker, Kubernetes, Excel, Django, SQL.";65;1;Kandidaten har en stærk baggrund inden for webudvikling, men mangler direkte erfaring med de specificerede teknologier (Docker, Kubernetes, Django, SQL) i jobbeskrivelsen. Selvom kandidatens færdigheder og projekter viser potentiale, er den manglende eksplicitte match på kerneteknologierne en væsentlig faktor.
+R939;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+SQL, Django, NLP
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 6 years.
+Skills required: Excel, TensorFlow, Django, Machine Learning, Flask, Power BI.";28;0;Kandidaten mangler den krævede Frontend-udviklingserfaring, hvilket er kernen i jobbet. Selvom kandidaten har nogle relevante færdigheder som Django og Power BI, opvejer det ikke den betydelige forskel i erfaring og de mange andre specifikke teknologier (Excel, TensorFlow, Machine Learning, Flask) der efterspørges.
+R96;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Cloud Computing, C++, Python, Excel, PyTorch
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+AWS Certified, Deep Learning Specialization";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: C++, Machine Learning, PyTorch, Docker, Node.js, TensorFlow, Flask.";78;1;Kandidaten har en stærk baggrund inden for Machine Learning og Python, hvilket matcher jobbeskrivelsens fokus på disse områder. Dog er der et mismatch i forhold til de specifikke teknologier nævnt (Node.js, TensorFlow, Docker, Flask), som kandidaten ikke eksplicit fremviser erfaring med.
+R889;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Cloud Computing, Machine Learning, SQL, Python, Docker
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified, Microsoft Azure";"We are hiring a Frontend Developer.
+Required experience: 1 years.
+Skills required: TensorFlow, Flask, Node.js, Excel, Machine Learning, Python, SQL.";35;0;Kandidaten mangler den krævede erfaring (1 år) og har ingen direkte frontend-erfaring, hvilket er kernen i jobtitlen 'Frontend Developer'. Selvom kandidaten besidder flere relevante færdigheder som Python, SQL og Machine Learning, opvejer dette ikke det fundamentale mismatch i forhold til stillingens primære fokus.
+R425;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Excel, Django, Docker, Python, Java, TensorFlow
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 5 years.
+Skills required: Machine Learning, NLP, Kubernetes, React, Cloud Computing, Docker, Data Analysis, Deep Learning.";28;0;Kandidaten mangler den krævede Frontend-udviklingserfaring på 5 år, og har ikke de primære kompetencer som Machine Learning, NLP, Kubernetes, Cloud Computing og Data Analysis. Selvom kandidaten besidder nogle relevante færdigheder (Docker, React), er det samlede match utilstrækkeligt til at opfylde kernen i jobbeskrivelsen.
+R589;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Python, Data Analysis, C++, Deep Learning
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+NLP Certification";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: PyTorch, Node.js, Cloud Computing, Docker.";38;0;Kandidaten har en stærk baggrund inden for data science og deep learning, men mangler direkte erfaring med frontend-udvikling og de specificerede teknologier (PyTorch, Node.js, Cloud Computing, Docker). Selvom kandidatens færdigheder overlapper i visse områder (Python), opfylder vedkommende ikke kernen i jobbeskrivelsen som en Frontend Developer.
+R920;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+React, Python, Deep Learning
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Machine Learning, Deep Learning, SQL, TensorFlow, React, Java.";28;0;Kandidaten mangler den krævede Frontend Developer erfaring (2 år) og har en professional summary der angiver 0 års erfaring. Selvom kandidaten besidder nogle relevante færdigheder som React og Deep Learning, opfylder de ikke kernen i jobbeskrivelsen, hvilket er et stort problem.
+R206;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+PyTorch, Docker, Excel, Kubernetes, React, Machine Learning
+
+Experience:
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+NLP Certification, Deep Learning Specialization";"We are hiring a Frontend Developer.
+Required experience: 2 years.
+Skills required: Deep Learning, Machine Learning, Power BI, Django, Kubernetes, Docker.";82;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning, Docker og Kubernetes, som matcher jobbeskrivelsen. Selvom stillingen specifikt nævner Django og Power BI, som kandidaten ikke eksplicit fremviser, er den samlede kompetenceprofil stadig meget lovende.
+R400;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Data Analysis, SQL, Python, Flask
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Java, Flask, Node.js, Machine Learning.";28;0;Kandidaten mangler den krævede Frontend Developer-erfaring (3 år) og har ingen erfaring, hvilket er et kritisk mismatch i forhold til kernen i jobtitlen. Selvom kandidaten besidder nogle relevante færdigheder som Flask og Python, opvejer dette ikke det fundamentale krav om erfaring.
+R281;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+SQL, Excel, Django
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: Kubernetes, Python, Node.js, React, Power BI.";23;0;Kandidaten mangler fuldstændigt den primære frontend-udviklingskompetence, som stillingen kræver. Selvom kandidaten har relevant erfaring inden for data science og cloud deployment, opvejer det ikke manglen på de specifikke frontend-færdigheder (React, Node.js) og Kubernetes.
+R293;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Excel, Deep Learning, Machine Learning
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 4 years.
+Skills required: NLP, TensorFlow, Power BI, SQL, Data Analysis, Flask, Excel.";78;1;Kandidaten har en stærk profil med relevant erfaring inden for webudvikling og dataanalyse, hvilket matcher jobbeskrivelsen godt. Selvom stillingen specifikt efterspørger NLP og TensorFlow, som kandidaten ikke nævner direkte, er der et overlap i kompetencer (Machine Learning/Deep Learning) og praktisk erfaring med Flask og Power BI.
+R7;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+SQL, TensorFlow, Deep Learning, Node.js, Cloud Computing, Power BI
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Frontend Developer.
+Required experience: 3 years.
+Skills required: Docker, Django, Node.js, TensorFlow, Java, Machine Learning, Flask, React.";75;1;Kandidaten har en stærk baggrund inden for Machine Learning og Node.js, hvilket matcher flere af de ønskede kompetencer. Dog er der manglende erfaring med Django, Java, Flask og React, som er væsentlige i forhold til jobbeskrivelsen, selvom kandidatens samlede erfaring overstiger det krævede antal år.

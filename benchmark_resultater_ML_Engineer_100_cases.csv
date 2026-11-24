@@ -1,0 +1,1804 @@
+﻿resume_id;resume_text;job_description;AI score;shortlisted;AI feedback
+R342;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Django, Excel, Python, Cloud Computing, Node.js, React
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: SQL, TensorFlow, Kubernetes.";38;1;Kandidaten har en betydelig erfaring, men mangler direkte nævnte ML-specifikke færdigheder som TensorFlow og Kubernetes. Selvom kandidatens Python-erfaring er relevant, opfylder CV'et ikke kernen i jobbeskrivelsen for en ML Engineer, hvilket trækker scoren ned.
+R559;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Flask, Data Analysis, TensorFlow, Kubernetes, NLP
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: Machine Learning, Docker, Excel, Python, C++.";58;0;Kandidaten mangler den krævede erfaring (3 år) og har ikke direkte nævnt Machine Learning i sit professionelle resumé, hvilket er en central del af ML Engineer-rollen. Selvom kandidatens færdigheder overlapper med nogle krav (Python, Data Analysis), vejer det negative fra manglende kernekompetencer tungere.
+R730;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Node.js, Power BI, Java
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: TensorFlow, Flask, Python, C++, Kubernetes, React, Cloud Computing.";65;0;Kandidaten har erfaring med TensorFlow, hvilket matcher et centralt krav i jobbeskrivelsen. Dog mangler kandidaten flere af de specificerede teknologier (Flask, C++, Kubernetes, React, Cloud Computing) og har en anden skillset (Node.js, Java, Power BI), hvilket reducerer den samlede match-score.
+R781;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+PyTorch, Kubernetes, Docker, Flask, Cloud Computing, Java
+
+Experience:
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Google Data Analytics, NLP Certification";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Excel, Kubernetes, Deep Learning, Power BI.";68;0;Kandidaten mangler den krævede erfaring på 5 år, men har flere relevante færdigheder som Kubernetes og Deep Learning (via TensorFlow). Selvom kernen i rollen som ML Engineer ikke er fuldt dækket af CV'et pga. den begrænsede erfaring, viser projekterne potentiale for at udføre de nødvendige opgaver.
+R125;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+React, TensorFlow, Node.js, Machine Learning, C++, Java, Deep Learning
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: Django, Excel, Docker.";75;1;Kandidaten har en stærk baggrund inden for Machine Learning, men mangler direkte erfaring med de specificerede værktøjer (Django, Excel, Docker) i jobbeskrivelsen. Selvom kandidatens erfaringsoversigt er relevant og imponerende, opvejer det ikke fuldstændig den manglende match på de specifikke teknologier.
+R458;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+PyTorch, Power BI, SQL, TensorFlow, NLP, Python, Machine Learning
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: Deep Learning, TensorFlow, Flask, Power BI, Machine Learning, Node.js.";65;0;Kandidaten mangler den krævede erfaring (2 år) som specificeret i jobbeskrivelsen, hvilket er et væsentligt punkt. Selvom kandidatens færdigheder overlapper med mange af de ønskede kompetencer og projekterne viser relevant praktisk erfaring, trækker det ned på den samlede score.
+R1063;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Flask, SQL, Django, PyTorch, Cloud Computing
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: SQL, Flask, C++, Deep Learning, Machine Learning.";45;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et betydeligt problem. Selvom kandidaten besidder nogle af de nødvendige færdigheder (SQL, Flask), mangler der væsentlige kompetencer som C++ og Deep Learning, hvilket trækker vurderingen ned.
+R797;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Docker, Kubernetes, TensorFlow, Cloud Computing, React, Power BI, C++, Python
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+NLP Certification";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Excel, NLP, Node.js, Kubernetes, Power BI.";38;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket udgør et betydeligt problem. Selvom kandidaten besidder flere relevante færdigheder som Kubernetes og Power BI, samt har en NLP-certificering, opvejer dette ikke det fundamentale mismatch i erfaringsniveauet.
+R1138;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+NLP, Power BI, React, Java
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+
+Certifications:
+NLP Certification, Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: Django, Cloud Computing, Excel, SQL, TensorFlow, Kubernetes.";28;0;Kandidaten mangler den krævede erfaring (4 år) og har ingen af de specificerede teknologier (Django, Cloud Computing, SQL, TensorFlow, Kubernetes). Selvom kandidaten demonstrerer interesse for relaterede områder som NLP og datahåndtering, opfylder CV'et ikke kernen i kravene til en ML Engineer.
+R214;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Java, Node.js, Flask, React
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Python, PyTorch, Data Analysis, Kubernetes, C++, Java, NLP, React.";68;1;Kandidaten har en stærk baggrund inden for data science og backend-udvikling, men mangler eksplicit erfaring med PyTorch og Kubernetes, som er centrale i jobbeskrivelsen. Selvom kandidatens TensorFlow-erfaring indikerer forståelse for deep learning, opvejer det ikke den specifikke efterspørgsel efter PyTorch.
+R467;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Docker, SQL, TensorFlow, NLP, PyTorch
+
+Experience:
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Google Data Analytics, AWS Certified";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Flask, Deep Learning, Django, Docker, Excel, PyTorch.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning, selvom der mangler eksplicit nævnelse af Django og Excel. De besidder de fleste afgørende færdigheder og demonstrerer praktisk erfaring gennem projekter og beskrevne opgaver, hvilket indikerer et godt match til rollen som ML Engineer.
+R275;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Deep Learning, PyTorch, React
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Google Data Analytics, NLP Certification";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: Java, NLP, Django.";68;1;Kandidaten har en stærk baggrund inden for data science, men mangler specifikke nævnte færdigheder som Java og Django. Selvom kandidatens erfaring med Deep Learning og NLP er relevant, opfylder det ikke fuldt ud kravene til en ML Engineer-rolle, hvor disse specifikke teknologier er efterspurgte.
+R300;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Power BI, Node.js, Cloud Computing
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+NLP Certification, Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: Excel, Power BI, React, Docker.";85;1;Kandidaten har en stærk baggrund inden for Machine Learning, hvilket matcher kernen i ML Engineer-rollen. Selvom kandidaten har mere erfaring end krævet (6 år vs. 3 år), og mangler nogle af de specificerede færdigheder (React, Docker), opvejes dette af den relevante erfaring med TensorFlow og Power BI.
+R329;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Cloud Computing, PyTorch, Kubernetes
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Flask, Excel, Java, React, TensorFlow, NLP.";32;0;Kandidaten mangler den krævede erfaring på 6 år, og det mest kritiske element – ekspertise inden for TensorFlow og NLP – er ikke nævnt. Selvom kandidaten har nogle relevante færdigheder (Flask, React) og har arbejdet med webudvikling, opvejer dette ikke manglen på kernekompetencer i Machine Learning.
+R282;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+SQL, TensorFlow, Power BI, Python, Data Analysis, Docker
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+
+Certifications:
+Microsoft Azure, Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Cloud Computing, SQL, Django, C++, PyTorch, Machine Learning, TensorFlow.";78;1;Kandidaten har en stærk baggrund inden for data science, men mangler eksplicit erfaring med C++ og Django, som er nævnt i jobbeskrivelsen. Selvom kandidatens færdigheder overlapper betydeligt med de ønskede kompetencer, og erfaringen overstiger kravet, trækker manglen på specifikke værktøjer ned.
+R327;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+C++, Django, React, Flask
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: TensorFlow, NLP, Java, React, Kubernetes.";58;1;Kandidaten har en stærk baggrund inden for webudvikling med React, men mangler eksplicit erfaring med TensorFlow og NLP, som er centrale i ML Engineer rollen. Selvom kandidatens generelle data science erfaring er relevant, opfylder den ikke kernen i jobbeskrivelsen om Machine Learning Engineering.
+R1097;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Kubernetes, Java, React
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: C++, Machine Learning, Excel, Python, Kubernetes.";68;0;Kandidaten har en stærk baggrund inden for relaterede områder, men mangler eksplicit erfaring med C++ og Python, som er afgørende i jobbeskrivelsen. Selvom kandidatens Kubernetes-færdigheder matcher, og de har relevant data science erfaring, trækker manglen på specifikke teknologier ned.
+R735;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+TensorFlow, Django, Kubernetes, Cloud Computing, React, NLP
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Docker, Cloud Computing, Flask.";45;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder nogle relevante færdigheder som Cloud Computing, matcher de ikke alle de specificerede krav (Docker, Flask) og har en mindre relevant skillset i forhold til kernen i ML Engineer rollen.
+R359;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Machine Learning, Java, PyTorch, Django, Deep Learning
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Google Data Analytics";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: PyTorch, Deep Learning, Kubernetes, Power BI, Java.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning, herunder PyTorch og Deep Learning. Selvom kandidaten har 9 års erfaring, hvor jobbet specifikt efterspurgte 3 år, er den samlede match-score stadig høj på grund af den omfattende erfaring og de relevante kompetencer.
+R145;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Django, Deep Learning, SQL, Cloud Computing, Java, Python, Power BI, Flask
+
+Experience:
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: NLP, Excel, TensorFlow, Django.";78;1;Kandidaten matcher jobbeskrivelsen relativt godt, da de har den krævede erfaring på 2 år og besidder flere af de ønskede færdigheder som Django og TensorFlow. Dog mangler der eksplicit NLP-erfaring, hvilket er en væsentlig kompetence for en ML Engineer.
+R436;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Excel, Data Analysis, Python, Kubernetes, Machine Learning
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Docker, Machine Learning, Python, PyTorch, Django.";65;0;Kandidaten mangler den krævede erfaring (6 år vs. 4 år), men har relevante færdigheder inden for Machine Learning og Python, hvilket er positivt. Selvom TensorFlow nævnes i projekterne, mangler der specifik erfaring med PyTorch og Django, som er eksplicit efterspurgt.
+R254;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Java, Machine Learning, Flask
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+NLP Certification, Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Docker, Kubernetes, SQL, Flask, React.";45;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten har nogle relevante færdigheder som Flask og React, samt erfaring med Machine Learning, opvejer det ikke den manglende erfaring og de andre specifikke krav (Docker, Kubernetes, SQL), der er afgørende for rollen.
+R528;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Java, Docker, React, Data Analysis, Node.js, Python
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: React, Deep Learning, Power BI, NLP, SQL.";78;0;Kandidaten har en stærk profil med relevant erfaring inden for flere områder, herunder React og Power BI. Selvom kandidaten har mere erfaring end krævet (9 år vs. 5 år), mangler der eksplicit dokumentation for Deep Learning og NLP, som er centrale kompetencer i jobbeskrivelsen, hvilket trækker vurderingen ned.
+R66;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Flask, Cloud Computing, Java, TensorFlow, Node.js, NLP
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+
+Certifications:
+NLP Certification, Google Data Analytics";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: Kubernetes, Deep Learning, SQL, C++, Excel.";58;0;Kandidaten mangler den krævede erfaring på 4 år, hvilket er et betydeligt minus. Selvom kandidaten har nogle relevante færdigheder som Deep Learning og TensorFlow, matcher de ikke alle de specificerede krav (Kubernetes, C++, SQL) og det samlede match er derfor begrænset.
+R341;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Node.js, NLP, Flask
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Machine Learning, Cloud Computing, Deep Learning, Python, Java, Power BI, Docker.";28;0;Kandidaten mangler den krævede erfaring på 6 år, og det mest kritiske element – en solid baggrund i de specificerede programmeringssprog (Python, Java) – er ikke til stede. Selvom kandidaten har vist interesse for Machine Learning og Power BI gennem projekter, opvejer dette ikke manglen på kernekompetencer og erfaring.
+R1081;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Python, TensorFlow, Java, Deep Learning
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Google Data Analytics, Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: Data Analysis, Cloud Computing, Kubernetes, NLP, TensorFlow.";35;0;Kandidaten mangler den krævede erfaring på 3 år, hvilket udgør et betydeligt mismatch i forhold til kernen i jobbet som ML Engineer. Selvom kandidaten besidder relevante færdigheder og har udført relaterede projekter, er det samlede match svækket af den manglende erhvervserfaring.
+R1212;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Deep Learning, Node.js, Flask, Data Analysis, Python, Java, TensorFlow, SQL
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+NLP Certification";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Data Analysis, PyTorch, TensorFlow, Flask, React, Power BI, Cloud Computing.";48;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder flere relevante færdigheder som TensorFlow, Flask og Data Analysis, opvejer det ikke den manglende erfaring i forhold til jobbeskrivelsens krav.
+R55;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Flask, Machine Learning, TensorFlow, Data Analysis, React, Power BI, Node.js
+
+Experience:
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified, Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: React, SQL, TensorFlow, Node.js.";92;1;Kandidaten har en stærk profil med relevante færdigheder som TensorFlow, React og Node.js, der matcher jobbeskrivelsen. Selvom kandidaten har 6 års erfaring, hvor jobbet kun kræver 1 år, er dette ikke et væsentligt problem, da den beskrevne erfaring er relevant.
+R268;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+C++, Kubernetes, Django, Data Analysis, Machine Learning, Cloud Computing, NLP
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: Docker, TensorFlow, Java.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning, hvilket matcher jobtitlen. Selvom kandidaten har 4 års erfaring, hvor jobbeskrivelsen kræver 1 år, opvejes dette af den beskrevne praktiske erfaring og de relevante projekter.
+R210;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Django, Kubernetes, Python, Excel
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+
+Certifications:
+Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: PyTorch, Excel, Django, Kubernetes, C++, Power BI, React.";78;1;Kandidaten matcher godt på flere områder, herunder Django, Kubernetes og Excel. Dog mangler kandidaten eksplicit PyTorch og C++, hvilket er væsentlige kompetencer i jobbeskrivelsen, men erfaringen med data processing og Power BI projekter kompenserer delvist for dette.
+R968;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Cloud Computing, Flask, NLP, Node.js
+
+Experience:
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: C++, React, Kubernetes, PyTorch, Excel, Deep Learning.";28;0;Kandidaten mangler den krævede erfaring (6 år) og flere afgørende tekniske færdigheder som C++, Kubernetes, PyTorch og Deep Learning. Selvom kandidaten har relevant data science erfaring, opfylder de ikke kernen i jobbeskrivelsen for en ML Engineer.
+R635;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Docker, NLP, Django, TensorFlow, Excel, SQL, Power BI
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: NLP, Node.js, PyTorch, Machine Learning, Power BI, React, C++, SQL.";35;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket udgør et betydeligt mismatch i forhold til jobbeskrivelsen. Selvom kandidaten besidder nogle relevante færdigheder som NLP og Power BI, opvejer det ikke manglen på erfaring og de specifikke teknologier (PyTorch, React, C++) nævnt i jobbeskrivelsen.
+R189;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Machine Learning, Docker, Django
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Microsoft Azure, Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: C++, Python, Node.js, Docker, Excel, Kubernetes, Django.";75;0;Kandidaten mangler den krævede erfaring (4 år vs. 3 år), men har relevante projekter og kompetencer inden for Machine Learning, Docker og Django, hvilket indikerer potentiale. Selvom C++, Node.js, Kubernetes og Excel ikke er nævnt, dækker de beskrevne projekter over mange af de underliggende principper.
+R151;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+PyTorch, Kubernetes, Java, NLP, C++, React, TensorFlow, Django
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: SQL, Cloud Computing, Django, Python.";85;1;Kandidaten matcher jobbeskrivelsen godt, da de har den krævede erfaring på 3 år og besidder flere af de ønskede færdigheder som Python og Django. Selvom CV'et indeholder et bredere udvalg af teknologier end specificeret i jobbeskrivelsen, er de nævnte kompetencer relevante for en ML Engineer rolle.
+R2;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+SQL, TensorFlow, C++, Docker, Node.js, Machine Learning
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+- Created interactive dashboards using Power BI
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: Docker, NLP, PyTorch, Node.js, Machine Learning, Cloud Computing.";58;1;Kandidaten mangler den krævede erfaring (3 år) og har ikke demonstreret ekspertise i NLP eller PyTorch, som er afgørende for rollen som ML Engineer. Selvom kandidaten besidder nogle relevante færdigheder og har udført relaterede projekter, opvejer det ikke manglen på kernekompetencer og den nødvendige erfaring.
+R1227;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Docker, C++, React
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: Machine Learning, Java, SQL.";68;0;Kandidaten har en stærk baggrund inden for data science og machine learning, men mangler de specificerede færdigheder Java og SQL. Selvom erfaringen er mere end den krævede, opvejer det ikke manglen på de specifikke teknologier, hvilket reducerer scoren.
+R171;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+React, Docker, Data Analysis, NLP, Django
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Google Data Analytics, NLP Certification";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Java, Kubernetes, Excel, PyTorch, C++, Python, Cloud Computing, React.";62;0;Kandidaten matcher kravene til erfaring (6 år) og har nogle relevante færdigheder som React. Dog mangler der flere afgørende kompetencer nævnt i jobbeskrivelsen, herunder Java, Kubernetes, PyTorch, C++, Python og Cloud Computing, hvilket er kritisk for en ML Engineer rolle.
+R91;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Data Analysis, React, Cloud Computing, TensorFlow, NLP
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+NLP Certification, Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: C++, SQL, Docker.";65;1;Kandidaten har en stærk baggrund inden for machine learning, men mangler de specificerede tekniske færdigheder (C++, SQL, Docker) i jobbeskrivelsen. Selvom kandidatens erfaring og projekter viser relevant ekspertise, er den manglende direkte match på de krævede værktøjer en væsentlig faktor.
+R114;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Cloud Computing, Kubernetes, Python
+
+Experience:
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+NLP Certification, Google Data Analytics";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: Excel, React, Deep Learning, SQL, TensorFlow.";68;1;Kandidaten matcher kravene til erfaring (4 år) og har demonstreret relevant projektarbejde med React, hvilket er positivt. Dog mangler CV'et eksplicitte referencer til Deep Learning og TensorFlow, som er centrale kompetencer i jobbeskrivelsen, hvilket reducerer den samlede score.
+R722;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+TensorFlow, Flask, React, SQL
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Google Data Analytics";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: Docker, SQL, Java, NLP, Django.";68;0;Kandidaten har en stærk professionel baggrund, men mangler direkte erfaring med Java og NLP, som specifikt efterspørges i jobbeskrivelsen. Selvom kandidatens erfaring er bredere end det krævede antal år, opvejer den manglende match på kernekompetencer dette.
+R118;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+SQL, Machine Learning, Power BI, Docker, PyTorch, Cloud Computing, C++
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: Node.js, PyTorch, Power BI, Django.";35;1;Kandidaten mangler den krævede erfaring (3 år) som angivet i jobbeskrivelsen, hvilket er et kritisk punkt. Selvom kandidaten besidder flere relevante færdigheder og har udført projekter relateret til Machine Learning, opvejer dette ikke det betydelige mismatch i erfaring.
+R337;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+SQL, Machine Learning, Java, Node.js, NLP
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Docker, Deep Learning, Java, NLP, TensorFlow, SQL.";58;1;Kandidaten mangler den krævede erfaring på 5 år, hvilket vægter tungt i vurderingen. Selvom kandidaten besidder flere relevante færdigheder som SQL, Java og NLP, er det primære fokus for en ML Engineer-stilling ikke fuldt dækket af CV'et, især manglen på Deep Learning og Docker.
+R564;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Data Analysis, Deep Learning, C++, Java, PyTorch, Docker, TensorFlow, SQL
+
+Experience:
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Django, Excel, SQL, React, NLP.";78;0;Kandidaten mangler det krævede antal års erfaring (5 år vs. 4 år), men har stærke kompetencer inden for Machine Learning, herunder TensorFlow og Deep Learning, hvilket er relevant for rollen som ML Engineer. Selvom Django, React og NLP ikke eksplicit nævnes, indikerer kandidatens projekter og færdigheder en solid forståelse af relaterede områder.
+R420;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Flask, Cloud Computing, Docker, Deep Learning, Excel, TensorFlow
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+AWS Certified";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: React, Django, Deep Learning, C++.";85;1;Kandidaten har en stærk baggrund inden for Machine Learning, hvilket matcher kernen i ML Engineer-rollen. Selvom kandidaten har mere erfaring end de krævede 2 år, er der et mismatch i specifikke teknologier (React og Django mangler), men den solide Deep Learning ekspertise og cloud erfaring kompenserer.
+R321;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Kubernetes, Docker, C++, Cloud Computing, Python, Django, Node.js
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Microsoft Azure, Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: Flask, Docker, Java, Power BI, Machine Learning.";35;0;Kandidaten mangler den krævede erfaring (2 år) og har en professionel summary, der angiver 0 års erfaring. Selvom kandidaten besidder flere relevante færdigheder som Docker og Power BI, samt har projekter relateret til Machine Learning, er det primære krav om erfaring ikke opfyldt, hvilket trækker scoren ned.
+R697;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Node.js, React, Kubernetes, Deep Learning, Power BI, NLP
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: Power BI, Data Analysis, Docker, C++, Machine Learning.";58;0;Kandidaten mangler den krævede erfaring (3 år) og har ikke C++ på sit CV, hvilket er et væsentligt krav. Selvom kandidaten besidder flere relevante færdigheder som Power BI og Machine Learning, samt har demonstreret praktisk anvendelse af disse i projekter, trækker manglen på den specifikke erfaring og en nøglefærdighed ned.
+R30;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+React, Django, Flask, Excel, NLP, Node.js, Machine Learning
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+NLP Certification, Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: React, Data Analysis, Docker, Excel.";65;1;Kandidaten mangler den krævede erfaring på 3 år, hvilket er et væsentligt punkt. Selvom kandidatens færdighedssæt indeholder flere relevante kompetencer som React og Excel, samt demonstrerer praktisk erfaring med Machine Learning projekter, trækker det ned i den samlede vurdering.
+R285;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Deep Learning, React, Python
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Google Data Analytics, AWS Certified";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: Django, NLP, SQL.";68;1;Kandidaten har en stærk baggrund inden for data science, men mangler direkte erfaring med Django og NLP, som er specificeret i jobbeskrivelsen. Selvom kandidatens Python-færdigheder og webudviklingserfaring (Flask/React) er relevante, opvejer det ikke den manglende specifikke ML Engineer kompetencer.
+R931;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+SQL, Deep Learning, Power BI, Java, Flask, Python
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: Docker, Node.js, Kubernetes, Data Analysis, NLP, C++.";62;0;Kandidaten mangler den krævede erfaring (3 år) og har ikke direkte ekspertise i C++ eller Kubernetes, som er specificeret i jobbeskrivelsen. Selvom kandidaten demonstrerer relevant ML-erfaring gennem projekter og færdigheder som Python og Deep Learning, opvejer det ikke manglen på de specifikke teknologier og den nødvendige erfaring.
+R26;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Python, Kubernetes, PyTorch, SQL, Cloud Computing, Data Analysis, React
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: Kubernetes, Excel, Flask, TensorFlow, Node.js.";82;0;Kandidaten har en stærk profil med relevant erfaring inden for cloud computing og Kubernetes, hvilket matcher jobbeskrivelsens krav. Selvom kandidatens erfaring (7 år) overstiger det krævede minimum (1 år), er der et mismatch i specifikke frameworks som TensorFlow og Node.js, som ikke nævnes på CV'et.
+R260;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Data Analysis, SQL, Django
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Machine Learning, Node.js, Deep Learning, Data Analysis.";65;1;Kandidaten har en stærk baggrund inden for dataanalyse og backend-udvikling, men mangler eksplicit erfaring med Deep Learning, hvilket er et centralt krav i jobbeskrivelsen. Selvom kandidatens erfaring overstiger det krævede antal år, udgør den manglende dybde inden for specifikke ML-områder en betydelig ulempe.
+R326;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Docker, Django, Deep Learning, Power BI
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+
+Certifications:
+AWS Certified";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: NLP, Excel, Power BI, Kubernetes, Machine Learning, Java, SQL, Django.";75;1;Kandidaten har en relevant baggrund inden for Machine Learning, demonstreret gennem projekter med Deep Learning og Power BI. Selvom kandidaten har 2 års erfaring, hvor jobbeskrivelsen kræver 1 år, er der et mismatch i forhold til specifikke færdigheder som NLP, Kubernetes, Java og SQL, hvilket reducerer den samlede score.
+R857;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+TensorFlow, PyTorch, Kubernetes, NLP
+
+Experience:
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Data Analysis, Java, Kubernetes, Power BI, NLP.";35;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et betydeligt mismatch i forhold til jobbeskrivelsen. Selvom kandidaten besidder nogle relevante færdigheder som Kubernetes og NLP, opvejer det ikke den manglende erfaring og de specifikke teknologier (Java, Power BI) nævnt i stillingsopslaget.
+R217;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+TensorFlow, Java, Kubernetes, Machine Learning, Docker
+
+Experience:
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: TensorFlow, PyTorch, Excel, Docker, Python.";58;0;Kandidaten mangler den krævede erfaring på 4 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder nogle af de nødvendige færdigheder (TensorFlow, Docker), opvejer det ikke den manglende erfaring og den lavere samlede erfaring i forhold til jobbeskrivelsen.
+R350;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+PyTorch, TensorFlow, C++, Java, Power BI, Data Analysis, Django, Excel
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: SQL, Excel, Flask, React, Java, Power BI, C++.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning, der matcher jobbeskrivelsen godt. Selvom kandidaten har 9 års erfaring mod de krævede 6 år, og mangler nogle specifikke færdigheder (SQL), opvejes dette af den praktiske erfaring med TensorFlow, Flask og React samt Power BI.
+R357;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+TensorFlow, C++, Cloud Computing, Docker, Python, Flask, Deep Learning, Excel
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Kubernetes, Data Analysis, C++, SQL, Python, Excel, NLP, TensorFlow.";82;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning, selvom den angivne jobbeskrivelse specifikt efterspurgte Kubernetes. Kandidatens brede kompetencesæt og praktiske erfaring opvejer dog manglen på denne specifikke færdighed.
+R245;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+TensorFlow, Deep Learning, Data Analysis, PyTorch, C++, Excel
+
+Experience:
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+NLP Certification, Google Data Analytics";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: TensorFlow, PyTorch, Machine Learning.";85;1;Kandidaten har en stærk profil med relevante færdigheder som TensorFlow og PyTorch, men den angivne erfaring på 10 år overstiger det krævede minimum på 2 år markant. Selvom kandidatens kompetencer matcher jobbeskrivelsen godt, er der et mismatch i forhold til den ønskede erfaring, hvilket reducerer scoren.
+R131;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Django, Python, TensorFlow, Cloud Computing, Flask, Java, Data Analysis, Docker
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+AWS Certified";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Deep Learning, Kubernetes, PyTorch, Node.js, Java.";38;0;Kandidaten mangler den krævede erfaring (5 år) og specifikke færdigheder som Kubernetes og PyTorch, hvilket er afgørende for en ML Engineer rolle. Selvom kandidaten har Java-erfaring og kendskab til TensorFlow, opvejer det ikke manglen på de primære kompetencer.
+R1024;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Power BI, Machine Learning, React
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: Java, Node.js, Excel, Machine Learning, C++, Cloud Computing, Deep Learning, Flask.";48;0;Kandidaten mangler den krævede erfaring på 4 år, hvilket er et væsentligt punkt. Selvom kandidaten demonstrerer kompetencer inden for Machine Learning og Deep Learning, samt Node.js, matcher de ikke alle de specificerede teknologier (Java, C++, Excel, Cloud Computing, Flask) og har en mindre relevant profil i forhold til den primære ML Engineer rolle.
+R81;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Node.js, Docker, Deep Learning, NLP, Kubernetes, SQL
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Google Data Analytics, Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Power BI, Docker, Node.js, C++, Flask, Java, Deep Learning, Machine Learning.";78;1;Kandidaten matcher kravene til erfaring (6 år) og har flere relevante færdigheder som Docker, Node.js og Deep Learning. Dog mangler kandidaten eksplicitte kompetencer som C++, Flask og Java, hvilket reducerer den samlede score, men ikke så markant da der er en vis overlapning i de beskrevne projekter.
+R555;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Django, Cloud Computing, Machine Learning, Java, C++, Power BI, PyTorch
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+AWS Certified";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: PyTorch, C++, Docker, Kubernetes, Django, Deep Learning.";48;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder flere relevante færdigheder som PyTorch, C++, Django og Machine Learning, opvejer det ikke den manglende erfaring i forhold til jobbeskrivelsens krav.
+R983;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Docker, Machine Learning, Power BI, Flask, Python
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Deep Learning, C++, Data Analysis.";68;0;Kandidaten har en stærk baggrund inden for Machine Learning, men mangler eksplicit erfaring med Deep Learning og C++, som er specificeret i jobbeskrivelsen. Selvom kandidatens erfaring overstiger det krævede antal år, og de har relevante projekter, vejer fraværet af disse nøglekompetencer tungt.
+R419;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Kubernetes, TensorFlow, Flask, Power BI, Machine Learning, Deep Learning, Java, Node.js
+
+Experience:
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+NLP Certification, Google Data Analytics";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: PyTorch, Python, C++, Java, Node.js, Excel.";65;0;Kandidaten mangler den krævede erfaring (2 år) og har ikke ekspertise i PyTorch eller C++, som er specificeret i jobbeskrivelsen. Selvom kandidaten besidder flere relevante færdigheder og har demonstreret praktisk erfaring med Machine Learning, opvejer det ikke fuldstændigt manglen på de specifikke teknologier.
+R6;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+C++, Node.js, Data Analysis
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified, Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Power BI, Java, PyTorch, SQL, TensorFlow.";28;0;Kandidaten mangler den krævede erfaring (6 år) og de specifikke tekniske færdigheder (Power BI, PyTorch, TensorFlow), der er nævnt i jobbeskrivelsen. Selvom kandidaten har data science-erfaring og relevante cloud-certificeringer, opfylder vedkommende ikke kernen i ML Engineer rollen.
+R18;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Data Analysis, Kubernetes, Cloud Computing
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+NLP Certification, Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: PyTorch, Excel, Java, Machine Learning.";68;0;Kandidaten mangler den krævede erfaring (5 år vs. 4 år), men har relevante projekter med TensorFlow, hvilket indikerer en vis ekspertise inden for Machine Learning. Selvom PyTorch og Java ikke nævnes direkte, er kandidatens baggrund i data science og deep learning relevant for rollen som ML Engineer.
+R525;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Power BI, Data Analysis, Kubernetes
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Microsoft Azure, AWS Certified";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: PyTorch, Data Analysis, Python, Cloud Computing, Docker.";58;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten har relevante færdigheder som Data Analysis og har arbejdet med machine learning projekter, opvejer det ikke fuldstændigt manglen på PyTorch, Cloud Computing og Docker, der er eksplicit nævnt i jobbeskrivelsen.
+R156;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Excel, Django, TensorFlow
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Flask, Power BI, Java, Kubernetes, PyTorch, Excel, Data Analysis.";68;0;Kandidaten mangler den krævede erfaring (5 år vs. 4 år), men har relevante projekter og beskrevne opgaver, der indikerer en stærk praktisk forståelse for data science. Selvom kandidaten ikke besidder alle de specificerede færdigheder (Flask, Power BI, Java, Kubernetes, PyTorch), er der overlap med Excel og TensorFlow, samt erfaring med backend-udvikling.
+R466;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Kubernetes, Power BI, Data Analysis, SQL, React, C++, Cloud Computing, TensorFlow
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified, Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: C++, NLP, SQL, Excel.";48;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et betydeligt minus. Selvom kandidaten besidder flere relevante færdigheder som C++ og SQL, opvejer det ikke den manglende erfaring i forhold til jobbeskrivelsens krav.
+R224;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Excel, C++, PyTorch, Flask, Machine Learning, React, Java
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization, Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: Deep Learning, Java, Python.";85;1;Kandidaten matcher jobbeskrivelsen godt, da de har den krævede erfaring på 2 år og besidder flere af de ønskede færdigheder som Python og Java. Selvom TensorFlow nævnes i projekterne, er der ingen direkte reference til Deep Learning i Professional Summary, hvilket kunne styrke matchningen yderligere.
+R174;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Cloud Computing, Power BI, Python, Node.js, PyTorch, Java
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+AWS Certified, NLP Certification";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: Django, Java, Machine Learning, NLP, Flask.";78;1;Kandidaten matcher jobbeskrivelsen relativt godt, da de har den krævede erfaring på 1 år og besidder flere af de ønskede færdigheder som Java, Python (som dækker Machine Learning), og Flask. Selvom Django og NLP specifikt nævnes i jobbeskrivelsen, er der indikationer på NLP-ekspertise via certificering og projekter.
+R31;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Excel, TensorFlow, Python, Data Analysis, Java
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization, NLP Certification";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: Kubernetes, Power BI, C++, Docker.";58;0;Kandidaten mangler den krævede erfaring (4 år vs. 3 år) og har ikke de specificerede færdigheder som Kubernetes, Power BI og C++. Selvom kandidaten demonstrerer relevant data science erfaring med TensorFlow og Python, opvejer det ikke manglen på kernekompetencer og den nødvendige erfaring.
+R170;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Power BI, Docker, C++, Deep Learning
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: Node.js, PyTorch, Cloud Computing, Flask, Django, TensorFlow.";62;0;Kandidaten har kun 1 års erfaring, hvor stillingen kræver 2 år. Selvom kandidaten demonstrerer interesse for Machine Learning gennem projekter og nævner Deep Learning, mangler der flere af de specifikke teknologier (PyTorch, TensorFlow, Django, Flask) som er listet i jobbeskrivelsen, hvilket reducerer match-potentialet.
+R188;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+NLP, Node.js, SQL, PyTorch
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: C++, Data Analysis, Node.js, React, Excel.";68;1;Kandidaten matcher kravene til erfaring (6 år) og har flere relevante færdigheder som Node.js og React, men mangler C++ og Data Analysis, hvilket er væsentlige kompetencer i jobbeskrivelsen. Selvom kandidatens projekter viser relevant erfaring med machine learning, opvejer det ikke fuldstændigt manglen på de specificerede tekniske færdigheder.
+R112;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Kubernetes, Cloud Computing, Python, Excel, PyTorch, Power BI, Flask
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+NLP Certification, Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: SQL, PyTorch, Excel, Deep Learning.";78;1;Kandidaten matcher godt på flere områder, herunder PyTorch og Excel. Dog mangler kandidaten et helt år i forhold til de krævede 4 års erfaring, hvilket trækker scoren ned, men den praktiske erfaring med deep learning og backend-systemer kompenserer delvist for dette.
+R355;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Machine Learning, Data Analysis, Django, Flask
+
+Experience:
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Google Data Analytics, AWS Certified";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: Power BI, Deep Learning, Node.js, Flask, Kubernetes, Machine Learning, SQL, Data Analysis.";35;0;Kandidaten mangler den krævede erfaring på 4 år, hvilket udgør et betydeligt mismatch i forhold til jobbeskrivelsen. Selvom kandidaten besidder flere relevante færdigheder og har udført relaterede projekter, er det samlede match svækket af den manglende erfaring.
+R390;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+PyTorch, Python, React, Deep Learning, Flask, Data Analysis
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+NLP Certification, Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: Flask, PyTorch, Data Analysis, Django.";78;1;Kandidaten matcher godt på flere områder, herunder færdigheder som PyTorch og Flask. Dog mangler kandidaten det krævede antal år (4 år) i erfaring, hvilket trækker ned, men kompenseres delvist af de relevante projekter og resultater.
+R56;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Machine Learning, Docker, Deep Learning, Java, C++, Excel
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization, AWS Certified";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: PyTorch, Node.js, Data Analysis.";78;1;Kandidaten har en stærk baggrund inden for Machine Learning, men stillingen specifikt efterspørger en ML Engineer med fokus på PyTorch og Node.js, hvilket ikke eksplicit fremgår af CV'et. Selvom kandidatens erfaring er relevant og overstiger det krævede antal år, mangler den specifikke teknologiske match.
+R462;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Kubernetes, PyTorch, NLP, Java, TensorFlow
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: Cloud Computing, Python, Power BI, C++, SQL, Excel, Java.";68;1;Kandidaten har en stærk baggrund inden for data science, men mangler direkte erfaring med Machine Learning Engineering som defineret af jobbeskrivelsen. Selvom kandidatens færdigheder overlapper med flere krav (Python, Java, Power BI), er den primære fokus på ML Engineer-rollen ikke tydeligt demonstreret i CV'et.
+R404;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Deep Learning, Kubernetes, Data Analysis, Java
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: Power BI, Cloud Computing, TensorFlow.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for machine learning, der matcher jobbeskrivelsens krav. Selvom kandidaten har 3 års erfaring, hvor stillingen kræver 2, opvejes dette af den praktiske erfaring og de relevante projekter beskrevet i CV'et.
+R143;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+C++, Django, Excel, Machine Learning, Java, SQL
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Google Data Analytics";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: Node.js, Java, C++, Excel, Flask, SQL.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning, hvilket matcher jobtitlen. Selvom kandidaten har 10 års erfaring mod de krævede 1 år, opvejes dette af den beskrevne ekspertise og projekter, der demonstrerer et højt niveau af kompetence.
+R192;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Kubernetes, Machine Learning, Python
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: C++, SQL, PyTorch, Django, Data Analysis, React, Cloud Computing, Python.";68;1;Kandidaten har en stærk baggrund inden for Machine Learning, men mangler flere af de specificerede teknologier (C++, SQL, PyTorch, Django, React, Cloud Computing) i jobbeskrivelsen. Selvom erfaringen er relevant og overstiger det krævede antal år, vejer den manglende tekniske match tungere.
+R947;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Deep Learning, Python, Docker, NLP, SQL, C++, PyTorch
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: PyTorch, Kubernetes, Power BI, Flask, Machine Learning.";58;0;Kandidaten mangler den krævede erfaring på 4 år, hvilket er et betydeligt minus. Selvom kandidaten besidder flere relevante færdigheder som PyTorch og Flask, opvejer det ikke den manglende erfaring i forhold til jobbeskrivelsens krav.
+R368;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Power BI, React, Node.js, Kubernetes, Java, Deep Learning, Python
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 4 years.
+Skills required: PyTorch, Machine Learning, Power BI, Deep Learning, React, C++, Data Analysis.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning, selvom der mangler eksplicit PyTorch-erfaring. Den beskrevne erfaring med Deep Learning, Data Analysis og React er positiv, og den samlede kompetenceprofil matcher jobbeskrivelsen godt.
+R69;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Docker, Django, TensorFlow, C++
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Google Data Analytics, Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: Machine Learning, Node.js, PyTorch, C++, Java, Kubernetes, SQL.";78;1;Kandidaten har en stærk baggrund inden for Machine Learning, hvilket matcher kernen i jobtitlen. Selvom der mangler nogle specifikke færdigheder som Node.js, PyTorch og Kubernetes, kompenserer kandidatens erfaring med TensorFlow, C++ og cloud deployment.
+R195;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Data Analysis, React, Cloud Computing
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified, Google Data Analytics";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: C++, Deep Learning, Docker, Cloud Computing, Data Analysis, SQL, Python.";68;1;Kandidaten har en stærk baggrund inden for dataanalyse og cloud computing, men mangler eksplicit erfaring med C++ og Deep Learning, som er centrale elementer i ML Engineer rollen. Selvom kandidatens projekter viser relevant erfaring med machine learning, opvejer det ikke den manglende specifikke kompetenceprofil.
+R1068;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+NLP, SQL, Kubernetes, Excel, Machine Learning
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Flask, Java, C++, React, PyTorch, Cloud Computing, Django, Data Analysis.";58;0;Kandidaten mangler den krævede erfaring (6 år vs. 5 år) og flere af de specificerede tekniske færdigheder (Flask, C++, React, PyTorch, Django). Selvom kandidaten har relevant erfaring med Machine Learning og Data Analysis, opvejer det ikke manglen på kernekompetencer i forhold til jobbeskrivelsen.
+R235;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Docker, Django, TensorFlow, Kubernetes, Python
+
+Experience:
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Excel, TensorFlow, Node.js.";35;1;Kandidaten mangler den krævede erfaring på 5 år, hvilket udgør et betydeligt problem. Selvom kandidaten besidder flere relevante tekniske færdigheder (TensorFlow, Python) og har udført projekter relateret til machine learning, opvejer dette ikke det store gab i erfaring.
+R279;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Deep Learning, Kubernetes, NLP, Machine Learning, Docker, SQL, PyTorch
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+
+Certifications:
+Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: Kubernetes, PyTorch, Cloud Computing.";85;1;Kandidaten matcher godt på de efterspurgte færdigheder (Kubernetes, PyTorch) og har relevant erfaring med machine learning projekter. Selvom jobbeskrivelsen kræver 1 års erfaring, har kandidaten 4 års erfaring, hvilket er en fordel, der opvejer det mindre krav.
+R427;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+TensorFlow, Django, Cloud Computing
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: SQL, Machine Learning, Node.js.";42;0;Kandidaten mangler den krævede erfaring (3 år) og har ikke direkte SQL-kompetence, hvilket er et kritisk krav for en ML Engineer. Selvom kandidaten demonstrerer relevant viden indenfor Machine Learning og Node.js gennem projekter, opvejer det ikke manglen på de specifikke tekniske færdigheder og den nødvendige erfaring.
+R1214;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Java, Machine Learning, Data Analysis, Deep Learning, React, C++, NLP
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: Kubernetes, Machine Learning, React, Docker, PyTorch.";38;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et betydeligt problem. Selvom kandidaten besidder flere relevante færdigheder som Machine Learning og React, opvejer det ikke den manglende erfaring og den lave samlede erfaring i forhold til jobbeskrivelsen.
+R178;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Docker, Kubernetes, Deep Learning, Java, Python, Cloud Computing
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 2 years.
+Skills required: Java, Node.js, Power BI, Kubernetes, Data Analysis.";85;1;Kandidaten matcher godt på flere områder, herunder Kubernetes og Java. Selvom kandidatens færdighedssæt indeholder Python i stedet for Node.js og Power BI mangler, er den overordnede tekniske profil relevant for en ML Engineer-rolle med 2 års erfaring.
+R330;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Cloud Computing, TensorFlow, Flask
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: Java, PyTorch, Power BI.";68;1;Kandidaten har en stærk baggrund inden for Machine Learning, men mangler direkte erfaring med Java og PyTorch, som er specificeret i jobbeskrivelsen. Selvom kandidatens Power BI-erfaring matcher et krav, opvejer den ikke manglen på de primære teknologier.
+R238;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Cloud Computing, Node.js, Power BI, Deep Learning
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+
+Certifications:
+NLP Certification, AWS Certified";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Deep Learning, PyTorch, Cloud Computing, SQL, Power BI, C++.";35;1;Kandidaten mangler den krævede erfaring på 6 år, hvilket udgør et væsentligt problem. Selvom kandidaten besidder nogle af de ønskede færdigheder (Deep Learning, Cloud Computing, Power BI), er det samlede match svækket af den manglende erfaring og fraværet af C++ og PyTorch.
+R1128;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Flask, Node.js, Deep Learning, C++, Cloud Computing, Python, NLP
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: Excel, SQL, Node.js, React, Django.";65;0;Kandidaten mangler den krævede erfaring på 3 år, hvilket vægter tungt i vurderingen. Selvom kandidaten besidder flere relevante færdigheder som Node.js og har demonstreret praktisk anvendelse af dem gennem projekter, er det samlede match svækket af den manglende erfaring.
+R331;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Kubernetes, C++, Docker, Machine Learning, Excel, Flask, React
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Microsoft Azure";"We are hiring a ML Engineer.
+Required experience: 1 years.
+Skills required: NLP, Django, Cloud Computing, Flask.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning, hvilket matcher jobtitlen. Selvom kandidaten har mere erfaring end de krævede 1 år, er der et godt overlap i færdigheder og projekter, især Flask og implementering af deep learning modeller.
+R372;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+TensorFlow, Python, Django
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+Google Data Analytics";"We are hiring a ML Engineer.
+Required experience: 3 years.
+Skills required: Django, Python, Power BI, TensorFlow.";85;1;Kandidaten har en stærk profil med relevante færdigheder som Python, Django og TensorFlow. Selvom kandidaten har mere erfaring end de krævede 3 år, er det ikke et kritisk problem, da den beskrevne erfaring er relevant for stillingen.
+R562;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Java, SQL, Data Analysis, Deep Learning, Docker, React
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+
+Certifications:
+Google Data Analytics, Deep Learning Specialization";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: TensorFlow, Docker, Machine Learning, Cloud Computing, Power BI.";48;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten har nogle relevante færdigheder som Docker og Power BI samt har arbejdet med Machine Learning i projekter, opvejer det ikke den manglende erfaring og TensorFlow-kompetence.
+R57;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+React, Power BI, Machine Learning, Docker, Flask, Excel, NLP, Java
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+NLP Certification, AWS Certified";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: C++, Cloud Computing, Docker, Python, SQL, Flask, Django, PyTorch.";68;0;Kandidaten mangler den krævede erfaring (6 år vs. 4 år), men har flere relevante kompetencer som Docker, Flask og Machine Learning. Selvom kandidatens baggrund ikke fuldt ud matcher jobbeskrivelsen, er der tilstrækkelig overlap i færdigheder og projekter til at undgå en lav score.
+R340;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Flask, Machine Learning, React, Java, Power BI, NLP
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Google Data Analytics, AWS Certified";"We are hiring a ML Engineer.
+Required experience: 5 years.
+Skills required: NLP, Node.js, Excel, Data Analysis.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning, herunder NLP, hvilket matcher jobbeskrivelsens krav. Selvom kandidaten har 8 års erfaring mod de ønskede 5 år, kompenserer den beskrevne praktiske erfaring og kompetencer for dette.
+R8;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+PyTorch, TensorFlow, Power BI
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+AWS Certified, Google Data Analytics";"We are hiring a ML Engineer.
+Required experience: 6 years.
+Skills required: Node.js, Power BI, Excel.";78;1;Kandidaten har en stærk baggrund inden for data science, men mangler eksplicit erfaring med Node.js, hvilket er et krav i jobbeskrivelsen. Selvom kandidatens erfaring og kompetencer indenfor machine learning er relevante, trækker det ned at de ikke matcher alle de specificerede teknologier.

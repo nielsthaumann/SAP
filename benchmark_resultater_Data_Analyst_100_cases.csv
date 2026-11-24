@@ -1,0 +1,1799 @@
+﻿resume_id;resume_text;job_description;AI score;shortlisted;AI feedback
+R369;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Node.js, Data Analysis, Deep Learning
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization, NLP Certification";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: C++, NLP, Python, Java, Django, Power BI, Deep Learning.";68;1;Kandidaten matcher kravene til erfaring (5 år) og har en vis overlapning i Deep Learning. Dog mangler kandidaten flere af de specifikke teknologier nævnt i jobbeskrivelsen (C++, NLP, Python, Java, Django, Power BI), hvilket svækker det samlede match.
+R155;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+SQL, C++, React, Data Analysis, Java, Python
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 4 years.
+Skills required: Excel, SQL, Kubernetes, NLP, React, Data Analysis, Django, TensorFlow.";68;0;Kandidaten mangler den krævede erfaring (4 år vs. 3 år), men har flere relevante færdigheder som SQL, React og Data Analysis. Selvom Kubernetes, NLP, Django og TensorFlow ikke er nævnt, indikerer projekterne en forståelse for dataanalyse og webudvikling, hvilket kan kompensere delvist for manglende direkte match på alle kompetencer.
+R152;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Power BI, SQL, Docker, Excel
+
+Experience:
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Docker, TensorFlow, Kubernetes, Machine Learning, Flask, Power BI.";38;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten har nogle relevante færdigheder som Power BI og Docker, samt en projektoplevelse med Machine Learning, opvejer det ikke den manglende erfaring og de andre specifikke teknologier (TensorFlow, Kubernetes, Flask) der efterspørges.
+R213;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Deep Learning, Machine Learning, TensorFlow, SQL, Cloud Computing
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+NLP Certification";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Node.js, Excel, Kubernetes, Power BI.";78;1;Kandidaten har en stærk baggrund inden for data science, men mangler direkte erfaring med Power BI og Kubernetes, som er specificeret i jobbeskrivelsen. Selvom kandidatens Node.js-erfaring er relevant, opvejer den ikke fuldstændigt manglen på de specifikke værktøjer nævnt.
+R19;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Docker, Cloud Computing, Flask, Machine Learning, Data Analysis, C++
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Cloud Computing, PyTorch, Machine Learning.";58;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder flere relevante færdigheder som Cloud Computing og Machine Learning, opvejer det ikke den betydelige forskel i erfaring, der er specificeret i jobbeskrivelsen.
+R859;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Excel, Docker, PyTorch, Node.js, Data Analysis
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified";"We are hiring a Data Analyst.
+Required experience: 2 years.
+Skills required: TensorFlow, Machine Learning, Python, Cloud Computing, PyTorch, React, C++, Java.";38;0;Kandidaten mangler den krævede erfaring (2 år) og har ikke demonstreret ekspertise i flere af de centrale teknologier som TensorFlow, Machine Learning, C++ og Java. Selvom kandidaten besidder nogle relevante færdigheder som PyTorch og Data Analysis, er det samlede match svagt på grund af manglende kernekompetencer.
+R247;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+React, Deep Learning, Node.js, PyTorch, Docker, Cloud Computing, NLP, SQL
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Excel, Flask, Power BI.";75;1;Kandidaten matcher kravene til erfaring (6 år) og har demonstreret brug af Flask i et projekt, hvilket er en vigtig kompetence. Dog mangler kandidaten eksplicit Power BI-færdigheder, og CV'et indikerer en stærkere vægt på softwareudvikling end dataanalyse, hvilket reducerer den samlede score.
+R280;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Excel, NLP, Django, SQL, Power BI
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 1 years.
+Skills required: Machine Learning, Django, Excel, PyTorch.";82;1;Kandidaten har en stærk profil med relevante færdigheder som Django og Excel, der matcher jobbeskrivelsen. Selvom kandidaten har mere erfaring (3 år) end det krævede minimum (1 år), og mangler PyTorch og Machine Learning eksplicit nævnt i CV'et, opvejes dette af den samlede kompetenceprofil og de beskrevne projekter.
+R103;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Cloud Computing, Flask, TensorFlow, Deep Learning, React, Data Analysis, SQL
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Google Data Analytics";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Node.js, Deep Learning, Kubernetes, Power BI, TensorFlow, Machine Learning, NLP.";78;1;Kandidaten har en stærk baggrund inden for data science, der overlapper med mange af de ønskede færdigheder. Selvom kandidaten ikke nævner Node.js eller Kubernetes specifikt, er TensorFlow og Deep Learning til stede, hvilket indikerer et solidt fundament i Machine Learning.
+R656;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Kubernetes, PyTorch, Java, Excel, Docker, Data Analysis
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+
+Certifications:
+Google Data Analytics";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Excel, SQL, Django, TensorFlow, Kubernetes.";78;0;Kandidaten mangler det krævede antal års erfaring (6 år vs. 5 år), men har flere relevante færdigheder som Kubernetes, Excel og TensorFlow. Selvom Django og SQL ikke eksplicit nævnes, indikerer de beskrevne projekter og opgaver en stærk analytisk baggrund.
+R335;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Node.js, Flask, Django
+
+Experience:
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Google Data Analytics, NLP Certification";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Flask, Data Analysis, TensorFlow, C++.";78;1;Kandidaten har en stærk baggrund inden for dataanalyse med relevante færdigheder som Flask, men mangler erfaring med TensorFlow og C++, hvilket er specificeret i jobbeskrivelsen. Selvom kandidatens samlede erfaring overstiger kravet, trækker manglen på specifikke teknologier ned.
+R179;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Django, PyTorch, TensorFlow
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+AWS Certified";"We are hiring a Data Analyst.
+Required experience: 1 years.
+Skills required: TensorFlow, PyTorch, Python.";85;1;Kandidaten matcher jobbeskrivelsen godt, da de besidder de krævede færdigheder (TensorFlow, PyTorch) og har den ønskede erfaring på 1 år. Projekterne viser praktisk anvendelse af dataanalysefærdigheder, hvilket styrker kandidaturet.
+R338;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Cloud Computing, Django, Deep Learning, SQL, NLP, Docker
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Docker, Flask, C++, Excel, Node.js.";75;1;Kandidaten har en stærk baggrund inden for data science, men mangler direkte erfaring med C++, Flask og Node.js, som er specificeret i jobbeskrivelsen. Selvom kandidatens generelle færdigheder overlapper, er den manglende specifikke tekniske ekspertise et væsentligt punkt.
+R784;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Data Analysis, Django, Flask, Deep Learning, Python, Docker, NLP
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 4 years.
+Skills required: Java, Django, Deep Learning, Kubernetes.";78;0;Kandidaten matcher godt på flere områder, især med Deep Learning og Django. Dog mangler kandidaten den krævede Java og Kubernetes erfaring, samt et helt år i forhold til de ønskede 4 års erfaring, hvilket trækker ned.
+R317;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+SQL, Machine Learning, Deep Learning, Kubernetes, Data Analysis, Docker, C++, Java
+
+Experience:
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 4 years.
+Skills required: React, Excel, TensorFlow, Kubernetes, NLP, Power BI, Cloud Computing, C++.";65;0;Kandidaten mangler den krævede erfaring på 4 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder flere relevante færdigheder som Kubernetes, C++ og Power BI, samt har praktisk erfaring med data science projekter, opvejer det ikke den manglende erfaring.
+R381;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Cloud Computing, Data Analysis, React
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: React, Power BI, Python.";85;1;Kandidaten matcher godt på færdighederne React og Power BI, samt har relevant erfaring med dataanalyse. Selvom kandidaten har 7 års erfaring mod de krævede 6 år, er der ingen åbenlyse mangler i forhold til jobbeskrivelsen.
+R24;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Cloud Computing, PyTorch, SQL, Deep Learning, Node.js
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Data Analysis, Flask, Kubernetes.";65;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten demonstrerer relevante færdigheder som Flask (gennem projekt) og SQL, samt har erfaring med datahåndtering, opvejer det ikke fuldstændigt manglen på den specificerede erfaring.
+R822;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+TensorFlow, Cloud Computing, Docker, Kubernetes, Deep Learning
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Flask, Machine Learning, Docker.";48;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder nogle relevante færdigheder som Docker, mangler der match på Flask og Machine Learning, hvilket trækker ned i den samlede vurdering.
+R316;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+React, Machine Learning, Kubernetes, C++, Power BI
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization, Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Docker, NLP, Python, React, Cloud Computing, Java, Data Analysis, Power BI.";82;1;Kandidaten har en stærk profil med relevant erfaring inden for data science, selvom den primære jobbeskrivelse søger en Data Analyst. Selvom kandidaten mangler specifikke færdigheder som Docker, NLP og Java, er der et godt overlap i kompetencer som Python, React og Power BI, samt demonstreret praktisk erfaring med machine learning og webudvikling.
+R202;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Deep Learning, Node.js, Java, PyTorch
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+NLP Certification, AWS Certified";"We are hiring a Data Analyst.
+Required experience: 2 years.
+Skills required: React, PyTorch, NLP, Power BI, Flask, Data Analysis, C++.";38;0;Kandidaten mangler den krævede erfaring (2 år) og har en professional summary, der angiver 0 års erfaring. Selvom kandidaten besidder flere relevante færdigheder som PyTorch og Flask, er det primære krav om Data Analysis ikke tydeligt demonstreret i CV'et udover projekter, hvilket trækker scoren ned.
+R483;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Data Analysis, Docker, Machine Learning, PyTorch
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: SQL, Docker, C++, Django.";28;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket udgør et betydeligt mismatch i forhold til kernen i jobtitlen 'Data Analyst'. Selvom kandidaten besidder nogle relevante færdigheder som Docker og har udført data-relaterede opgaver, er det samlede match svækket af den manglende erfaring.
+R83;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+C++, PyTorch, React, Power BI, Kubernetes, Django, Cloud Computing
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Cloud Computing, Deep Learning, PyTorch, Node.js.";82;1;Kandidaten matcher jobbeskrivelsen godt, da erfaringen på 6 år stemmer overens med kravet. Selvom kandidaten besidder flere af de ønskede færdigheder (PyTorch, Cloud Computing, Node.js), mangler der en dybere demonstration af Deep Learning-kompetencer og Kubernetes-erfaring i forhold til jobbeskrivelsen.
+R42;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Cloud Computing, TensorFlow, Kubernetes, Django, React
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+AWS Certified";"We are hiring a Data Analyst.
+Required experience: 4 years.
+Skills required: Deep Learning, React, Java, PyTorch, Excel, C++, NLP, Node.js.";78;1;Kandidaten har en stærk profil med relevant erfaring inden for dataanalyse, selvom der mangler nogle af de specifikke teknologier nævnt i jobbeskrivelsen (Java, C++, NLP, Node.js). Kernematch er tilstede gennem erfaringen med machine learning og webapplikationsudvikling, hvilket dækker det primære ansvarsområde for en Data Analyst.
+R804;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Deep Learning, Power BI, Node.js, Docker, Data Analysis
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Django, Excel, C++, NLP, SQL, Power BI, Docker.";68;0;Kandidaten mangler den krævede erfaring (3 år vs. 2 år), men har flere relevante færdigheder som Power BI og Docker, hvilket indikerer potentiale. Selvom kandidaten ikke besidder alle de specificerede teknologier (Django, C++, NLP, SQL), er der en vis overlapning i dataanalyse-relaterede kompetencer.
+R218;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Docker, Data Analysis, NLP
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization, AWS Certified";"We are hiring a Data Analyst.
+Required experience: 1 years.
+Skills required: Deep Learning, NLP, Cloud Computing, Flask, Node.js, C++, React, Data Analysis.";82;1;Kandidaten har en stærk profil med relevant erfaring inden for dataanalyse, NLP og backend-udvikling. Selvom jobbeskrivelsen nævner flere teknologier (Deep Learning, Cloud Computing, Flask, Node.js, C++, React) som kandidaten ikke eksplicit lister, demonstrerer de praktisk anvendelse af relaterede færdigheder gennem projekter og certificeringer.
+R463;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Python, C++, Data Analysis, Node.js
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Java, Cloud Computing, SQL.";65;0;Kandidaten har en stærk baggrund inden for dataanalyse, men mangler de specificerede tekniske færdigheder (Java, Cloud Computing) i jobbeskrivelsen. Selvom kandidatens erfaring og projekter viser kompetencer relateret til datahåndtering og visualisering, opvejer det ikke den manglende direkte match på de krævede teknologier.
+R367;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Cloud Computing, NLP, Python
+
+Experience:
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Java, Data Analysis, Power BI.";35;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket udgør et betydeligt mismatch i forhold til jobbeskrivelsen. Selvom kandidaten demonstrerer relevante færdigheder og projekter inden for dataanalyse og Power BI, opvejer dette ikke det fundamentale krav om erfaring.
+R334;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+PyTorch, Power BI, Python, Node.js, Django, Excel
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 1 years.
+Skills required: Flask, Excel, Deep Learning, SQL, NLP, React, C++.";72;1;Kandidaten har en stærk baggrund inden for data science, men mangler direkte erfaring med Deep Learning og C++, som er specificeret i jobbeskrivelsen. Selvom kandidatens færdigheder overlapper med mange af de ønskede kompetencer, vejer det negative fra manglen på specifikke teknologier tungt.
+R128;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+SQL, Kubernetes, Node.js, Excel, Docker, NLP, Power BI, TensorFlow
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Deep Learning Specialization, Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Flask, Data Analysis, React, Excel.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for dataanalyse, selvom den eksplicitte liste over ønskede færdigheder ikke er fuldstændig matchet. Kandidatens baggrund og projekter demonstrerer evner der kan kompensere for manglende Flask og React kompetencer.
+R704;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Flask, Django, TensorFlow
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Node.js, Cloud Computing, TensorFlow, Python, Power BI, Excel.";45;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten demonstrerer kompetencer inden for TensorFlow og har projekter med Node.js, opvejer det ikke den manglende erfaring og de andre specifikke færdigheder som Cloud Computing, Python og Power BI.
+R650;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Data Analysis, Kubernetes, NLP
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+- Created interactive dashboards using Power BI
+
+Certifications:
+NLP Certification";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Django, Power BI, Deep Learning, React, NLP.";58;0;Kandidaten mangler den krævede Django og Deep Learning erfaring, hvilket er afgørende for stillingen som Data Analyst. Selvom kandidaten har NLP-erfaring og Power BI-færdigheder, samt relevant projektarbejde, opvejer det ikke manglen på de specifikke teknologier.
+R133;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Power BI, TensorFlow, C++
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Deep Learning Specialization, Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Power BI, React, SQL.";35;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket udgør et betydeligt mismatch i forhold til jobbeskrivelsen. Selvom kandidaten besidder nogle af de ønskede færdigheder (Power BI og React) og har relevante projekter, er det samlede match svækket af manglen på den specifikke erfaring.
+R144;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Django, TensorFlow, Power BI, Machine Learning, Node.js, Java
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 2 years.
+Skills required: SQL, Excel, PyTorch, Python, Java.";68;0;Kandidaten matcher jobbeskrivelsen delvist. Selvom kandidaten har den krævede erfaring på 2 år, mangler der flere af de specificerede teknologier (SQL, Excel, PyTorch) og CV'et fremhæver andre relaterede færdigheder som Django og TensorFlow.
+R88;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Cloud Computing, NLP, Kubernetes, C++, React, TensorFlow, Excel
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: C++, Python, React, Excel, Cloud Computing, Kubernetes, Flask.";85;1;Kandidaten matcher godt på mange af de ønskede færdigheder (C++, React, Kubernetes, Cloud Computing, Excel) og har mere erfaring end krævet. Selvom Python er nævnt i jobbeskrivelsen, mangler det i CV'et, men den samlede kompetenceprofil og erfaring opvejer dette.
+R272;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Node.js, SQL, PyTorch, TensorFlow, Machine Learning, Power BI
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Node.js, React, Cloud Computing, Flask, NLP, Kubernetes.";68;1;Kandidaten har en stærk baggrund inden for data science, men mangler direkte erfaring med de specificerede teknologier som React og Kubernetes. Selvom kandidatens generelle færdigheder er relevante, opvejer det ikke den manglende specifikke kompetenceprofil i forhold til jobbeskrivelsen.
+R240;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+PyTorch, SQL, Machine Learning, Flask, Data Analysis, NLP, React, Node.js
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+
+Certifications:
+NLP Certification";"We are hiring a Data Analyst.
+Required experience: 2 years.
+Skills required: Power BI, Data Analysis, Docker.";90;1;Kandidaten matcher kernen i Data Analyst rollen, da CV'et tydeligt viser erfaring med dataanalyse og Power BI. Selvom kandidaten har mere erfaring end de krævede 2 år, er den samlede profil stærk og relevant for stillingen.
+R692;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Node.js, Power BI, Deep Learning, Machine Learning, Python, SQL
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+NLP Certification";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: NLP, Flask, Machine Learning.";65;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder flere relevante færdigheder som Machine Learning, Python og Flask (gennem projekt), vejer det ikke op for den betydelige mangel på erfaring i forhold til jobbeskrivelsen.
+R521;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Power BI, Flask, Java
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: C++, Java, Cloud Computing, Docker.";28;0;Kandidaten mangler den krævede erfaring (5 år) og flere afgørende tekniske færdigheder som C++ og Cloud Computing, hvilket er kritisk for stillingen som Data Analyst. Selvom kandidaten har Java-færdigheder og et relevant projekt, opvejer det ikke den markante mangel på de specifikke krav i jobbeskrivelsen.
+R823;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+React, Power BI, PyTorch, Excel
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+AWS Certified, Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Deep Learning, PyTorch, C++, Machine Learning.";28;0;Kandidaten mangler den krævede erfaring (3 år) og har en professionel summary, der angiver 0 års erfaring. Selvom kandidaten besidder nogle relevante færdigheder som PyTorch og har arbejdet med machine learning projekter, opvejer det ikke den markante mangel på den specificerede erfaring og de andre krævede kompetencer (Deep Learning, C++, Machine Learning).
+R47;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Excel, Python, Java, React, Flask, Deep Learning
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Microsoft Azure, Google Data Analytics";"We are hiring a Data Analyst.
+Required experience: 1 years.
+Skills required: PyTorch, Docker, Deep Learning.";85;1;Kandidaten matcher godt til stillingen som Data Analyst, da CV'et demonstrerer erfaring med Deep Learning, hvilket er et krav i jobbeskrivelsen. Selvom kandidaten har 3 års erfaring og jobbet kræver 1 år, kompenserer den praktiske erfaring og de relevante projekter for forskellen.
+R424;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Node.js, Cloud Computing, Flask
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: NLP, Kubernetes, SQL, Django, Flask.";32;0;Kandidaten mangler den krævede erfaring (6 år) og har ikke NLP eller Kubernetes, hvilket er afgørende for stillingen som Data Analyst. Selvom kandidaten demonstrerer kompetencer indenfor nogle relevante områder som Flask og machine learning, opvejer det ikke manglen på de specifikke krav i jobbeskrivelsen.
+R439;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Flask, Cloud Computing, Java, NLP, TensorFlow, Machine Learning
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+NLP Certification";"We are hiring a Data Analyst.
+Required experience: 2 years.
+Skills required: Kubernetes, Deep Learning, Machine Learning, Node.js, PyTorch, Python, SQL.";82;1;Kandidaten har en stærk baggrund inden for Machine Learning, hvilket matcher jobbeskrivelsens kerne. Selvom der mangler specifikke nævnelser af Kubernetes, Node.js og PyTorch, er de andre kompetencer relevante, og erfaringen overstiger kravene.
+R760;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+TensorFlow, React, C++, PyTorch, Excel, Kubernetes, Java
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Java, PyTorch, Python.";58;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket udgør en væsentlig uoverensstemmelse. Selvom kandidaten besidder flere af de ønskede færdigheder (Python, PyTorch og Java), er det samlede match svækket af den manglende erfaring.
+R244;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Excel, Kubernetes, Python
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Power BI, Flask, PyTorch, Deep Learning, Data Analysis, React, C++.";72;0;Kandidaten har en stærk baggrund inden for data science, men mangler flere af de specificerede teknologier (Power BI, C++) i jobbeskrivelsen. Selvom kandidatens erfaring og projekter viser relevant kompetence, er der et betydeligt mismatch på specifikke værktøjer.
+R9;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Data Analysis, TensorFlow, Deep Learning, React, Machine Learning, Kubernetes
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 1 years.
+Skills required: Java, Machine Learning, PyTorch, Kubernetes, Docker, NLP.";78;1;Kandidaten har en stærk baggrund inden for dataanalyse og machine learning, hvilket matcher kernen i Data Analyst rollen. Selvom kandidaten har mere erfaring end det krævede minimum (1 år), mangler der nogle specifikke teknologier nævnt i jobbeskrivelsen (Java, PyTorch, NLP) som ikke er repræsenteret på CV'et.
+R4;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Django, Deep Learning, Excel, TensorFlow, Machine Learning, Docker, Node.js, Kubernetes
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Java, Machine Learning, Deep Learning.";65;1;Kandidaten mangler den krævede Java-erfaring, hvilket er et kritisk element i jobbeskrivelsen. Selvom kandidaten besidder flere relevante færdigheder som Machine Learning og Deep Learning, samt har demonstreret praktisk erfaring med relaterede projekter, trækker det ned på den samlede score pga. manglen på Java.
+R270;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Deep Learning, PyTorch, Python, SQL, Cloud Computing
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Flask, NLP, Django, PyTorch, Excel, React, Power BI, Data Analysis.";35;0;Kandidaten mangler den krævede erfaring (3 år) og har en professional summary, der angiver 0 års erfaring. Selvom kandidaten besidder flere relevante færdigheder som PyTorch og Python, opvejer det ikke manglen på den specificerede erfaring, hvilket trækker scoren ned.
+R696;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Power BI, Node.js, C++, React
+
+Experience:
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified, Google Data Analytics";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Django, Cloud Computing, C++, TensorFlow, PyTorch.";62;0;Kandidaten mangler den krævede erfaring (3 år) og har ikke alle de specificerede tekniske færdigheder (Django, Cloud Computing, PyTorch). Selvom kandidaten demonstrerer relevant erfaring med C++ og TensorFlow samt data science projekter, er det samlede match svækket af manglen på specifikke værktøjer og den lavere erfaring.
+R53;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Cloud Computing, Python, NLP, Excel, TensorFlow, SQL, Docker
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 1 years.
+Skills required: Power BI, Java, Node.js, C++, PyTorch, Cloud Computing, Python.";82;1;Kandidaten har en stærk baggrund inden for data science, der overlapper med mange af de ønskede færdigheder. Selvom kandidatens erfaring (6 år) overstiger det krævede (1 år), og visse specifikke teknologier (Java, Node.js, C++, PyTorch) mangler, er den generelle profil lovende.
+R416;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Flask, Data Analysis, Python, Cloud Computing, Node.js, React, NLP
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization, NLP Certification";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Machine Learning, Kubernetes, C++, Data Analysis, Docker, SQL.";35;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et kritisk punkt. Selvom kandidaten demonstrerer relevante færdigheder inden for dataanalyse og har udført projekter med relevans, opvejer det ikke fuldstændigt manglen på den specificerede erfaring og de efterspurgte teknologier (Machine Learning, Kubernetes, C++, Docker).
+R5;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Flask, SQL, Kubernetes, Node.js
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified, Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Django, Python, Excel, NLP.";68;1;Kandidaten har en stærk baggrund inden for data science, men mangler specifikke færdigheder som Django og NLP, der er nævnt i jobbeskrivelsen. Selvom kandidatens erfaring og projekter viser relevant kompetence, vejer det negative fra de manglende nøglefærdigheder tungt.
+R68;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Node.js, Java, Cloud Computing, Deep Learning, C++, Data Analysis, SQL
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified";"We are hiring a Data Analyst.
+Required experience: 4 years.
+Skills required: C++, Django, Power BI, Node.js, Deep Learning, Kubernetes, Flask.";65;0;Kandidaten mangler den krævede erfaring på 4 år, hvilket er en væsentlig faktor. Selvom kandidaten besidder flere af de ønskede færdigheder (Node.js, Deep Learning, C++, Power BI og Flask), opvejer det ikke den manglende erfaring i forhold til jobbeskrivelsens krav.
+R158;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Deep Learning, Excel, Cloud Computing, SQL, Java, Data Analysis, TensorFlow, Flask
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Deep Learning, Machine Learning, TensorFlow, Node.js.";92;1;Kandidaten matcher godt på de efterspurgte færdigheder (Deep Learning, TensorFlow, Node.js) og har relevant erfaring med data science projekter. Selvom kandidaten har mere end den krævede erfaring (8 år vs. 3 år), er der en stærk overensstemmelse mellem kompetencerne og jobbeskrivelsen.
+R378;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Flask, SQL, Machine Learning, Java, Excel, Python, Deep Learning, Data Analysis
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+- Created interactive dashboards using Power BI
+
+Certifications:
+NLP Certification, AWS Certified";"We are hiring a Data Analyst.
+Required experience: 2 years.
+Skills required: Machine Learning, Cloud Computing, Python, Django, Excel, NLP, C++.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for dataanalyse, herunder Machine Learning og Python, som er nævnt i jobbeskrivelsen. Selvom kandidaten har 6 års erfaring mod de krævede 2 år, kompenserer den praktiske erfaring og de relevante projekter for dette.
+R325;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+C++, Flask, Cloud Computing, Data Analysis, React, Django, Deep Learning
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Django, Excel, Flask, Java.";82;1;Kandidaten matcher godt på færdighederne Django og Flask, samt har relevant erfaring med data processing og webudvikling. Selvom kandidaten har mere erfaring end det krævede (9 år vs. 5 år), er der ingen indikation af Java-kompetencer, hvilket er et krav i jobbeskrivelsen.
+R120;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+SQL, C++, Java, Machine Learning, Python
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Google Data Analytics, NLP Certification";"We are hiring a Data Analyst.
+Required experience: 4 years.
+Skills required: Power BI, Kubernetes, NLP, Node.js, Cloud Computing, Django.";68;1;Kandidaten har en stærk baggrund inden for dataanalyse med relevant erfaring og certificeringer, men mangler flere af de specificerede teknologier (Kubernetes, Node.js, Django) i jobbeskrivelsen. Selvom kandidatens færdigheder overlapper med nogle krav, er der et betydeligt hul i den specifikke værktøjskasse.
+R78;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Django, SQL, Deep Learning, Docker, Data Analysis
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Machine Learning, Excel, TensorFlow, Django, PyTorch, C++, Deep Learning.";68;0;Kandidaten mangler den krævede erfaring (6 år vs. 5 år), men har flere relevante færdigheder som Django, Deep Learning og Data Analysis. Selvom kandidaten ikke besidder alle de specificerede teknologier (TensorFlow, PyTorch, C++), er der en vis overlapning i kompetencerne, hvilket indikerer potentiale.
+R770;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+TensorFlow, Deep Learning, Node.js
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization, Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Data Analysis, Kubernetes, Docker.";28;0;Kandidaten mangler den krævede erfaring (5 år) og de specifikke færdigheder (Kubernetes, Docker), hvilket er afgørende for stillingen som Data Analyst. Selvom kandidaten har relevante projekter og kompetencer indenfor data science, opvejer det ikke manglen på den eksplicit efterspurgte erfaring og teknologier.
+R958;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Java, Flask, Docker, NLP, Python, Cloud Computing, Excel, Kubernetes
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Google Data Analytics, Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Machine Learning, Docker, Flask, Power BI, Excel, TensorFlow, Deep Learning.";65;0;Kandidaten mangler den krævede erfaring på 3 år, hvilket trækker ned. Selvom kandidaten besidder flere af de ønskede færdigheder (Flask, Docker, Excel), er der et hul i specifikke områder som Machine Learning, TensorFlow og Deep Learning, selvom kandidaten har en Deep Learning Specialization.
+R423;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Deep Learning, Django, React, C++, TensorFlow, SQL, Machine Learning
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+NLP Certification";"We are hiring a Data Analyst.
+Required experience: 1 years.
+Skills required: NLP, Java, Machine Learning, Docker, Power BI, SQL.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning, som er et centralt element i Data Analyst rollen. Selvom kandidaten har mere erfaring end det krævede minimum (3 år vs. 1 år), og ikke besidder alle de specificerede færdigheder (Java, Docker), opvejes dette af den solide baggrund og NLP-certificeringen.
+R914;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Django, Java, Node.js, NLP, Data Analysis, C++, Power BI
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+AWS Certified";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Deep Learning, Kubernetes, Machine Learning.";35;0;Kandidaten mangler den krævede ekspertise inden for Deep Learning, Kubernetes og Machine Learning, som er centrale for stillingen som Data Analyst. Selvom kandidaten har erfaring med dataanalyse og relaterede værktøjer, opfylder de ikke de specifikke tekniske krav i jobbeskrivelsen.
+R501;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Data Analysis, SQL, PyTorch, Kubernetes, Cloud Computing
+
+Experience:
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Flask, Excel, C++, Data Analysis, Python, Node.js, TensorFlow.";45;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket udgør et betydeligt mismatch i forhold til jobbeskrivelsen. Selvom kandidaten demonstrerer relevante færdigheder og har udført projekter der matcher visse krav (TensorFlow, Node.js), er det samlede match svækket af den manglende erfaring.
+R113;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Deep Learning, Kubernetes, Cloud Computing, Docker, Java, Django, Python, PyTorch
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: TensorFlow, Node.js, Flask, Machine Learning, Python, Java, NLP.";82;1;Kandidaten har en stærk profil med relevant erfaring inden for dataanalyse, selvom der mangler specifikke nævnelser af TensorFlow og Node.js fra jobbeskrivelsen. Den beskrevne erfaring med Machine Learning, Python og Flask er meget positivt, og den samlede kompetenceprofil matcher godt med stillingskravene.
+R520;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Kubernetes, Deep Learning, Flask, Node.js, Excel, SQL
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Power BI, PyTorch, SQL.";35;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt problem. Selvom kandidaten har SQL-færdigheder og har arbejdet med optimering af modeller, matcher de ikke fuldt ud de specifikke krav til Power BI og PyTorch, der er nævnt i jobbeskrivelsen.
+R98;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Deep Learning, NLP, Cloud Computing, Django, Java, Node.js, Machine Learning
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Java, TensorFlow, Django, C++, Docker, Python, Data Analysis.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for dataanalyse, selvom den overstiger det krævede antal år. CV'et demonstrerer kompetencer i flere af de ønskede teknologier (Django, Java) og viser praktisk erfaring med deployment og backend-systemer.
+R205;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+SQL, C++, Flask, Excel
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Machine Learning, Deep Learning, Flask, Excel, TensorFlow.";48;0;Kandidaten mangler den krævede erfaring på 5 år, og selvom der er overlap i nogle færdigheder (Flask, Excel), opfylder CV'et ikke kravet om Machine Learning og Deep Learning. Kernematch er derfor svag, hvilket trækker scoren ned.
+R833;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Flask, Kubernetes, C++
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: PyTorch, Excel, Power BI, Node.js, Flask, SQL.";38;0;Kandidaten mangler den krævede erfaring (3 år) og flere afgørende tekniske færdigheder som PyTorch, Excel og Power BI. Selvom kandidaten har nogle relevante kompetencer som Flask og har arbejdet med data science projekter, opvejer det ikke manglen på kernekompetencer og erfaring, hvilket trækker scoren markant ned.
+R89;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Power BI, Java, React, NLP, Excel, Cloud Computing, Docker
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Flask, Deep Learning, PyTorch, Data Analysis, React.";82;1;Kandidaten har en stærk profil med relevant erfaring, især i forhold til React og webapplikationsudvikling. Selvom kandidaten ikke nævner Deep Learning eller PyTorch specifikt, er den generelle data science baggrund og erfaring med NLP og cloud computing lovende.
+R946;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Excel, NLP, Django, React
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+NLP Certification";"We are hiring a Data Analyst.
+Required experience: 2 years.
+Skills required: Kubernetes, Docker, SQL.";58;0;Kandidaten har en stærk baggrund inden for data science, men mangler de specifikke tekniske færdigheder (Kubernetes, Docker, SQL) der er eksplicit nævnt i jobbeskrivelsen. Selvom kandidatens erfaring og projekter viser potentiale, opvejer det ikke den manglende direkte match på de krævede værktøjer.
+R597;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Power BI, Excel, React, C++, NLP
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Kubernetes, Java, Flask.";35;0;Kandidaten mangler den krævede erfaring (3 år vs. 2 år) og de specifikke tekniske færdigheder (Kubernetes, Java, Flask), hvilket er kritisk for stillingen som Data Analyst. Selvom kandidaten har relevante data-relaterede projekter og kompetencer indenfor andre områder, opvejer det ikke manglen på kernekompetencer.
+R363;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+NLP, React, Python, Machine Learning
+
+Experience:
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Deep Learning, PyTorch, Node.js, Django, Kubernetes, Power BI.";68;1;Kandidaten har en stærk baggrund inden for Machine Learning, men mangler flere af de specifikke teknologier nævnt i jobbeskrivelsen (PyTorch, Node.js, Django, Kubernetes). Selvom kandidatens erfaring overstiger kravet og inkluderer relevante projekter, er der et betydeligt mismatch på de krævede værktøjer, hvilket trækker scoren ned.
+R302;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+NLP, Data Analysis, Java, Cloud Computing, PyTorch
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+Microsoft Azure, AWS Certified";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Django, Cloud Computing, Deep Learning, Python.";38;1;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder nogle relevante færdigheder som Cloud Computing og har projekter der demonstrerer visse kompetencer (Flask, React), opvejer det ikke den betydelige forskel i erfaring og manglen på specifikke nøglefærdigheder som Django og Deep Learning.
+R259;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+TensorFlow, NLP, Kubernetes, PyTorch, C++, Java, Node.js, Deep Learning
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Data Analysis, Node.js, C++, NLP, Java.";92;1;Kandidaten matcher godt til stillingen som Data Analyst, da CV'et demonstrerer erfaring med de efterspurgte teknologier (Node.js, C++, Java, NLP) og har en stærk profil inden for dataanalyse. Selvom kandidaten har 5 års erfaring mod jobbeskrivelsens krav om 3 år, er den praktiske erfaring og kompetencer mere end tilstrækkelige.
+R48;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Cloud Computing, Flask, NLP, Data Analysis, SQL
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Deep Learning, Power BI, Kubernetes.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for dataanalyse, og besidder flere af de ønskede kompetencer som Power BI. Selvom kandidaten ikke eksplicit nævner Kubernetes eller Deep Learning i beskrivelserne af sine projekter, er den generelle baggrund meget lovende.
+R229;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+TensorFlow, Machine Learning, Deep Learning, React, PyTorch, NLP, Excel, Cloud Computing
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+
+Certifications:
+Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Django, TensorFlow, C++, React, Machine Learning, Node.js, SQL, Excel.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for dataanalyse, der matcher jobbeskrivelsens krav til Machine Learning og React. Selvom Django og C++ ikke nævnes specifikt, dækker Flask (som er et Python web framework) over mange af de samme kompetencer som Django, hvilket indikerer en god forståelse for backend-udvikling.
+R414;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Machine Learning, Python, Java, Excel, Kubernetes, TensorFlow, Cloud Computing, C++
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Cloud Computing, Flask, PyTorch, Docker, Node.js, NLP.";28;0;Kandidaten mangler den krævede erfaring (3 år) og har en professional summary, der angiver 0 års erfaring. Selvom kandidaten besidder flere relevante færdigheder som Python, Cloud Computing og Node.js, er det primære krav om 3 års erfaring ikke opfyldt, hvilket resulterer i en lav score.
+R845;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Flask, Kubernetes, SQL, React, TensorFlow, Docker, Power BI
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+NLP Certification, AWS Certified";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Deep Learning, Machine Learning, Excel, SQL, Power BI, PyTorch, Data Analysis.";42;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder flere relevante færdigheder som SQL og Power BI, samt har demonstreret dataanalysekompetencer gennem projekter, opvejer det ikke den markante forskel i erfaring, især da stillingen kræver en Data Analyst med 5 års erfaring.
+R105;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Data Analysis, Machine Learning, React, Power BI
+
+Experience:
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 1 years.
+Skills required: Docker, C++, Excel, PyTorch, Node.js, Power BI, Flask.";68;1;Kandidaten har en stærk baggrund inden for dataanalyse og machine learning, men mangler flere af de specifikke teknologier nævnt i jobbeskrivelsen (Docker, C++, PyTorch, Node.js, Flask). Selvom erfaringen er betydelig, opvejer den ikke fuldstændigt manglen på visse nøglekompetencer.
+R375;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Machine Learning, Node.js, Django, React, NLP
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+NLP Certification";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: Cloud Computing, SQL, Python, Power BI.";68;1;Kandidaten har en stærk baggrund inden for data science, men mangler direkte erfaring med de specificerede værktøjer (Cloud Computing, SQL, Power BI) i jobbeskrivelsen. Selvom kandidatens erfaring og projekter demonstrerer relevante færdigheder, er der et mismatch på de specifikke teknologier.
+R443;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Docker, Flask, Power BI, Cloud Computing, Django
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Machine Learning, Flask, NLP, Excel, Power BI.";35;0;Kandidaten mangler den krævede erfaring på 3 år, hvilket udgør et betydeligt problem. Selvom kandidaten besidder nogle af de ønskede færdigheder (Flask, Power BI), er det primære fokus for en Data Analyst – Machine Learning og NLP – ikke tilstrækkeligt demonstreret i CV'et, selvom der nævnes et projekt.
+R219;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+NLP, Cloud Computing, Power BI
+
+Experience:
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization, Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 6 years.
+Skills required: NLP, Python, Deep Learning, Power BI.";78;1;Kandidaten matcher godt på flere områder, herunder NLP og Power BI. Dog mangler kandidaten det krævede antal år (6 år vs. 5 års erfaring), hvilket trækker ned, men kompenseres delvist af de relevante projekter og den beskrevne ekspertise inden for Deep Learning.
+R292;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+SQL, React, TensorFlow, Java
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Google Data Analytics";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Data Analysis, Docker, Excel, PyTorch, NLP, SQL, Python, TensorFlow.";78;1;Kandidaten har en stærk baggrund inden for dataanalyse med relevante færdigheder som SQL, TensorFlow og erfaring med optimering af modeller. Selvom kandidaten mangler specifikke nævnte kompetencer som Docker, PyTorch, NLP og Excel, er den samlede profil lovende, især i forhold til de beskrevne resultater.
+R299;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+NLP, Excel, Machine Learning
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+AWS Certified, Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 1 years.
+Skills required: Flask, Django, Python, C++, Machine Learning.";78;1;Kandidaten har en relevant baggrund inden for dataanalyse, men mangler specifik erfaring med C++ som nævnt i jobbeskrivelsen. Selvom kandidatens færdigheder overlapper med flere af de ønskede kompetencer (Python, Machine Learning, Flask), er den samlede matchscore moderat på grund af manglende eksplicit erfaring med alle krav.
+R788;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Java, NLP, Cloud Computing, PyTorch, SQL, Flask, Data Analysis
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Excel, Machine Learning, Kubernetes, React.";75;0;Kandidaten mangler den krævede erfaring (5 år vs. 4 år), men har relevante færdigheder som Data Analysis, SQL og PyTorch, samt et projekt der indikerer Machine Learning kompetencer. Selvom Kubernetes og React ikke er nævnt, kan kandidatens generelle data science baggrund kompensere for dette.
+R137;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Excel, NLP, Docker, Deep Learning, Node.js, Kubernetes, React
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified, Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 1 years.
+Skills required: Docker, Java, React, NLP, Node.js, SQL, Deep Learning.";78;1;Kandidaten matcher jobbeskrivelsen relativt godt, da de har den krævede erfaring på 1 år og besidder flere af de efterspurgte færdigheder som Docker, NLP, Deep Learning og Node.js. Manglen på Java og React i CV'et samt tilstedeværelsen af Kubernetes (ikke nævnt i jobbeskrivelsen) trækker dog ned.
+R271;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+NLP, Flask, Python, React
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Microsoft Azure, AWS Certified";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Docker, Machine Learning, React, SQL, Node.js, PyTorch, Flask, Excel.";75;1;Kandidaten matcher kravene til erfaring (3 år) og har flere relevante færdigheder som React, Flask og Node.js. Dog mangler kandidaten eksplicitte kompetencer inden for Docker, Machine Learning, PyTorch, SQL og Excel, hvilket reducerer den samlede score.
+R225;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+C++, Excel, Deep Learning
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Cloud Computing, Flask, C++, React.";82;1;Kandidaten har en stærk baggrund inden for data science, demonstreret gennem projekter med Flask og React. Selvom kandidaten har mere erfaring end krævet (7 år vs. 3 år), mangler CV'et eksplicit nævnelse af Cloud Computing, hvilket er et krav i jobbeskrivelsen.
+R15;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Node.js, React, Excel, Java, TensorFlow
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Google Data Analytics";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Flask, TensorFlow, Python, Machine Learning, Java, Docker, SQL.";75;1;Kandidaten har en stærk baggrund inden for dataanalyse med relevant erfaring i machine learning og TensorFlow, men mangler ekspertise i Flask, Docker og SQL som specifikt efterspurgt. Selvom kandidatens samlede erfaring overstiger kravet, er den manglende match på de specifikke teknologier en væsentlig faktor.
+R37;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+C++, PyTorch, Django, Machine Learning
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+NLP Certification, Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 1 years.
+Skills required: Cloud Computing, Excel, Python, SQL, Machine Learning, PyTorch, C++, Kubernetes.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for data science, der overlapper mange af de ønskede færdigheder. Selvom jobbeskrivelsen specifikt nævner Cloud Computing, Kubernetes og SQL, som ikke eksplicit fremgår af CV'et, er den samlede kompetenceprofil meget lovende.
+R401;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+TensorFlow, Data Analysis, PyTorch, Kubernetes, Node.js
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Cloud Computing, Python, Kubernetes, Data Analysis, Power BI, Machine Learning, Java, PyTorch.";58;0;Kandidaten mangler den krævede erfaring (3 år) og har ikke Java eller Cloud Computing, hvilket vægter tungt i vurderingen. Selvom kandidaten demonstrerer kompetencer inden for Data Analysis, PyTorch og Kubernetes, er det samlede match svækket af de manglende kernekompetencer og den begrænsede erfaring.
+R239;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+TensorFlow, Kubernetes, Excel
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+NLP Certification";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: PyTorch, Data Analysis, Node.js, Power BI, Machine Learning, Java, Deep Learning, TensorFlow.";48;0;Kandidaten mangler den krævede erfaring på 3 år, hvilket vægter tungt i vurderingen. Selvom kandidaten demonstrerer kompetencer inden for Machine Learning og Deep Learning (TensorFlow), er der et betydeligt mismatch med de specificerede teknologier som PyTorch, Node.js, Java og Power BI.
+R470;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+React, Machine Learning, Excel, Django, Python, Node.js, SQL, Power BI
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified, Deep Learning Specialization";"We are hiring a Data Analyst.
+Required experience: 4 years.
+Skills required: Data Analysis, Java, PyTorch, Python, Kubernetes, Cloud Computing.";58;0;Kandidaten mangler den krævede erfaring (4 år vs. 2 års erfaring) og har ikke de specifikke teknologier som Java, PyTorch og Kubernetes nævnt i jobbeskrivelsen. Selvom kandidaten besidder Python-færdigheder og har relevant projektarbejde med Power BI, er det samlede match utilstrækkeligt til at opfylde kernen i Data Analyst rollen.
+R348;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+React, C++, Docker, Kubernetes, PyTorch, Deep Learning, Java, SQL
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 2 years.
+Skills required: Deep Learning, Power BI, Flask, Data Analysis, Java, PyTorch, Kubernetes, TensorFlow.";78;1;Kandidaten matcher jobbeskrivelsen relativt godt, da de har den krævede erfaring og flere af de efterspurgte færdigheder som Kubernetes, PyTorch, Deep Learning, Java. Dog mangler kandidaten specifikke kompetencer som Power BI og Flask, hvilket reducerer det samlede match.
+R123;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Deep Learning, Kubernetes, Flask, NLP, Power BI, Cloud Computing, Excel
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Data Analyst.
+Required experience: 5 years.
+Skills required: Java, Docker, Python, React, SQL, Machine Learning, Data Analysis.";68;0;Kandidaten har en stærk baggrund inden for dataanalyse, men mangler direkte erfaring med Java, Docker og SQL, som er eksplicit nævnt i jobbeskrivelsen. Selvom kandidatens færdigheder overlapper med flere områder, vejer det negative fra manglen på de specifikke teknologier tungt.
+R502;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Machine Learning, Flask, Django, Docker, Deep Learning
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Google Data Analytics, Microsoft Azure";"We are hiring a Data Analyst.
+Required experience: 2 years.
+Skills required: SQL, C++, Python, Django, Node.js.";65;0;Kandidaten mangler den krævede erfaring (2 år) og har ikke C++ eller Node.js, hvilket er væsentlige kompetencer i jobbeskrivelsen. Selvom kandidaten besidder Django-færdigheder og har relevant projektarbejde, opvejer det ikke fuldstændigt manglen på de specificerede teknologier og den nødvendige erfaring.
+R332;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+SQL, React, TensorFlow, Flask, Django
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+Microsoft Azure, AWS Certified";"We are hiring a Data Analyst.
+Required experience: 4 years.
+Skills required: Python, Java, NLP, Django, Kubernetes, Cloud Computing, SQL, PyTorch.";72;1;Kandidaten matcher godt på flere områder, især med Django og SQL. Dog mangler kandidaten ekspertise i Python, Java, NLP, Kubernetes og PyTorch, som er centrale for stillingen som Data Analyst, hvilket trækker scoren ned.
+R680;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+PyTorch, React, SQL
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization, AWS Certified";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Flask, NLP, Python, Java, Cloud Computing, React.";65;0;Kandidaten mangler den krævede erfaring (3 år vs. 2 år), men har nogle relevante færdigheder som React og Python, samt erfaring med cloud deployment. Selvom kandidatens projekter viser dygtighed inden for deep learning, matcher de ikke direkte de specificerede teknologier i jobbeskrivelsen (Flask, NLP, Java).
+R273;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+NLP, Java, C++, Excel, Python
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+
+Certifications:
+NLP Certification";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: Deep Learning, Node.js, SQL.";68;1;Kandidaten har en stærk baggrund inden for dataanalyse, men mangler direkte erfaring med Deep Learning og Node.js, som er specificeret i jobbeskrivelsen. Selvom kandidatens NLP-erfaring og projektarbejde viser kompetencer der kan overføres, opvejer det ikke den manglende specifikke teknologierfaring.
+R646;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Power BI, Python, Kubernetes, TensorFlow, C++, React, Data Analysis, Django
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization, NLP Certification";"We are hiring a Data Analyst.
+Required experience: 4 years.
+Skills required: Power BI, React, Excel, Docker, Cloud Computing, PyTorch, Flask, SQL.";65;0;Kandidaten mangler den krævede erfaring på 4 år, hvilket er et væsentligt punkt. Selvom kandidatens færdigheder overlapper med mange af de ønskede (Power BI, React), og deres projekter viser potentiale inden for dataanalyse og machine learning, opvejer det ikke den manglende erfaring.
+R854;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+NLP, Flask, SQL, Deep Learning, Docker
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Microsoft Azure, Google Data Analytics";"We are hiring a Data Analyst.
+Required experience: 3 years.
+Skills required: PyTorch, Kubernetes, Java, Django, Excel.";45;0;Kandidaten mangler den krævede erfaring (3 år) og flere afgørende tekniske færdigheder som PyTorch, Kubernetes og Java. Selvom kandidaten har relevante data science kompetencer og projekter, opvejer det ikke manglen på de specifikke værktøjer nævnt i jobbeskrivelsen.

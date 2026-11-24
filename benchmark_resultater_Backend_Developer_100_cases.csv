@@ -1,0 +1,1791 @@
+﻿resume_id;resume_text;job_description;AI score;shortlisted;AI feedback
+R1039;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+SQL, Cloud Computing, Django, Flask, Deep Learning, Kubernetes
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 1 years.
+Skills required: Django, React, Cloud Computing, Docker, Deep Learning, SQL, Data Analysis.";65;0;Kandidaten mangler den krævede erfaring (1 år) som angivet i jobbeskrivelsen, hvilket er en væsentlig faktor. Selvom kandidatens færdighedssæt overlapper med flere af de ønskede teknologier (Django, Cloud Computing, SQL, Deep Learning), opvejer det ikke manglen på den specificerede erfaring.
+R625;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+React, Docker, Cloud Computing, Django, PyTorch
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: Node.js, TensorFlow, C++, NLP, Data Analysis.";38;0;Kandidaten matcher kravet til erfaring (5 år), men mangler fundamentale backend-teknologier som Node.js, TensorFlow, C++ og NLP, hvilket er afgørende for stillingen. Selvom kandidaten har relevant erfaring med Python (Django, PyTorch) og cloud computing, opvejer det ikke den manglende ekspertise i de specificerede teknologier.
+R365;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Node.js, Data Analysis, React, Python, Java, Cloud Computing, Excel
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+NLP Certification, Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Kubernetes, Java, React, Python, NLP.";65;1;Kandidaten mangler den krævede erfaring på 4 år, hvilket er et betydeligt punkt. Selvom kandidaten besidder flere af de ønskede kompetencer (React, Python, Java) og har relevante projekter, opvejer det ikke den manglende erfaring i forhold til jobbeskrivelsens krav.
+R364;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Deep Learning, Cloud Computing, SQL, Flask, Data Analysis, Machine Learning
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 1 years.
+Skills required: C++, TensorFlow, Machine Learning, SQL, Node.js, PyTorch, Excel, Flask.";85;1;Kandidaten har en stærk baggrund inden for Machine Learning og relaterede teknologier, hvilket matcher jobbeskrivelsens fokus på Backend Development med disse kompetencer. Selvom kandidatens erfaring (6 år) overstiger det krævede (1 år), er den praktiske erfaring og de beskrevne projekter meget relevante.
+R248;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Data Analysis, PyTorch, SQL, NLP, Django, Power BI, C++, Flask
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 1 years.
+Skills required: PyTorch, TensorFlow, Node.js, Java, Excel, React, Power BI, Kubernetes.";78;1;Kandidaten har en stærk profil med relevant erfaring inden for data science og machine learning, men mangler direkte erfaring med Node.js og Java, som er specificeret i jobbeskrivelsen. Selvom kandidatens færdigheder overlapper betydeligt, trækker det ned at de specifikke backend-teknologier ikke fremgår tydeligt.
+R132;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Python, NLP, Django, Docker, React, Machine Learning, Cloud Computing
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Kubernetes, Docker, Flask, Cloud Computing, PyTorch, SQL, Machine Learning, Deep Learning.";38;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et betydeligt problem. Selvom kandidaten besidder flere relevante færdigheder som Docker, Cloud Computing og Machine Learning, opvejer det ikke manglen på erfaring og specifikke teknologier som Kubernetes, Flask, PyTorch og SQL, der er afgørende for stillingen.
+R36;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Django, React, C++, Java, Machine Learning, Deep Learning
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+NLP Certification";"We are hiring a Backend Developer.
+Required experience: 1 years.
+Skills required: Deep Learning, Excel, PyTorch, SQL.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning og Deep Learning, hvilket matcher jobbeskrivelsens krav. Selvom kandidaten har 4 års erfaring, hvor jobbet kun kræver 1 år, er dette et positivt element, der ikke vægter negativt.
+R141;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Power BI, Node.js, Flask
+
+Experience:
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: Flask, Deep Learning, Power BI.";85;1;Kandidaten matcher godt på flere områder, herunder Flask og Power BI. Selvom stillingen specifikt nævner Deep Learning, er dette ikke eksplicit fremhævet i kandidatens CV, men erfaringen med data science projekter indikerer en vis forståelse for området.
+R258;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+React, PyTorch, Java, Deep Learning, Power BI, SQL, Cloud Computing, Django
+
+Experience:
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Microsoft Azure, NLP Certification";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Cloud Computing, Docker, SQL, Deep Learning, React, Flask, Python, NLP.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for backend-udvikling, selvom den primære jobbeskrivelse nævner Flask, som kandidaten ikke eksplicit har brugt. Kandidatens brede kompetencesæt og erfaring med cloud computing, Python, SQL og deep learning matcher dog i høj grad de efterspurgte færdigheder.
+R352;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+SQL, React, Deep Learning, NLP, Machine Learning
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Microsoft Azure";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: Python, Docker, Excel.";35;0;Kandidaten mangler den krævede Python-erfaring, hvilket er et kritisk element i stillingen som Backend Developer. Selvom kandidaten har stærke kompetencer inden for Machine Learning og relaterede områder, opvejer det ikke manglen på de specifikke backend-teknologier nævnt i jobbeskrivelsen.
+R374;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+PyTorch, NLP, SQL, Deep Learning, Docker, Java, Node.js
+
+Experience:
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Microsoft Azure, Google Data Analytics";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Python, Flask, Java, Cloud Computing, Data Analysis, TensorFlow.";75;1;Kandidaten matcher jobbeskrivelsen relativt godt, da de har den krævede erfaring på 4 år og besidder flere af de ønskede færdigheder som Java. Dog mangler kandidaten eksplicit erfaring med Python og Flask, hvilket er centrale teknologier i stillingen, men kompenserer delvist med andre relevante kompetencer.
+R723;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Machine Learning, Java, SQL, TensorFlow, C++
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 2 years.
+Skills required: SQL, C++, Deep Learning, PyTorch, Power BI, TensorFlow, Node.js.";35;0;Kandidaten mangler den krævede erfaring (2 år) og har en professional summary, der angiver 0 års erfaring. Selvom kandidaten besidder flere relevante færdigheder som SQL, C++, TensorFlow og Machine Learning, er det primære krav om backend-udvikling ikke tydeligt understøttet af CV'et, hvilket trækker scoren ned.
+R207;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Data Analysis, Node.js, Kubernetes
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified, NLP Certification";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: SQL, PyTorch, Excel, Power BI, NLP, Java.";75;1;Kandidaten matcher kravene til erfaring (5 år) og har flere relevante projekter, der indikerer kompetencer inden for backend-udvikling. Dog mangler kandidaten eksplicit Java, hvilket er et væsentligt krav i jobbeskrivelsen, men kompenseret af TensorFlow som alternativ til PyTorch.
+R162;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Excel, Docker, Django, Kubernetes
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+NLP Certification";"We are hiring a Backend Developer.
+Required experience: 1 years.
+Skills required: Docker, PyTorch, NLP, Excel, TensorFlow, Flask, Django.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for backend-udvikling, selvom den angivne erfaring (10 år) overstiger jobbeskrivelsens krav (1 år). Kandidaten besidder flere af de ønskede færdigheder og har demonstreret praktisk anvendelse gennem projekter, hvilket indikerer et godt match.
+R109;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Flask, NLP, Machine Learning, Node.js, Excel, SQL, React
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 1 years.
+Skills required: Power BI, C++, SQL, Java.";78;1;Kandidaten har en stærk profil med relevant erfaring inden for backend-udvikling, selvom den primære jobbeskrivelse efterspørger C++ og Java, som ikke eksplicit nævnes i CV'et. Kandidatens færdigheder i SQL og Power BI matcher direkte jobbeskrivelsen, og de beskrevne projekter demonstrerer praktisk erfaring med backend-systemer.
+R663;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Deep Learning, PyTorch, Kubernetes, Flask, Python, React
+
+Experience:
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Data Analysis, Machine Learning, Python, Kubernetes.";58;0;Kandidaten mangler den krævede erfaring på 4 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder flere relevante færdigheder som Python og Kubernetes, opvejer det ikke den manglende erfaring i forhold til jobbeskrivelsens krav.
+R459;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Deep Learning, Machine Learning, PyTorch
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 1 years.
+Skills required: Python, Deep Learning, Docker, TensorFlow.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for Deep Learning og TensorFlow, hvilket matcher jobbeskrivelsens krav. Selvom kandidatens erfaring (6 år) overstiger det krævede minimum (1 år), er den samlede match-kvalitet høj på grund af de praktiske resultater og kompetencer.
+R20;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Node.js, C++, Flask, Cloud Computing, Data Analysis
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: C++, PyTorch, Data Analysis.";78;1;Kandidaten matcher godt på den tekniske profil, da både C++ og Data Analysis nævnes i jobbeskrivelsen og CV'et. Dog mangler kandidaten erfaring med PyTorch, hvilket er en væsentlig kompetence i stillingsopslaget.
+R763;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+NLP, Deep Learning, SQL, Java, TensorFlow, Kubernetes, Python
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+NLP Certification, AWS Certified";"We are hiring a Backend Developer.
+Required experience: 2 years.
+Skills required: React, Power BI, Node.js, Data Analysis, PyTorch, Docker.";78;0;Kandidaten har en stærk baggrund inden for backend-udvikling med erfaring i Node.js, Python og design af skalerbare systemer, hvilket matcher jobbeskrivelsen godt. Dog mangler kandidaten den krævede 2 års erfaring, og selvom de beskrevne projekter er relevante, trækker det ned på den samlede score.
+R160;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Docker, Python, Cloud Computing, C++, Deep Learning
+
+Experience:
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: SQL, Data Analysis, Django, TensorFlow, Node.js, Flask, React, Docker.";78;1;Kandidaten matcher godt på flere områder, herunder erfaringens længde og nogle af de ønskede teknologier (Docker, Flask, React, Node.js). Dog mangler der eksplicit SQL og Data Analysis kompetencer, hvilket er væsentligt for en Backend Developer rolle, selvom Python og Deep Learning kan dække noget af det.
+R251;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Machine Learning, SQL, PyTorch, Django, Cloud Computing, NLP, Java, Excel
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization, AWS Certified";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: Deep Learning, NLP, PyTorch, TensorFlow, Kubernetes, Docker, Python, Data Analysis.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning og NLP, som matcher jobbeskrivelsens krav. Selvom der mangler eksplicit erfaring med Kubernetes og Docker, kompenserer den samlede kompetenceprofil og de beskrevne projekter.
+R261;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Django, Kubernetes, Node.js
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: C++, Python, PyTorch, Data Analysis, NLP, Machine Learning, Flask, Deep Learning.";38;0;Kandidaten mangler den primære programmeringssprogskompetence (C++) og flere af de centrale teknologier (PyTorch, Data Analysis, NLP) nævnt i jobbeskrivelsen. Selvom kandidaten har erfaring med backend-udvikling og machine learning, er det ikke tilstrækkeligt til at kompensere for manglen på specifikke færdigheder.
+R431;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Excel, Deep Learning, Power BI, PyTorch, Python
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: C++, React, Machine Learning, Docker, TensorFlow, PyTorch, Deep Learning, Excel.";38;0;Kandidaten mangler den krævede erfaring (3 år) og har ikke C++ eller React, som er essentielle kompetencer i jobbeskrivelsen. Selvom kandidaten besidder nogle relevante færdigheder som PyTorch og Deep Learning, opvejer det ikke manglen på kernekompetencer og tilstrækkelig erfaring.
+R34;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+React, Django, Cloud Computing, NLP, Python, Deep Learning
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: SQL, Power BI, Machine Learning, Flask, C++.";82;1;Kandidaten har en stærk baggrund inden for backend-udvikling med Python og relaterede teknologier, selvom der mangler eksplicit nævnelse af C++ og Power BI. Erfaringen overstiger det krævede antal år, og de beskrevne projekter viser relevant praktisk erfaring.
+R304;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Cloud Computing, Java, Data Analysis
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: SQL, Node.js, Kubernetes, Data Analysis, Power BI, NLP.";68;1;Kandidaten har en stærk baggrund inden for dataanalyse og Power BI, hvilket matcher jobbeskrivelsen. Dog mangler kandidaten eksplicit erfaring med Node.js og Kubernetes, som er centrale teknologier i stillingen, hvilket trækker scoren ned.
+R209;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Power BI, Python, NLP, SQL, Deep Learning
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: TensorFlow, Docker, PyTorch, Excel, Machine Learning.";85;1;Kandidaten matcher godt på færdigheder, da TensorFlow nævnes direkte i CV'et, og derudover er der overlap med Python, SQL og Deep Learning. Selvom erfaringen er lidt over kravet, opvejes det af de relevante projekter og den beskrevne ekspertise.
+R426;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Machine Learning, Cloud Computing, SQL, NLP
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+NLP Certification, Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 2 years.
+Skills required: Machine Learning, Data Analysis, PyTorch, NLP, Flask, C++, Docker.";82;1;Kandidaten har en stærk baggrund inden for Machine Learning og NLP, hvilket matcher jobbeskrivelsens krav. Selvom kandidaten ikke nævner specifikke teknologier som PyTorch, Flask eller C++, er der et overlap i de underliggende principper og erfaring med relaterede værktøjer (TensorFlow) samt datahåndtering.
+R262;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Cloud Computing, Django, Machine Learning, Excel, SQL, TensorFlow, Deep Learning
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Microsoft Azure, NLP Certification";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: NLP, SQL, C++, Cloud Computing.";58;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder flere relevante færdigheder som SQL og Cloud Computing samt har projekter der demonstrerer praktisk anvendelse af Machine Learning og Deep Learning, opvejer det ikke den markante forskel i erfaring.
+R198;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+SQL, Kubernetes, Docker, Python, Cloud Computing, Machine Learning, TensorFlow
+
+Experience:
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 2 years.
+Skills required: Deep Learning, React, Docker, Java, Machine Learning, Kubernetes, Power BI.";78;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning, Kubernetes og Docker, som matcher jobbeskrivelsen. Selvom kandidaten har mere end de krævede 2 års erfaring, mangler der specifikke kompetencer som Java, React og Power BI, hvilket reducerer den samlede score.
+R474;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Docker, PyTorch, Python
+
+Experience:
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: Node.js, Cloud Computing, Machine Learning, NLP, Power BI, Data Analysis.";78;1;Kandidaten har en stærk profil med relevant erfaring inden for Machine Learning og Data Analysis, hvilket matcher jobbeskrivelsens fokus. Selvom Node.js og Cloud Computing specifikt nævnes i jobbeskrivelsen, mangler disse kompetencer på CV'et, men den samlede profil er stadig attraktiv.
+R322;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+C++, SQL, TensorFlow, PyTorch, Java, NLP, Node.js, Python
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization, NLP Certification";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: Cloud Computing, Kubernetes, TensorFlow.";85;1;Kandidaten matcher godt til stillingen som Backend Developer, da CV'et demonstrerer stærke færdigheder inden for cloud computing (nævnt i 'Deployed applications using cloud services') og TensorFlow. Selvom erfaringen er mere end det krævede minimum, opvejer de praktiske projekter og den brede kompetenceprofil dette.
+R236;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+PyTorch, Deep Learning, Machine Learning, Java, Power BI, NLP, SQL
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 2 years.
+Skills required: PyTorch, Data Analysis, SQL, Cloud Computing, Kubernetes, Power BI.";82;1;Kandidaten matcher godt på flere af de ønskede færdigheder (PyTorch, SQL, Power BI) og har den krævede erfaring. Selvom der mangler eksplicit Cloud Computing og Kubernetes i CV'et, indikerer projekterne med Node.js og Flask en forståelse for backend-udvikling, hvilket kan kompensere.
+R100;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+TensorFlow, Deep Learning, Docker, Machine Learning, SQL, Excel, Data Analysis, Flask
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 2 years.
+Skills required: Power BI, PyTorch, Django, Docker, SQL, Deep Learning.";78;1;Kandidaten matcher stillingen som Backend Developer godt, da de har den krævede erfaring på 2 år og flere af de ønskede kompetencer (Docker, SQL, Deep Learning). Dog mangler kandidaten specifikke færdigheder som Django, PyTorch og Power BI, hvilket reducerer scoren en smule.
+R138;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Machine Learning, Power BI, Node.js, Python, React, Flask, Django
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 1 years.
+Skills required: Flask, Power BI, Cloud Computing, TensorFlow, Data Analysis, Docker, NLP, Deep Learning.";82;1;Kandidaten matcher godt på flere områder, herunder Flask, Power BI og TensorFlow. Selvom jobbeskrivelsen kræver 1 års erfaring, har kandidaten 3 års erfaring, hvilket er en fordel, men den manglende eksplicitte nævnelse af Cloud Computing, Docker, NLP og Deep Learning i CV'et trækker ned.
+R1135;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+PyTorch, Flask, NLP
+
+Experience:
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: NLP, Django, Flask, React, Deep Learning.";58;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder nogle af de nødvendige færdigheder (Flask, NLP) og har relevant projekt-erfaring, opvejer det ikke den manglende erfaring og fraværet af Django og React.
+R86;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+React, C++, Python, Machine Learning, Data Analysis, SQL, Deep Learning, Docker
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: SQL, Kubernetes, Node.js, Django, TensorFlow.";82;1;Kandidaten matcher kravene til erfaring (5 år) og har flere relevante færdigheder som SQL, Python og TensorFlow. Selvom Kubernetes og Node.js mangler eksplicit i CV'et, dækker Docker over mange af de samme principper, hvilket indikerer en forståelse for containerisering.
+R864;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Docker, Kubernetes, SQL, C++
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Microsoft Azure";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: React, Excel, Flask.";28;0;Kandidaten mangler den krævede erfaring (5 år) og har ikke de specificerede teknologier (React, Excel, Flask). Selvom kandidaten demonstrerer relevante færdigheder som Docker, Kubernetes og Node.js, er det primære krav om backend-udvikling med specifikke værktøjer ikke opfyldt, hvilket resulterer i en lav score.
+R944;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Cloud Computing, Excel, Kubernetes, Data Analysis, Django, Machine Learning
+
+Experience:
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Microsoft Azure";"We are hiring a Backend Developer.
+Required experience: 2 years.
+Skills required: React, Node.js, Cloud Computing, Python, Deep Learning, Power BI, PyTorch.";38;0;Kandidaten mangler den krævede erfaring (2 år) og har en professional summary, der angiver 0 års erfaring. Selvom kandidaten demonstrerer kompetencer inden for flere af de ønskede teknologier (Node.js, Cloud Computing, Machine Learning), er det primære fokus på data science og mindre direkte relateret til en backend udviklingsrolle, hvilket trækker scoren ned.
+R391;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Python, Docker, Deep Learning, Node.js, React, TensorFlow, PyTorch
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 2 years.
+Skills required: PyTorch, Java, Deep Learning.";85;1;Kandidaten matcher godt til stillingen som Backend Developer, da CV'et demonstrerer stærke færdigheder inden for Python, PyTorch og Deep Learning, som er nævnt i jobbeskrivelsen. Selvom kandidaten har mere erfaring end de krævede 2 år, opvejes dette af den relevante ekspertise og projekter.
+R1085;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Kubernetes, Flask, Deep Learning, Data Analysis, SQL
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: Deep Learning, Docker, C++.";68;0;Kandidaten mangler den krævede erfaring (5 år vs. 3 år), men har relevante færdigheder inden for Deep Learning, hvilket er et positivt tegn. Selvom C++ ikke nævnes i CV'et, dækker de andre kompetencer en del af behovet.
+R277;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Excel, Cloud Computing, PyTorch, Node.js, Kubernetes, Java, Deep Learning
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+
+Certifications:
+NLP Certification, Google Data Analytics";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Python, SQL, PyTorch.";78;1;Kandidaten har en stærk profil med relevant erfaring inden for deep learning og webudvikling, hvilket matcher jobbeskrivelsens behov. Selvom kandidaten har mere end de krævede 4 års erfaring, er der et mismatch i forhold til Python og SQL, som er eksplicit nævnt i jobbeskrivelsen, men ikke fremhævet i CV'et.
+R982;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Python, Cloud Computing, Data Analysis, Deep Learning, TensorFlow, Node.js
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: PyTorch, React, C++, Deep Learning.";28;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket udgør et betydeligt mismatch i forhold til jobbeskrivelsen. Selvom kandidaten besidder nogle relevante færdigheder som Deep Learning og Python, er der manglende match med de specifikke teknologier (PyTorch, C++, React) nævnt i stillingsopslaget.
+R159;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Docker, Flask, Excel, Kubernetes, Cloud Computing, Power BI, C++
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Kubernetes, Java, PyTorch, Cloud Computing, Docker, Machine Learning, Python, Django.";78;1;Kandidaten har en stærk profil med relevant erfaring inden for cloud computing, Docker og Kubernetes. Selvom kandidaten ikke nævner Java eller PyTorch specifikt, er Flask et Python-baseret web framework, hvilket indikerer kompetencer der kan overføres til Django, og den samlede erfaring kompenserer for manglen på nogle specifikke teknologier.
+R111;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Java, NLP, Cloud Computing, Python, Machine Learning, C++, SQL, Docker
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Deep Learning Specialization, Microsoft Azure";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: Docker, Java, Machine Learning, Flask, Node.js, React, TensorFlow, NLP.";85;1;Kandidaten matcher godt på mange af de ønskede færdigheder, herunder Java, NLP, Docker, Machine Learning og Flask/Node.js (gennem projekter). Selvom kandidatens erfaring er lidt over jobbeskrivelsens krav, opvejes dette af den praktiske erfaring med relevante teknologier.
+R742;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+PyTorch, C++, Excel, Power BI, TensorFlow, Flask
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Excel, Deep Learning, NLP, Machine Learning.";35;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et betydeligt mismatch. Selvom kandidaten besidder nogle af de ønskede færdigheder (Excel, TensorFlow), er det samlede match svækket af den manglende kernekompetence og den lave erfaring.
+R314;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Node.js, Power BI, PyTorch, SQL
+
+Experience:
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Machine Learning, Data Analysis, Node.js.";35;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et væsentligt problem. Selvom kandidaten har nogle relevante færdigheder som Node.js og PyTorch (som kan bruges til Machine Learning), opvejer det ikke den betydelige mangel på erfaring og ekspertise inden for Data Analysis.
+R832;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Cloud Computing, Power BI, SQL
+
+Experience:
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+NLP Certification, AWS Certified";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: React, Power BI, SQL, Data Analysis, TensorFlow, C++, Django.";45;0;Kandidaten mangler den krævede backend-udviklingserfaring (6 år vs. 5 år) og flere af de specifikke teknologier som React, C++ og TensorFlow, hvilket er kritisk for stillingen. Selvom kandidaten har Power BI og SQL færdigheder, opvejer det ikke manglen på kernekompetencer indenfor backend-udvikling.
+R810;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Docker, TensorFlow, Excel, React, SQL, Data Analysis, Django, C++
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Machine Learning, Kubernetes, Java, NLP.";28;0;Kandidaten mangler den krævede erfaring på 6 år, og CV'et indikerer 0 års erfaring. Selvom kandidaten demonstrerer interesse for relevante teknologier som Docker og Django, opfylder de ikke det primære krav om backend-udvikling med Machine Learning, Kubernetes, Java og NLP, hvilket er afgørende for kernen i stillingen.
+R626;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+SQL, Data Analysis, PyTorch, Node.js, Docker, C++, Cloud Computing, TensorFlow
+
+Experience:
+- Worked on real-world data science projects
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: SQL, Cloud Computing, Power BI, Django, Flask, Python, Machine Learning.";78;0;Kandidaten mangler det krævede antal års erfaring (5 år vs. 4 år), men har flere relevante kompetencer som SQL, Cloud Computing og Flask. Selvom kandidatens projekter viser praktisk anvendelse af nogle nøglefærdigheder, er den manglende erfaring en væsentlig faktor.
+R457;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Cloud Computing, React, Flask, TensorFlow, Docker
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: React, TensorFlow, Power BI, Kubernetes, Java, C++, Docker.";78;1;Kandidaten matcher godt på flere områder, herunder React, TensorFlow og Docker. Selvom kandidaten har mere erfaring end krævet (6 år vs. 4 år), mangler der et match på C++ og Kubernetes, hvilket er væsentlige kompetencer i jobbeskrivelsen. Derfor vurderes matchet som tilfredsstillende, men ikke perfekt.
+R896;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Deep Learning, Power BI, PyTorch, Node.js, Docker, TensorFlow, Flask, NLP
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Google Data Analytics";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Flask, Cloud Computing, Java.";45;0;Kandidaten mangler den krævede erfaring (4 år) og har en Professional Summary, der angiver 2 års erfaring. Selvom kandidaten besidder nogle af de ønskede færdigheder som Flask, er det samlede match svækkes betydeligt af den manglende erfaring og den primære fokus på andre teknologier.
+R264;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Django, Deep Learning, SQL
+
+Experience:
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Google Data Analytics";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: Docker, Kubernetes, NLP, Cloud Computing, TensorFlow.";68;1;Kandidaten har en stærk baggrund inden for deep learning og TensorFlow, hvilket matcher et afgørende element i jobbeskrivelsen. Dog mangler kandidaten eksplicit erfaring med Docker, Kubernetes, NLP og Cloud Computing, som er centrale teknologier i stillingen, hvilket trækker ned.
+R64;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+PyTorch, Java, Docker, SQL, Deep Learning
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Microsoft Azure";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Node.js, Kubernetes, Django, Java, Power BI, TensorFlow, C++.";62;1;Kandidaten har en stærk baggrund inden for Java, men mangler flere afgørende teknologier som Node.js, Kubernetes, Django, Power BI og TensorFlow, hvilket er kritisk i forhold til jobbeskrivelsen. Selvom erfaringen (7 år) overstiger kravet (6 år), opvejer manglen på specifikke kompetencer dette.
+R1189;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+C++, Cloud Computing, Power BI
+
+Experience:
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Django, C++, Deep Learning, Java, SQL, React.";38;0;Kandidaten mangler den krævede Django og Java erfaring, samt Deep Learning ekspertise, hvilket er afgørende for stillingen som Backend Developer. Selvom kandidaten har C++ færdigheder og relevant projektarbejde med React, opvejer det ikke manglen på de specifikke teknologier nævnt i jobbeskrivelsen.
+R12;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+Java, PyTorch, React, NLP, Python
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+AWS Certified, Google Data Analytics";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Java, SQL, Flask, Cloud Computing, Django, Deep Learning, Machine Learning.";78;1;Kandidaten har en stærk baggrund inden for data science og machine learning, hvilket overlapper med nogle af de ønskede færdigheder i jobbeskrivelsen. Dog mangler kandidaten eksplicit erfaring med Django og Flask, som er nævnt som nødvendige kompetencer, hvilket reducerer den samlede score.
+R506;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+C++, Power BI, Node.js, Docker, SQL, PyTorch, Excel
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 1 years.
+Skills required: Java, SQL, PyTorch, Excel, Flask, Cloud Computing.";78;1;Kandidaten har en stærk profil med relevante færdigheder som SQL, PyTorch og Excel. Selvom kandidatens erfaring (9 år) overstiger det krævede (1 år), er der et mismatch i forhold til Java og Flask, hvilket reducerer den samlede score.
+R176;"Professional Summary:
+Candidate with 7 years of experience.
+
+Skills:
+Kubernetes, Django, Excel, PyTorch, Docker, Flask
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified, Google Data Analytics";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: PyTorch, Django, NLP, Kubernetes, React, Node.js.";85;1;Kandidaten matcher godt på flere afgørende punkter, herunder Kubernetes, Django og PyTorch. Selvom Node.js og React specifikt nævnes i jobbeskrivelsen, er der indikationer på erfaring med React via projektbeskrivelserne, hvilket dækker det grundlæggende behov.
+R200;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+NLP, Kubernetes, TensorFlow, Docker, C++, Cloud Computing, Java
+
+Experience:
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Microsoft Azure";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: Django, NLP, Power BI, SQL.";78;1;Kandidaten har en stærk baggrund inden for backend-udvikling med erfaring i NLP, men mangler eksplicit Django-erfaring, hvilket er et centralt krav. Selvom kandidatens færdigheder og erfaring er relevante, trækker den manglende Django-kompetence ned.
+R27;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Python, TensorFlow, Java, Docker, Machine Learning, Cloud Computing
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: Power BI, Deep Learning, React, Machine Learning.";38;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten har nogle relevante færdigheder som Machine Learning og Python, opvejer det ikke den manglende erfaring og de specifikke krav om Power BI, Deep Learning og React.
+R388;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+React, Cloud Computing, Excel, Kubernetes, Python
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified, Microsoft Azure";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: TensorFlow, SQL, Excel, Power BI, Java, Django, Flask.";35;0;Kandidaten mangler den primære backend-fokus, som stillingen kræver (Java, Django, Flask), hvilket er et kritisk element i kernematch. Selvom kandidaten har Python-erfaring og Power BI-færdigheder, opvejer det ikke manglen på de specifikke backend-teknologier.
+R324;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+C++, Kubernetes, Power BI
+
+Experience:
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: React, Flask, Data Analysis, Docker, Kubernetes, Java, Cloud Computing.";78;1;Kandidaten har en stærk baggrund inden for backend-udvikling, selvom der mangler direkte erfaring med React og Flask. Kandidatens Kubernetes-erfaring matcher jobbeskrivelsen, og de beskrevne projekter indikerer evner inden for datahåndtering og systemdesign.
+R250;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+SQL, Node.js, Machine Learning, NLP, Kubernetes, C++
+
+Experience:
+- Deployed applications using cloud services
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 2 years.
+Skills required: Data Analysis, Django, SQL, Excel, NLP, Docker, Cloud Computing, Flask.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for backend-udvikling, selvom de overstiger det ønskede erfaringsniveau. De besidder flere af de efterspurgte færdigheder (SQL, NLP) og har demonstreret praktisk anvendelse gennem projekter og cloud deployment.
+R1082;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Node.js, React, Python, SQL, TensorFlow
+
+Experience:
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+
+Projects:
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 2 years.
+Skills required: PyTorch, SQL, Deep Learning.";38;0;Kandidaten mangler den krævede erfaring (2 år) og har ingen direkte PyTorch-erfaring, hvilket er et kritisk krav i jobbeskrivelsen. Selvom kandidaten besidder andre relevante færdigheder som SQL, Python og TensorFlow, samt demonstrerer praktiske projekter, trækker manglen på den specifikke erfaring og det primære værktøj scoren markant ned.
+R557;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Deep Learning, NLP, React, Python
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization, NLP Certification";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Power BI, TensorFlow, Kubernetes.";68;0;Kandidaten har en stærk baggrund inden for backend-udvikling med Python og webapplikationserfaring, men mangler de specificerede færdigheder Power BI, TensorFlow og Kubernetes. Selvom erfaringen er relevant og overstiger det krævede antal år, udgør fraværet af de specifikke teknologier en betydelig ulempe.
+R1207;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Power BI, Docker, SQL, Deep Learning, PyTorch, Node.js
+
+Experience:
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+- Collaborated with cross-functional teams
+
+Projects:
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Microsoft Azure";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: Flask, Excel, Node.js, Django, TensorFlow, Deep Learning.";78;0;Kandidaten mangler det krævede antal års erfaring (5 år vs. 4 år), men har flere relevante kompetencer som Node.js og Deep Learning, samt erfaring med Flask via et projekt. Selvom der er en mindre uoverensstemmelse i erfaringen, opvejes dette delvist af den praktiske erfaring med de nævnte teknologier.
+R49;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+SQL, Kubernetes, Python, Excel, React
+
+Experience:
+- Collaborated with cross-functional teams
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+
+Projects:
+- Created interactive dashboards using Power BI
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Microsoft Azure, AWS Certified";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Cloud Computing, Power BI, SQL, Django, React, Docker, Deep Learning.";35;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et betydeligt mismatch i forhold til kernen i jobbet som Backend Developer. Selvom kandidaten besidder flere relevante færdigheder (SQL, React), opvejer det ikke den manglende erfaring og de specifikke teknologier som Django og Docker.
+R320;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+TensorFlow, C++, NLP, React
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Node.js, Java, Kubernetes, Excel.";75;1;Kandidaten har en stærk baggrund inden for backend-udvikling, da de har erfaring med Node.js og design af backend systemer. Dog mangler kandidaten eksplicit Java og Kubernetes kompetencer, hvilket trækker ned i den samlede vurdering.
+R407;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+NLP, React, Django, Flask, Excel, C++
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: NLP, Excel, Kubernetes, Django, Deep Learning, Power BI, React, Data Analysis.";82;1;Kandidaten matcher godt på flere områder, herunder NLP, Django, Excel og React. Selvom Kubernetes, Deep Learning og Power BI ikke er eksplicit nævnt, indikerer projektbeskrivelsen om churn-forudsigelse og TensorFlow-brug en forståelse for relaterede koncepter inden for deep learning, hvilket kan kompensere.
+R613;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Deep Learning, Java, Kubernetes, TensorFlow, Node.js, Machine Learning, SQL, Python
+
+Experience:
+- Optimized model performance and accuracy
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: React, Docker, Data Analysis, Kubernetes, Power BI, Machine Learning.";58;0;Kandidaten mangler den krævede erfaring (4 år) og har en Professional Summary, der angiver kun 2 års erfaring. Selvom kandidaten besidder flere relevante færdigheder som Kubernetes og Machine Learning, er det primære fokus i jobbeskrivelsen på Backend Development, hvor kandidatens CV mangler specifikke backend-relaterede projekter udover Flask/React webapplikationen.
+R108;"Professional Summary:
+Candidate with 8 years of experience.
+
+Skills:
+SQL, Deep Learning, Python, Data Analysis
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization, AWS Certified";"We are hiring a Backend Developer.
+Required experience: 1 years.
+Skills required: Python, PyTorch, Node.js, Excel, React, Deep Learning.";85;1;Kandidaten har en stærk baggrund inden for Deep Learning og Python, hvilket matcher jobbeskrivelsens krav. Selvom kandidatens erfaring (8 år) overstiger det krævede (1 år), og der mangler specifikke nævnelser af Node.js og React, opvejes dette af den dybe ekspertise inden for de centrale områder.
+R925;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Flask, Java, Excel, Cloud Computing, Python
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+Google Data Analytics";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Kubernetes, Excel, Flask, NLP, Power BI, Django, Java, PyTorch.";28;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et kritisk punkt. Selvom kandidaten besidder nogle af de ønskede færdigheder (Flask, Java, Excel, Power BI), opvejer det ikke manglen på erfaring og specifikke kompetencer som Kubernetes, NLP, Django og PyTorch, der er essentielle for en Backend Developer rolle.
+R297;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Django, Java, Docker, Node.js, SQL
+
+Experience:
+- Worked on real-world data science projects
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Google Data Analytics";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Data Analysis, Power BI, Cloud Computing, Docker, Django, Deep Learning, Excel, Node.js.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for backend-udvikling, herunder Django, Docker og Node.js, som er nævnt i jobbeskrivelsen. Selvom kandidaten har 10 års erfaring mod de krævede 4 år, kompenserer den beskrevne praktiske erfaring og kompetencer for dette.
+R33;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Node.js, C++, Machine Learning, Data Analysis, Deep Learning, PyTorch, NLP
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: Deep Learning, React, Machine Learning, Python, C++.";68;1;Kandidaten mangler den krævede erfaring (3 år vs. 2 år), men har flere relevante kompetencer som Machine Learning, Deep Learning og C++. Selvom der er et match på nogle færdigheder, trækker det manglende antal års erfaring ned.
+R816;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+SQL, Cloud Computing, Machine Learning, Django, Java, NLP
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Docker, Python, SQL, C++, Machine Learning, Power BI, Deep Learning, Cloud Computing.";38;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et betydeligt problem. Selvom kandidaten besidder flere relevante færdigheder som SQL, Cloud Computing og Machine Learning, opvejer det ikke manglen på de specifikke teknologier (Docker, C++, Power BI, Deep Learning) der efterspørges i jobbeskrivelsen.
+R117;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+C++, SQL, Flask, React, TensorFlow, Cloud Computing
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: TensorFlow, Node.js, Flask, Java, Kubernetes, NLP.";58;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er en væsentlig faktor. Selvom kandidaten besidder flere af de ønskede færdigheder (Flask, TensorFlow), opvejer det ikke den manglende erfaring og fraværet af Java og Node.js.
+R410;"Professional Summary:
+Candidate with 10 years of experience.
+
+Skills:
+Deep Learning, Excel, Django, PyTorch, React, Machine Learning, C++, Kubernetes
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 2 years.
+Skills required: Node.js, Data Analysis, Flask.";65;0;Kandidaten har en betydelig erfaring og et bredt sæt færdigheder, men mangler direkte erfaring med Node.js og Flask, som er eksplicit nævnt i jobbeskrivelsen. Selvom kandidatens Django-erfaring kan være relevant, opvejer det ikke den manglende specifikke kompetence.
+R39;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+C++, Kubernetes, Java, Django, Node.js, NLP
+
+Experience:
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+AWS Certified, Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: React, Django, Java, Data Analysis, Deep Learning.";78;0;Kandidaten matcher godt på flere teknologier (Java, Django) og har erfaring med Deep Learning. Dog mangler kandidaten det krævede antal år (5 vs. 4), hvilket trækker ned, men den praktiske erfaring med data science projekter og implementering af deep learning modeller kompenserer delvist.
+R312;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+SQL, Flask, Machine Learning, PyTorch
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 1 years.
+Skills required: React, Machine Learning, Excel.";68;0;Kandidaten matcher godt på flere områder, især med hensyn til Machine Learning og Flask/React udvikling. Dog er den angivne erfaring på 0 år i CV'et i direkte modstrid med jobbeskrivelsens krav om 1 års erfaring, hvilket trækker scoren ned.
+R252;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Django, C++, NLP, Machine Learning, PyTorch
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: React, Power BI, Data Analysis.";58;0;Kandidaten mangler den krævede erfaring (5 år) og har ikke React eller Power BI, som er eksplicit nævnt i jobbeskrivelsen. Selvom kandidaten demonstrerer backend-kompetencer gennem Node.js projekter og cloud deployment, opvejer det ikke fuldstændigt manglen på de specifikke teknologier og den nødvendige erfaring.
+R456;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Docker, Excel, SQL, Python, Flask, Node.js, Kubernetes, Cloud Computing
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Excel, Deep Learning, SQL, Cloud Computing, Node.js, Django.";65;0;Kandidaten mangler den krævede erfaring på 4 år, hvilket er et betydeligt minus. Selvom kandidaten besidder flere af de ønskede færdigheder (SQL, Excel, Node.js, Cloud Computing), opvejer det ikke den manglende erfaring og den lavere samlede erfaring.
+R556;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Data Analysis, SQL, Deep Learning, Machine Learning, Docker, React, Node.js
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+- Deployed applications using cloud services
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Developed a web application using Flask and React
+- Created interactive dashboards using Power BI
+
+Certifications:
+Deep Learning Specialization, Microsoft Azure";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: React, Data Analysis, NLP, Python, Kubernetes, Machine Learning, Flask, Java.";58;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidatens færdigheder overlapper med flere af de ønskede (React, Machine Learning, Data Analysis, Flask), opvejer det ikke den manglende erfaring og Java-kompetence, der er essentielt for en Backend Developer rolle.
+R576;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Kubernetes, Power BI, NLP, SQL, Excel, Java, React
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+- Optimized model performance and accuracy
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: Django, Java, SQL, Cloud Computing, NLP, Python, Node.js.";38;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder nogle af de ønskede færdigheder (SQL, NLP, Java), matcher baggrunden ikke kernen i en Backend Developer-rolle med de specificerede teknologier som Django, Python og Node.js.
+R80;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Python, Docker, TensorFlow, Django, Kubernetes, Excel
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Deep Learning, Cloud Computing, SQL.";65;0;Kandidaten mangler den krævede erfaring på 4 år, hvilket er et væsentligt punkt. Selvom kandidaten besidder flere relevante færdigheder som Python, Docker, TensorFlow og Kubernetes, samt har erfaring med cloud-baserede deployment og data processing, opvejer det ikke fuldstændigt manglen på den specificerede backend udviklingserfaring.
+R85;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Cloud Computing, Data Analysis, NLP, React, Excel, Power BI, Flask
+
+Experience:
+- Collaborated with cross-functional teams
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+
+Certifications:
+NLP Certification";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Java, PyTorch, C++, React, Node.js.";38;0;Kandidaten mangler den krævede Java, PyTorch og C++ erfaring, hvilket er afgørende for en Backend Developer rolle. Selvom kandidaten har React-erfaring og har arbejdet med dataanalyse og machine learning, opvejer det ikke manglen på de specifikke backend-teknologier.
+R308;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Power BI, Python, Machine Learning, Excel, PyTorch, Java
+
+Experience:
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+- Collaborated with cross-functional teams
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization, Microsoft Azure";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: PyTorch, Python, Excel, NLP, C++, TensorFlow, SQL, React.";85;1;Kandidaten har en stærk profil med relevant erfaring inden for backend-udvikling, selvom den primære jobbeskrivelse ikke eksplicit nævner Node.js, som kandidaten har erfaring med. Kandidatens kompetencer indenfor Python, PyTorch, TensorFlow og SQL matcher direkte jobbeskrivelsen, hvilket indikerer et godt potentiale.
+R153;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Power BI, NLP, Django, SQL, Kubernetes, Flask, Python, Deep Learning
+
+Experience:
+- Collaborated with cross-functional teams
+- Worked on real-world data science projects
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Google Data Analytics";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Cloud Computing, React, Python.";35;0;Kandidaten mangler den krævede erfaring (4 år) og har en professional summary, der angiver 0 års erfaring. Selvom kandidaten besidder flere relevante færdigheder som Python og Kubernetes, er det primære krav om backend-udvikling ikke tilstrækkeligt understøttet af CV'et på grund af manglende erfaring.
+R126;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+Machine Learning, Power BI, Data Analysis, Docker, Flask, React
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Developed a web application using Flask and React
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: TensorFlow, Excel, NLP, Cloud Computing, Docker.";68;1;Kandidaten har en stærk baggrund inden for backend-udvikling med erfaring i relevante teknologier som Docker, Flask og Node.js, men mangler eksplicit erfaring med TensorFlow, Excel og NLP, hvilket er afgørende for stillingen. Selvom kandidatens samlede erfaring overstiger kravet, vægter kernematch tungest, og den manglende specifikke kompetencer trækker ned.
+R54;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+Kubernetes, Flask, Machine Learning, React, Docker, Power BI
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Designed scalable backend systems using Node.js
+- Developed a web application using Flask and React
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: PyTorch, TensorFlow, Cloud Computing, Kubernetes, C++, Excel, Deep Learning, Power BI.";32;0;Kandidaten mangler den krævede erfaring på 5 år, og CV'et indikerer ikke en dybdegående ekspertise i PyTorch eller TensorFlow, som er centrale for stillingen. Selvom der er overlap i nogle færdigheder (Kubernetes, Power BI), opfylder kandidaten ikke kernen i jobbeskrivelsen som Backend Developer med de specificerede teknologier og erfaring.
+R185;"Professional Summary:
+Candidate with 5 years of experience.
+
+Skills:
+Excel, Deep Learning, Java, C++, Machine Learning, Kubernetes, PyTorch, Python
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+
+Projects:
+- Designed scalable backend systems using Node.js
+
+Certifications:
+NLP Certification, Google Data Analytics";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: C++, Java, Kubernetes, Node.js, Data Analysis, React, Cloud Computing, NLP.";85;1;Kandidaten matcher godt på de tekniske færdigheder, der er efterspurgt i jobbeskrivelsen (Java, C++, Kubernetes), og har relevant erfaring med backend-systemer og cloud deployment. Selvom React ikke nævnes specifikt, dækker kandidatens data science baggrund over mange af de underliggende principper.
+R63;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Deep Learning, Power BI, Machine Learning, PyTorch, React
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Deep Learning Specialization, NLP Certification";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: Cloud Computing, PyTorch, Deep Learning, Django, Java, Power BI, Flask, TensorFlow.";75;1;Kandidaten matcher godt på flere områder, herunder Deep Learning, PyTorch, Flask og cloud-erfaring. Dog mangler kandidaten eksplicit Java og TensorFlow i deres beskrevne erfaring, hvilket er væsentlige kompetencer nævnt i jobbeskrivelsen, men ikke udslagsgivende nok til at trække scoren under 70.
+R58;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+SQL, Deep Learning, Python, PyTorch, Docker, Excel
+
+Experience:
+- Optimized model performance and accuracy
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: SQL, Java, Deep Learning, NLP, Kubernetes, C++, Python.";38;0;Kandidaten mangler den krævede erfaring på 6 år, og selvom der er overlap i nogle færdigheder (SQL, Deep Learning, Python), opfylder CV'et ikke de centrale krav til en Backend Developer-stilling med fokus på Java, C++, Kubernetes og NLP. Kernematch er derfor svag, hvilket trækker scoren ned.
+R1154;"Professional Summary:
+Candidate with 4 years of experience.
+
+Skills:
+Power BI, Docker, SQL, Django
+
+Experience:
+- Worked on real-world data science projects
+- Handled large-scale data processing tasks
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: Power BI, React, Deep Learning, Kubernetes, Machine Learning, Java.";68;0;Kandidaten mangler den krævede erfaring (5 år vs. 4 år), men har nogle relevante færdigheder som Power BI og erfaring med deep learning projekter, hvilket indikerer potentiale. Selvom Java er en central backend-teknologi der mangler, kompenserer de øvrige kompetencer delvist for dette.
+R344;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Django, Kubernetes, React, Excel, C++, PyTorch
+
+Experience:
+- Worked on real-world data science projects
+
+Projects:
+- Created interactive dashboards using Power BI
+- Developed a web application using Flask and React
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Django, Power BI, Deep Learning, React, Excel.";85;1;Kandidaten matcher jobbeskrivelsen godt, da de har den krævede erfaring på 6 år og flere af de ønskede færdigheder som Django og React. Selvom kandidaten ikke nævner Flask specifikt i forhold til backend-udvikling, er Flasks formål meget lig med Django, hvilket indikerer en forståelse for backend-rammeværker.
+R23;"Professional Summary:
+Candidate with 6 years of experience.
+
+Skills:
+Node.js, TensorFlow, Cloud Computing, Django, C++, Flask, Docker, Excel
+
+Experience:
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+- Implemented deep learning models using TensorFlow
+
+Certifications:
+Microsoft Azure";"We are hiring a Backend Developer.
+Required experience: 2 years.
+Skills required: Power BI, Excel, Django, SQL, Docker, Deep Learning.";85;1;Kandidaten matcher kernen i stillingen som Backend Developer, da vedkommende har erfaring med Django og Docker, hvilket er nævnt i jobbeskrivelsen. Selvom kandidatens færdighedssæt er bredere end specifikt angivet, demonstrerer CV'et praktisk erfaring med relevante teknologier.
+R263;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Java, Deep Learning, Python, React, Django, Cloud Computing
+
+Experience:
+- Handled large-scale data processing tasks
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 5 years.
+Skills required: Django, Docker, C++, Cloud Computing, Flask, Machine Learning, TensorFlow, React.";35;0;Kandidaten mangler den krævede erfaring på 5 år, hvilket er et kritisk punkt. Selvom kandidaten besidder flere relevante færdigheder som Django, React og Cloud Computing, samt har udført relaterede projekter, opvejer dette ikke det store gab i erfaring, der definerer kernen i stillingen.
+R94;"Professional Summary:
+Candidate with 9 years of experience.
+
+Skills:
+React, NLP, C++, Java, Python, Deep Learning
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+- Worked on real-world data science projects
+
+Projects:
+- Created interactive dashboards using Power BI
+
+Certifications:
+Deep Learning Specialization";"We are hiring a Backend Developer.
+Required experience: 4 years.
+Skills required: Excel, Data Analysis, Machine Learning, Cloud Computing, SQL, Docker.";78;1;Kandidaten har en stærk baggrund inden for data science og softwareudvikling, men CV'et mangler eksplicitte referencer til SQL og Docker, som er specificeret i jobbeskrivelsen. Selvom kandidatens erfaring overstiger kravet, og de beskrevne opgaver er relevante, er der et behov for at demonstrere færdigheder indenfor de specifikke værktøjer nævnt i stillingsopslaget.
+R147;"Professional Summary:
+Candidate with 0 years of experience.
+
+Skills:
+Docker, Node.js, Cloud Computing, Kubernetes, Deep Learning, SQL
+
+Experience:
+- Handled large-scale data processing tasks
+- Optimized model performance and accuracy
+
+Projects:
+- Developed a web application using Flask and React
+- Built a machine learning model for predicting customer churn
+- Designed scalable backend systems using Node.js
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 3 years.
+Skills required: NLP, Machine Learning, Power BI, Node.js.";35;0;Kandidaten mangler den krævede erfaring (3 år) og har en professionel summary, der angiver 0 års erfaring. Selvom kandidaten besidder nogle relevante færdigheder som Node.js og har udført projekter med relevans for backend-udvikling, opvejer det ikke den manglende erfaring, hvilket resulterer i en lav score.
+R266;"Professional Summary:
+Candidate with 2 years of experience.
+
+Skills:
+Django, Kubernetes, Flask, Power BI, C++, Machine Learning, Excel
+
+Experience:
+- Handled large-scale data processing tasks
+- Deployed applications using cloud services
+- Collaborated with cross-functional teams
+
+Projects:
+- Built a machine learning model for predicting customer churn
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: TensorFlow, Power BI, NLP, SQL, Docker.";38;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et betydeligt problem. Selvom kandidaten har nogle relevante færdigheder som Power BI og Machine Learning, opvejer det ikke manglen på de specifikke teknologier (TensorFlow, NLP, Docker) der efterspørges i jobbeskrivelsen.
+R1019;"Professional Summary:
+Candidate with 3 years of experience.
+
+Skills:
+Node.js, React, C++, Deep Learning, SQL
+
+Experience:
+- Deployed applications using cloud services
+- Handled large-scale data processing tasks
+
+Projects:
+- Developed a web application using Flask and React
+- Created interactive dashboards using Power BI
+
+Certifications:
+None";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Machine Learning, Deep Learning, SQL, Cloud Computing.";35;0;Kandidaten mangler den krævede erfaring på 6 år, hvilket er et væsentligt punkt. Selvom kandidaten har nogle relevante færdigheder som SQL og Deep Learning, opvejer det ikke den manglende erfaring og de specifikke kompetencer inden for Machine Learning og Cloud Computing, der er afgørende for stillingen.
+R1208;"Professional Summary:
+Candidate with 1 years of experience.
+
+Skills:
+NLP, PyTorch, Excel, C++, Docker, TensorFlow
+
+Experience:
+- Handled large-scale data processing tasks
+- Collaborated with cross-functional teams
+
+Projects:
+- Implemented deep learning models using TensorFlow
+- Developed a web application using Flask and React
+
+Certifications:
+AWS Certified";"We are hiring a Backend Developer.
+Required experience: 6 years.
+Skills required: Cloud Computing, Kubernetes, PyTorch, Machine Learning, SQL, Flask.";38;0;Kandidaten mangler den krævede erfaring (6 år) og har ikke direkte erfaring med Cloud Computing eller Kubernetes, hvilket er afgørende for stillingen som Backend Developer. Selvom kandidaten besidder nogle relevante færdigheder som PyTorch og Flask, opvejer det ikke den manglende kernekompetence og erfaring.
