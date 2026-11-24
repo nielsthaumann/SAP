@@ -250,6 +250,14 @@ annotate view ZC_SPAC112_ATS with
   } ]
   SimilarityScore;
   
+  @UI.lineItem:       [ { position: 180, label: 'AI Score' } ]
+  @UI.identification: [ { position: 180, label: 'AI Score' } ]
+  AiScore;
+  
+  @UI.lineItem:       [ { position: 190, label: 'AI Feedback' } ]
+  @UI.identification: [ { position: 190, label: 'AI Feedback' } ]
+  AiFeedback;
+  
   @UI.identification: [ {
     position: 180 
   } ]

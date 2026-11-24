@@ -1,16 +1,16 @@
 @Metadata.allowExtensions: true
 @Metadata.ignorePropagatedAnnotations: true
-@Endusertext: {
-  Label: '###GENERATED Core Data Service Entity'
+@EndUserText: {
+  label: '###GENERATED Core Data Service Entity'
 }
-@Objectmodel: {
-  Sapobjectnodetype.Name: 'ZSPAC112_ATS'
+@ObjectModel: {
+  sapObjectNodeType.name: 'ZSPAC112_ATS'
 }
 @AccessControl.authorizationCheck: #MANDATORY
 define root view entity ZC_SPAC112_ATS
-  provider contract TRANSACTIONAL_QUERY
+  provider contract transactional_query
   as projection on ZR_SPAC112_ATS
-  association [1..1] to ZR_SPAC112_ATS as _BaseEntity on $projection.RESUMEID = _BaseEntity.RESUMEID
+  association [1..1] to ZR_SPAC112_ATS as _BaseEntity on $projection.ResumeID = _BaseEntity.ResumeID
 {
   key ResumeID,
   ResumeText,
@@ -29,24 +29,26 @@ define root view entity ZC_SPAC112_ATS
   FinalScore,
   Shortlisted,
   SimilarityScore,
+  AiScore,
+  AiFeedback, 
   @Semantics: {
-    User.Createdby: true
+    user.createdBy: true
   }
   CreatedBy,
   @Semantics: {
-    Systemdatetime.Createdat: true
+    systemDateTime.createdAt: true
   }
   CreatedAt,
   @Semantics: {
-    User.Lastchangedby: true
+    user.lastChangedBy: true
   }
   LastChangedBy,
   @Semantics: {
-    Systemdatetime.Lastchangedat: true
+    systemDateTime.lastChangedAt: true
   }
   LastChangedAt,
   @Semantics: {
-    Systemdatetime.Localinstancelastchangedat: true
+    systemDateTime.localInstanceLastChangedAt: true
   }
   LocalLastChanged,
   _BaseEntity
